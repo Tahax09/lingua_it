@@ -1,0 +1,17 @@
+# OS
+.DS_Store
+
+# Obsidian per-user workspace state
+.obsidian/
+
+# Local tooling / caches
+.claude/
+.claude-flow/
+.repowise/
+.swarm/
+node_modules/
+ruvector.db
+graphify-out/
+
+# Obsidian default note
+Welcome.md

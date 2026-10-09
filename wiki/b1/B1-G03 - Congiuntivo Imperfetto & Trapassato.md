@@ -1,0 +1,40 @@
+---
+id: B1-G03
+aliases: [B1-G03]
+title: "Congiuntivo Imperfetto & Trapassato"
+level: B1
+type: grammar
+sources: ["B1 Part 1 · 1.8"]
+status: Not Reviewed
+last_reviewed:
+weak_areas: []
+tags: [b1, grammar]
+---
+
+# B1-G03 — Congiuntivo Imperfetto & Trapassato
+
+> Level **B1** · grammar
+
+## Congiuntivo imperfetto & trapassato (past subjunctive)
+<!-- src: B1 Part 1 · 1.8 -->
+
+Your pack calls one form 'past subjunctive' — there are in fact two different tenses:
+
+| **Tense**                  | **Formation**                                                                                                                                                                           | **Esempio**                                                          |
+|----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|
+| **Congiuntivo imperfetto** | parlassi · parlassi · parlasse · parlassimo · parlaste · parlassero (essere: fossi, fossi, fosse, fossimo, foste, fossero; avere: avessi…; fare: facessi; dire: dicessi; stare: stessi) | Pensavo che fosse più facile. · Speravo che venisse anche lui.       |
+| **Congiuntivo trapassato** | avessi / fossi + participio passato                                                                                                                                                     | Credevo che avessero già finito. · Credevo che tu fossi già partito. |
+| **Congiuntivo passato**    | abbia / sia + participio passato (past action after a present main verb)                                                                                                                | Credo che abbiano già finito. · Mi dispiace che non sia venuto.      |
+
+Sequence of tenses: present main verb → present or passato subjunctive (Penso che sia / sia stato). Past main verb or conditional → imperfetto or trapassato (Pensavo che fosse · Vorrei che tu fossi qui · Avrei voluto che tu fossi venuto).
+
+| **Italiano**                                                                | **English**                                                | **Comment**                         |
+|-----------------------------------------------------------------------------|------------------------------------------------------------|-------------------------------------|
+| Vorrei che tu fossi qui.                                                    | I wish you were here.                                      | Imperfetto — wish about the present |
+| Avrei voluto che tu fossi venuto.                                           | I would have liked you to come.                            | Trapassato — regret about the past  |
+| Sarebbe stato meglio che tu avessi aspettato.                               | It would have been better if you had waited.               | Trapassato                          |
+| Mi dispiace che non sia venuto. · Peccato che non abbia potuto partecipare. | I'm sorry he didn't come. · Too bad he couldn't take part. | Congiuntivo passato                 |
+
+*Corrections to your pack: «Vorrei che io fossi venuto» and «Vorrei che fossi stato qui ieri» are unnatural. Use Avrei voluto che… / Vorrei che… + imperfetto for the present, and Avrei voluto che… + trapassato for the past. «Speravo che noi fossimo insieme» is fine (imperfetto). The pack's garbled «Vorrei che (noi - essere) stati insieme» → «Avrei voluto che fossimo stati insieme» or «Vorrei che fossimo insieme».*
+
+بالعربية: لدينا زمنان: congiuntivo imperfetto (fossi، avessi، parlassi) للرغبة في الحاضر، وcongiuntivo trapassato (fossi venuto، avessi studiato) للندم على الماضي.
