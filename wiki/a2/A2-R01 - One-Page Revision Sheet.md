@@ -44,4 +44,4 @@ tags: [a2, revision]
 | Più bello che lui          | Più bello di lui      |
 | Ho abitato qui da due anni | Abito qui da due anni |
 
-This is the enhancement for level A2, tuned to the exam paper you sent (passato prossimo, imperfetto, futuro semplice). It adds the full participle list, the essere/avere rules, a clear passato prossimo vs imperfetto method, irregular futures, the conditional, object pronouns, time expressions and the mistakes Arabic speakers make. Then 100 new exercise items with a key and a one-page revision sheet.
+This is the enhancement for level A2, focused on the core A2 exam topics (passato prossimo, imperfetto, futuro semplice). It adds the full participle list, the essere/avere rules, a clear passato prossimo vs imperfetto method, irregular futures, the conditional, object pronouns, time expressions and the mistakes Arabic speakers make. Then 100 new exercise items with a key and a one-page revision sheet.

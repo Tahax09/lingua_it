@@ -60,7 +60,7 @@ Used for an action happening right now, in this exact moment — not a habit. Co
 >
 > ***Es:** Cosa stai facendo?* — What are you doing? — ماذا تفعل الآن؟
 
-*Bonus use (from your own notes): the gerund alone (without stare) links two simultaneous actions.*
+*Bonus use: the gerund alone (without stare) links two simultaneous actions.*
 
 > ***Es:** Camminando, ho incontrato Maria.* — While walking, I met Maria.
 >

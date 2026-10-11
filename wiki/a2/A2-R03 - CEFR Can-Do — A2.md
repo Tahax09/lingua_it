@@ -18,7 +18,7 @@ tags: [a2, revision]
 ## A2 (recap — full detail in the A2 grammar pages)
 <!-- src: A2 Part 6 · 6.2 -->
 
-This is the level you're finishing tomorrow. One example per point — see the A2 grammar pages ([[A2-G01 - Avere vs Essere — Choosing the Auxiliary]] → [[A2-G12 - Verb Reference — High-Frequency Verbs Across Tenses]]) for the complete explanations, endings, and irregular verb tables.
+This is the A2 level. One example per point — see the A2 grammar pages ([[A2-G01 - Avere vs Essere — Choosing the Auxiliary]] → [[A2-G12 - Verb Reference — High-Frequency Verbs Across Tenses]]) for the complete explanations, endings, and irregular verb tables.
 
 > ***Es:** Passato prossimo (avere/essere, full agreement rules) → Sono andata al mercato ieri.* — See Part [[A2-G01 - Avere vs Essere — Choosing the Auxiliary]]–4.2
 >

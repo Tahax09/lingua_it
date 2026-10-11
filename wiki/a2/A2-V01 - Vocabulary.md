@@ -248,7 +248,7 @@ All 151 words from your A2 vocabulary pack, grouped by topic. Each entry has the
 | **in orario**        | on time     | في الموعد   | *Il treno è in orario.* / The train is on time.                       |
 | **cancellato**       | cancelled   | ملغى        | *Il volo è stato cancellato.* / The flight has been canceled.         |
 
-## Key nouns from your exam texts
+## Key nouns from A2 exam texts
 <!-- src: A2 Part 3 · 3.1 -->
 
 | **Italiano**              | **English**         | **العربية**      | **Esempio**                                            |

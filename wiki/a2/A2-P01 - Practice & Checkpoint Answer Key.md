@@ -83,10 +83,10 @@ Do the exercises in your pack first, then check here. Under every answer you hav
 
 Record 3 minutes covering: (1) a past story, (2) an opinion, (3) a comparison, (4) future plans, (5) a polite request. Then ask yourself: did all five appear? Did you move between past and future without a long stop? Use the Part 10 models (Day 28, 29, 30, 36, 37) as building blocks and link them with poi, quindi, invece, comunque, per finire.
 
-## Bonus — your 12 June 2026 exam paper (visible questions)
+## Bonus — sample A2 exam paper (Esercizi 1–3)
 <!-- src: A2 Part 11 · 11.5 -->
 
-*These are the items visible on the first page of the paper you sent (Esercizi 1–3).*
+*Answers to a sample A2 paper: passato prossimo, imperfetto, futuro semplice (Esercizi 1–3).*
 
 | **Esercizio**                               | **Answers**                                                                                       |
 |---------------------------------------------|---------------------------------------------------------------------------------------------------|

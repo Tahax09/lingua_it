@@ -36,3 +36,7 @@ Wrote 17 new lessons in the Arabic-lesson style, but bilingual: every explanatio
 Six grammar pages already covered by an Arabic lesson on a sibling page got a cross-link callout instead (A1-G07, A1-G12, A1-G14, A2-G01, B1-G02, B2-G03). Every grammar page now has a lesson.
 
 New page wiki/lessons.md lists all 50 lessons (33 🇸🇦 + 17 🇬🇧🇸🇦) by level, in a suggested study order. index.md and README link to it.
+
+## [2026-10-11] privacy | Personal details removed from lessons and sources
+
+Replaced the learner's name with "Ahmed" in example sentences, and swapped real cities and nationality for generic ones. Exam-specific references (date, "the paper you sent", "finishing tomorrow") now read as generic A2-exam material. Personal job and study details in model answers (degree, company, schedule) were rewritten as a neutral persona. raw/sources/ was edited for the same reason, and only for this. Git author metadata is unchanged, as the learner asked.

@@ -26,9 +26,9 @@ English + Arabic · Study guide · everything for this level in one file.
 
 *Verbs · Vocabulary · A2 Grammar · Oral Exam Prep · CEFR Roadmap A0→B1*
 
-This guide is built from your two exam papers (Simulazione A2 and the June exam) plus your own conjugation notes. It focuses on exactly what those exams test, plus a full map of where you've come from (A0/A1) and where you're going next (B1).
+This guide is built around typical A2 exam papers and conjugation practice. It focuses on what A2 exams test, plus a full map of where you've come from (A0/A1) and where you're going next (B1).
 
-**How to use this tonight (fast-refresh order)**
+**How to use this before an exam (fast-refresh order)**
 
 - 1\. Read Part 3 ('A2 Grammar Explained') once, out loud — it's the logic, not memorization.
 
@@ -38,7 +38,7 @@ This guide is built from your two exam papers (Simulazione A2 and the June exam)
 
 - 4\. Rehearse the 3 Oral Exam answers (Part 4) out loud 2–3 times before sleeping.
 
-- 5\. Part 5 is background reading — the CEFR roadmap — read it when you have spare time, not urgent tonight.
+- 5\. Part 5 is background reading — the CEFR roadmap — read it when you have spare time, not urgent before an exam.
 
 *Tip: in the exam, the clue words (ieri, sempre, domani, se avessi...) tell you which tense to use before you even think about the verb — see the Clue Table in Part 3.*
 
@@ -207,7 +207,7 @@ lunedì (Mon) · martedì (Tue) · mercoledì (Wed) · giovedì (Thu) · venerd�
 
 *Remember: essere, andare, venire, stare, uscire, entrare, partire, arrivare, tornare, nascere, rimanere, morire, diventare take ESSERE in Passato Prossimo (and the participle agrees: -o/-a/-i/-e). Almost everything else takes AVERE.*
 
-## 1.2 Regular verbs from your exams — meaning + example
+## 1.2 Regular verbs from A2 exams — meaning + example
 | **Italiano** | **English**           | **العربية**   | **Esempio (dal tuo esame)**                      |
 |--------------|-----------------------|---------------|--------------------------------------------------|
 | comprare     | to buy                | يشتري         | Ieri Marco ha comprato un computer.              |
@@ -347,7 +347,7 @@ lunedì (Mon) · martedì (Tue) · mercoledì (Wed) · giovedì (Thu) · venerd�
 | cogliere (to pick/gather) | colgo  | cogli  | coglie      | cogliamo  | cogliete | colgono  |
 
 # PART 2 — VOCABULARY
-## 2.1 Key nouns from your exam texts
+## 2.1 Key nouns from A2 exam texts
 | **Italiano**              | **English**         | **العربية**      | **Esempio**                                            |
 |---------------------------|---------------------|------------------|--------------------------------------------------------|
 | il computer               | computer            | الحاسوب          | Marco ha comprato un nuovo computer.                   |
@@ -420,7 +420,7 @@ Both verbs do TWO jobs: (1) they're normal verbs with their own meaning, and (2)
 | Identità (identity)          | Sono Ahmed.                  | I am Ahmed.                                                                                                         |
 | Descrizione (description)    | Sono stanco. Sei alto.      | I am tired. You are tall.                                                                                          |
 | Luogo / posizione (location) | Sono a Roma.                | I am in Rome.                                                                                                      |
-| Nazionalità / professione    | Sono libico. Sei ingegnere. | I am Libyan. You are an engineer.                                                                                  |
+| Nazionalità / professione    | Sono tunisino. Sei ingegnere. | I am Tunisian. You are an engineer.                                                                                  |
 | AUSILIARE — Passato Prossimo | Sono andato/a. Sono nato/a. | I went. I was born. — used with movement / change-of-state / reflexive verbs; participle AGREES in gender & number |
 
 **How to know which auxiliary to use in Passato Prossimo: almost everything takes AVERE by default. ESSERE is the exception, reserved for this specific group of verbs (memorize this list — it's often called 'la casa di essere'):**
@@ -602,7 +602,7 @@ Used for an action happening right now, in this exact moment — not a habit. Co
 >
 > ***Es:** Cosa stai facendo?* — What are you doing? — ماذا تفعل الآن؟
 
-*Bonus use (from your own notes): the gerund alone (without stare) links two simultaneous actions.*
+*Bonus use: the gerund alone (without stare) links two simultaneous actions.*
 
 > ***Es:** Camminando, ho incontrato Maria.* — While walking, I met Maria.
 >
@@ -672,7 +672,7 @@ Sample answer:
 
 Sample answer (childhood memory — uses Imperfetto for habits):
 
-> ***Es:** Da bambino abitavo a Tunisi con la mia famiglia. Ogni estate andavamo al mare e giocavamo sulla spiaggia tutto il giorno. Avevo paura dell'acqua profonda, ma mio padre mi insegnava sempre a nuotare. Un giorno, quando avevo dieci anni, ho nuotato da solo per la prima volta: è stato un momento molto importante per me.* — As a child I lived in Tunisi with my family. Every summer we would go to the sea and play on the beach all day. I was afraid of deep water, but my father always taught me to swim. One day, when I was ten, I swam alone for the first time: it was a very important moment for me.
+> ***Es:** Da bambino abitavo in una piccola città sul mare con la mia famiglia. Ogni estate andavamo al mare e giocavamo sulla spiaggia tutto il giorno. Avevo paura dell'acqua profonda, ma mio padre mi insegnava sempre a nuotare. Un giorno, quando avevo dieci anni, ho nuotato da solo per la prima volta: è stato un momento molto importante per me.* — As a child I lived in a small town by the sea with my family. Every summer we would go to the sea and play on the beach all day. I was afraid of deep water, but my father always taught me to swim. One day, when I was ten, I swam alone for the first time: it was a very important moment for me.
 
 *Notice the pattern: Imperfetto (abitavo, andavamo, avevo) for the repeated/background part, then ONE Passato Prossimo verb (ho nuotato) for the specific event that stands out.*
 
@@ -680,7 +680,7 @@ Sample answer (childhood memory — uses Imperfetto for habits):
 
 Sample answer:
 
-> ***Es:** Il prossimo weekend studierò per il mio esame di ingegneria e lavorerò un po' per la mia azienda a Tunisi. Sabato sera, però, uscirò con i miei amici e giocheremo insieme. Domenica farò una corsa la mattina, come faccio di solito il lunedì, mercoledì e sabato. In futuro spero di finire il mio master a Bologna e di sviluppare la piattaforma della mia azienda.* — Next weekend I will study for my engineering exam and work a bit for my company in Tunisi. Saturday evening, though, I will go out with my friends and we will play together. Sunday I will go jogging in the morning, as I usually do on Mondays, Wednesdays, and Saturdays. In the future I hope to finish my master's degree in Bologna and develop my company's platform.
+> ***Es:** Il prossimo weekend studierò per il mio esame e lavorerò un po' in negozio. Sabato sera, però, uscirò con i miei amici e giocheremo insieme. Domenica farò una corsa la mattina, come faccio spesso. In futuro spero di trovare un lavoro interessante e di parlare bene l'italiano.* — Next weekend I will study for my exam and work a bit at the shop. Saturday evening, though, I will go out with my friends and we will play together. Sunday I will go jogging in the morning, as I often do. In the future I hope to find an interesting job and speak Italian well.
 
 *Key phrases to reuse: il prossimo weekend..., studierò, lavorerò, uscirò con i miei amici, in futuro spero di + infinito.*
 
@@ -695,7 +695,7 @@ Sample answer:
 - For PARTE 4 (Produzione Scritta, 80-100 parole): open with a time marker, use 2-3 passato prossimo verbs in order, one imperfetto for context, and a closing sentence with 'alla fine' or 'in generale'.
 
 # PART 5 — CEFR ROADMAP: A0 → B1 (grammar with examples)
-*This is cumulative: A1 assumes A0, A2 assumes A1, B1 assumes A2. Read this when you have spare time — it's context, not tonight's cramming material.*
+*This is cumulative: A1 assumes A0, A2 assumes A1, B1 assumes A2. Read this when you have spare time — it's context, not last-minute cramming material.*
 
 ## 5.0 — A0 (Assoluto Principiante)
 The absolute basics — often taught before 'official' A1 begins.
@@ -786,7 +786,7 @@ Presente indicativo is now taught as a full SYSTEM — see Part 0.4 for the comp
 > ***Es:** Ho molto tempo. Ho poco denaro.* — I have a lot of time. I have little money.
 
 ## 5.2 — A2 (recap — full detail in Parts 1–3 of this guide)
-This is the level you're finishing tomorrow. One example per point — see Parts 1–3 for the complete explanations, endings, and irregular verb tables.
+This is the A2 level. One example per point — see Parts 1–3 for the complete explanations, endings, and irregular verb tables.
 
 > ***Es:** Passato prossimo (avere/essere, full agreement rules) → Sono andata al mercato ieri.* — See Part 3.1–3.2
 >
@@ -995,7 +995,7 @@ Formation: avendo/essendo (gerund of avere/essere) + participio passato. Used to
 
 > ***Es:** Avendo finito il lavoro, sono uscito.* — Having finished the work, I went out. — بعد أن أنهيتُ العمل، خرجتُ
 
-*Practical note: given you already work professionally in Italy, congiuntivo and periodo ipotetico will likely be your two biggest new challenges — they're conceptually different from anything in A1/A2, so it's worth flagging to your B1 teacher early.*
+*Practical note: congiuntivo and periodo ipotetico will likely be the two biggest new challenges — they're conceptually different from anything in A1/A2, so it's worth spending extra time on them early.*
 
 # PART 6 — SLANG & EVERYDAY EXPRESSIONS
 Textbook Italian and spoken Italian aren't the same thing — these are the fillers and reactions you'll actually hear from classmates, colleagues, and on the street. Most are casual; a couple are flagged as friends-only.
@@ -1559,8 +1559,8 @@ Do the exercises in your pack first, then check here. Under every answer you hav
 
 Record 3 minutes covering: (1) a past story, (2) an opinion, (3) a comparison, (4) future plans, (5) a polite request. Then ask yourself: did all five appear? Did you move between past and future without a long stop? Use the Part 9 models (Day 28, 29, 30, 36, 37) as building blocks and link them with poi, quindi, invece, comunque, per finire.
 
-## 10.5 Bonus — your 12 June 2026 exam paper (visible questions)
-*These are the items visible on the first page of the paper you sent (Esercizi 1–3).*
+## 10.5 Bonus — sample A2 exam paper (Esercizi 1–3)
+*Answers to a sample A2 paper: passato prossimo, imperfetto, futuro semplice (Esercizi 1–3).*
 
 | **Esercizio**                               | **Answers**                                                                                       |
 |---------------------------------------------|---------------------------------------------------------------------------------------------------|
@@ -1572,7 +1572,7 @@ Record 3 minutes covering: (1) a past story, (2) an opinion, (3) a comparison, (
 ---
 
 # A2 PLUS — DEEPER GRAMMAR, EXTRA EXERCISES & CHEAT SHEET
-This is the enhancement for level A2, tuned to the exam paper you sent (passato prossimo, imperfetto, futuro semplice). It adds the full participle list, the essere/avere rules, a clear passato prossimo vs imperfetto method, irregular futures, the conditional, object pronouns, time expressions and the mistakes Arabic speakers make. Then 100 new exercise items with a key and a one-page revision sheet.
+This is the enhancement for level A2, focused on the core A2 exam topics (passato prossimo, imperfetto, futuro semplice). It adds the full participle list, the essere/avere rules, a clear passato prossimo vs imperfetto method, irregular futures, the conditional, object pronouns, time expressions and the mistakes Arabic speakers make. Then 100 new exercise items with a key and a one-page revision sheet.
 
 ## A2+.1 Passato prossimo — participles
 | **Infinitive ends in** | **Participle** | **Esempio**                             |
@@ -1766,7 +1766,7 @@ Position: before the conjugated verb (Lo compro. · L'ho comprato.), or attached
 
 بالعربية: أخطاء شائعة: استعمال avere مع الأفعال المنعكسة (Mi ho svegliato ✗)، وعدم مطابقة اسم المفعول مع الفاعل (Maria è andato ✗)، واستعمال imperfetto للحدث المنتهي.
 
-## A2+.10 Exam strategy (based on your 12 June paper)
+## A2+.10 Exam strategy (A2 written paper)
 | **Exercise**             | **What to check**                                          | **Quick method**                                                                                 |
 |--------------------------|------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
 | **1 · Passato prossimo** | auxiliary · participle · agreement                         | Ask: movement/reflexive → essere. Then check the participle list. Then agreement.                |
@@ -1834,7 +1834,7 @@ Cover the answers and try each set aloud. 20 sets, 100 items. The last column gi
 
 # SUPPLEMENT A2 — EXTRA CONVERSATIONS, SLANG & EXAM SPEAKING DRILLS
 
-Part 6 (slang) and Part 7 (4 dialogues) of this guide already cover the basics; this supplement adds more practice for the 12 June exam topics: passato prossimo, imperfetto and futuro.
+Part 6 (slang) and Part 7 (4 dialogues) of this guide already cover the basics; this supplement adds more practice for the core A2 exam topics: passato prossimo, imperfetto and futuro.
 
 ## A2.S1 — Five more dialogues
 

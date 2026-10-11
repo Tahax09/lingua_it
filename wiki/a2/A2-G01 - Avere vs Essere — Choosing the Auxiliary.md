@@ -43,7 +43,7 @@ Both verbs do TWO jobs: (1) they're normal verbs with their own meaning, and (2)
 | Identità (identity)          | Sono Ahmed.                  | I am Ahmed.                                                                                                         |
 | Descrizione (description)    | Sono stanco. Sei alto.      | I am tired. You are tall.                                                                                          |
 | Luogo / posizione (location) | Sono a Roma.                | I am in Rome.                                                                                                      |
-| Nazionalità / professione    | Sono libico. Sei ingegnere. | I am Libyan. You are an engineer.                                                                                  |
+| Nazionalità / professione    | Sono tunisino. Sei ingegnere. | I am Tunisian. You are an engineer.                                                                                  |
 | AUSILIARE — Passato Prossimo | Sono andato/a. Sono nato/a. | I went. I was born. — used with movement / change-of-state / reflexive verbs; participle AGREES in gender & number |
 
 **How to know which auxiliary to use in Passato Prossimo: almost everything takes AVERE by default. ESSERE is the exception, reserved for this specific group of verbs (memorize this list — it's often called 'la casa di essere'):**

@@ -63,7 +63,7 @@ tags: [a2, grammar]
 
 *Remember: essere, andare, venire, stare, uscire, entrare, partire, arrivare, tornare, nascere, rimanere, morire, diventare take ESSERE in Passato Prossimo (and the participle agrees: -o/-a/-i/-e). Almost everything else takes AVERE.*
 
-## Regular verbs from your exams — meaning + example
+## Regular verbs from A2 exams — meaning + example
 <!-- src: A2 Part 2 · 2.2 -->
 
 | **Italiano** | **English**           | **العربية**   | **Esempio (dal tuo esame)**                      |

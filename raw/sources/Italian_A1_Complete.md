@@ -916,7 +916,7 @@ Try the exercises first, then check. The right-hand column gives the rule so a m
 |-----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Vocabulary (10)**   | 1 Buongiorno · 2 Mi chiamo… · 3 Non capisco · 4 Quanto costa? · 5 Vorrei un caffè · 6 Per favore · 7 Grazie · 8 Dov'è…? · 9 Abito a… · 10 Ho venticinque anni           |
 | **Grammar -ARE (10)** | 1 lavoro · 2 lavori · 3 lavora · 4 lavoriamo · 5 lavorate · 6 lavorano · 7 mangio · 8 studia · 9 parliamo · 10 abitano                                                  |
-| **Listening (5)**     | Audio-based: 1 Sara. 2–5 depend on the recording, which wasn't in the files you sent. Answer in full sentences: Sara è di…, Sara abita a…, Marco è di…, Sara ha … anni. |
+| **Listening (5)**     | Audio-based: 1 Sara. 2–5 depend on the recording, which is not included. Answer in full sentences: Sara è di…, Sara abita a…, Marco è di…, Sara ha … anni. |
 
 ## 13.3 Week 2 Checkpoint
 | **Section**         | **Answers**                                                                                                                                                                                                                                      |

@@ -955,7 +955,7 @@ Answers for the three B1 checkpoints (Week 7, 8, 9) with the reason for each. Wh
 |---------------------------------------------------------------------|--------------------------------------------------------------|
 | Penso che lui \_\_\_\_\_ ragione. A ha · B abbia · C avere · D abbi | B — abbia (congiuntivo presente of avere after «penso che»). |
 
-*The B1 Practice exercises you pasted aren't included in this key because I no longer have their text — send them again and I'll add them as 16.5.*
+*The original B1 Practice exercises are not included in this key.*
 
 
 ---

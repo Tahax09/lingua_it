@@ -15,7 +15,7 @@ tags: [a1, revision]
 
 > Level **A1** · revision · includes content re-sorted from the A2 file
 
-*This is cumulative: A1 assumes A0, A2 assumes A1, B1 assumes A2. Read this when you have spare time — it's context, not tonight's cramming material.*
+*This is cumulative: A1 assumes A0, A2 assumes A1, B1 assumes A2. Read this when you have spare time — it's context, not last-minute cramming material.*
 
 ## A0 (Assoluto Principiante)  *(moved here from A2 file)*
 <!-- src: A2 Part 6 · 6.0 -->

@@ -196,4 +196,4 @@ Formation: avendo/essendo (gerund of avere/essere) + participio passato. Used to
 
 > ***Es:** Avendo finito il lavoro, sono uscito.* — Having finished the work, I went out. — بعد أن أنهيتُ العمل، خرجتُ
 
-*Practical note: given you already work professionally in Italy, congiuntivo and periodo ipotetico will likely be your two biggest new challenges — they're conceptually different from anything in A1/A2, so it's worth flagging to your B1 teacher early.*
+*Practical note: congiuntivo and periodo ipotetico will likely be the two biggest new challenges — they're conceptually different from anything in A1/A2, so it's worth spending extra time on them early.*

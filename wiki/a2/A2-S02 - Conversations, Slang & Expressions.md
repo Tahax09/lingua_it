@@ -54,7 +54,7 @@ Four realistic dialogues — read them out loud, then try covering the English/A
 | Tu:       | Grazie mille!                                                        | Thank you very much!                                                      | شكراً جزيلاً!                                                     |
 | Passante: | Prego, buona giornata!                                               | You're welcome, have a nice day!                                          | عفواً، يوماً سعيداً!                                               |
 
-The slang and dialogue sections on this page already cover the basics; this supplement adds more practice for the 12 June exam topics: passato prossimo, imperfetto and futuro.
+The slang and dialogue sections on this page already cover the basics; this supplement adds more practice for the core A2 exam topics: passato prossimo, imperfetto and futuro.
 
 ## Five more dialogues
 <!-- src: A2 Part 15 · A2.S1 -->

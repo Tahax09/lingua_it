@@ -22,9 +22,9 @@ tags: [a2, speaking]
 
 *Verbs · Vocabulary · A2 Grammar · Oral Exam Prep · CEFR Roadmap A0→B1*
 
-This guide is built from your two exam papers (Simulazione A2 and the June exam) plus your own conjugation notes. It focuses on exactly what those exams test, plus a full map of where you've come from (A0/A1) and where you're going next (B1).
+This guide is built around typical A2 exam papers and conjugation practice. It focuses on what A2 exams test, plus a full map of where you've come from (A0/A1) and where you're going next (B1).
 
-**How to use this tonight (fast-refresh order)**
+**How to use this before an exam (fast-refresh order)**
 
 - 1\. Read the A2 grammar pages ([[A2-G01 - Avere vs Essere — Choosing the Auxiliary]] onward) once, out loud — it's the logic, not memorization.
 
@@ -34,7 +34,7 @@ This guide is built from your two exam papers (Simulazione A2 and the June exam)
 
 - 4\. Rehearse the 3 Oral Exam answers (below) out loud 2–3 times before sleeping.
 
-- 5\. [[A2-R03 - CEFR Can-Do — A2]] is background reading — the CEFR roadmap — read it when you have spare time, not urgent tonight.
+- 5\. [[A2-R03 - CEFR Can-Do — A2]] is background reading — the CEFR roadmap — read it when you have spare time, not urgent before an exam.
 
 *Tip: in the exam, the clue words (ieri, sempre, domani, se avessi...) tell you which tense to use before you even think about the verb — see [[A2-G11 - Tense Clue Words & Time Structures]].*
 
@@ -52,7 +52,7 @@ Sample answer:
 
 Sample answer (childhood memory — uses Imperfetto for habits):
 
-> ***Es:** Da bambino abitavo a Tunisi con la mia famiglia. Ogni estate andavamo al mare e giocavamo sulla spiaggia tutto il giorno. Avevo paura dell'acqua profonda, ma mio padre mi insegnava sempre a nuotare. Un giorno, quando avevo dieci anni, ho nuotato da solo per la prima volta: è stato un momento molto importante per me.* — As a child I lived in Tunisi with my family. Every summer we would go to the sea and play on the beach all day. I was afraid of deep water, but my father always taught me to swim. One day, when I was ten, I swam alone for the first time: it was a very important moment for me.
+> ***Es:** Da bambino abitavo in una piccola città sul mare con la mia famiglia. Ogni estate andavamo al mare e giocavamo sulla spiaggia tutto il giorno. Avevo paura dell'acqua profonda, ma mio padre mi insegnava sempre a nuotare. Un giorno, quando avevo dieci anni, ho nuotato da solo per la prima volta: è stato un momento molto importante per me.* — As a child I lived in a small town by the sea with my family. Every summer we would go to the sea and play on the beach all day. I was afraid of deep water, but my father always taught me to swim. One day, when I was ten, I swam alone for the first time: it was a very important moment for me.
 
 *Notice the pattern: Imperfetto (abitavo, andavamo, avevo) for the repeated/background part, then ONE Passato Prossimo verb (ho nuotato) for the specific event that stands out.*
 
@@ -60,7 +60,7 @@ Sample answer (childhood memory — uses Imperfetto for habits):
 
 Sample answer:
 
-> ***Es:** Il prossimo weekend studierò per il mio esame di ingegneria e lavorerò un po' per la mia azienda a Tunisi. Sabato sera, però, uscirò con i miei amici e giocheremo insieme. Domenica farò una corsa la mattina, come faccio di solito il lunedì, mercoledì e sabato. In futuro spero di finire il mio master a Bologna e di sviluppare la piattaforma della mia azienda.* — Next weekend I will study for my engineering exam and work a bit for my company in Tunisi. Saturday evening, though, I will go out with my friends and we will play together. Sunday I will go jogging in the morning, as I usually do on Mondays, Wednesdays, and Saturdays. In the future I hope to finish my master's degree in Bologna and develop my company's platform.
+> ***Es:** Il prossimo weekend studierò per il mio esame e lavorerò un po' in negozio. Sabato sera, però, uscirò con i miei amici e giocheremo insieme. Domenica farò una corsa la mattina, come faccio spesso. In futuro spero di trovare un lavoro interessante e di parlare bene l'italiano.* — Next weekend I will study for my exam and work a bit at the shop. Saturday evening, though, I will go out with my friends and we will play together. Sunday I will go jogging in the morning, as I often do. In the future I hope to find an interesting job and speak Italian well.
 
 *Key phrases to reuse: il prossimo weekend..., studierò, lavorerò, uscirò con i miei amici, in futuro spero di + infinito.*
 
@@ -87,7 +87,7 @@ Answer each in 4–5 sentences, no longer than 60 seconds.
 
 Checklist: avere/essere right? participle agreement with essere? imperfetto for description/habit, passato prossimo for completed action? time words (ieri, l'anno scorso, domani, tra un mese)?
 
-## Exam strategy (based on your 12 June paper)
+## Exam strategy (A2 written paper)
 <!-- src: A2 Part 12 · A2+.10 -->
 
 | **Exercise**             | **What to check**                                          | **Quick method**                                                                                 |

@@ -1,7 +1,7 @@
 # Overview — Italian A1 → B2
 
 ## Status
-- **Current level:** A2 (exam sat 12 June 2026) → working toward **B1**
+- **Current level:** A2 → working toward **B1**
 - **Known gap:** A1 basics slip sometimes
 - **Explanations:** English + العربية
 
