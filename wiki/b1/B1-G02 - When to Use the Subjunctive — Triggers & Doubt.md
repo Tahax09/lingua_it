@@ -85,3 +85,8 @@ This is the enhancement for level B1. Your pack concentrates on the congiuntivo;
 > [!info] Arabic lesson (درس بالعربية)
 > «الـ Congiuntivo: che io sia — زمن الشك والرأي» — see [[B1-G01 - Congiuntivo Presente — Forms#🇸🇦 Arabic lesson — Congiuntivo presente]]
 <!-- xref: Arabic Lessons · L24 -->
+
+> [!info] Lesson for this topic (درس لهذا الموضوع)
+> The full Arabic lesson is on [[B1-G01 - Congiuntivo Presente — Forms#🇸🇦 Arabic lesson — Congiuntivo presente]].
+> الدرس الكامل بالعربية موجود في الصفحة المرتبطة أعلاه.
+<!-- xref: lesson on B1-G01 -->

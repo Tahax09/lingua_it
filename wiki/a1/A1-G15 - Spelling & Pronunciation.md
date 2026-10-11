@@ -4,7 +4,7 @@ aliases: [A1-G15]
 title: "Spelling & Pronunciation"
 level: A1
 type: grammar
-sources: ["A1 Part 4 · A1+.1"]
+sources: ["A1 Part 4 · A1+.1", "Bilingual Lessons · A1-G15"]
 status: Not Reviewed
 last_reviewed:
 weak_areas: []
@@ -35,3 +35,57 @@ tags: [a1, grammar]
 | **Stress**                | caffè · città · perché · università               | a written accent marks final stress; otherwise stress is on the penultimate syllable |
 
 بالعربية: العربية لا تحتوي على الصوت /p/ — تدرّب على الفرق بين pane و bane، وpizza و bizza. وكذلك الفرق بين e/i وo/u، والحروف المضاعفة (nonno ≠ nono).
+
+## 🇬🇧🇸🇦 Bilingual lesson — Pronunciation for Arabic speakers
+<!-- src: Bilingual Lessons · A1-G15 -->
+
+### Pronuncia: Italian sounds the way it's written — «تُقرأ كما تُكتب»
+*English:* Italian spelling is almost perfectly regular. Learn a handful of letter combinations and you can read any word aloud correctly — even words you don't know.
+*العربية:* الإملاء الإيطالي منتظم تقريباً بالكامل. تعلّم بضعة تراكيب للحروف وستقرأ أي كلمة بشكل صحيح — حتى الكلمات التي لا تعرفها.
+
+#### C and G · حرفا C و G
+| Spelling | Sound | Example | العربية |
+|---|---|---|---|
+| ca, co, cu | k | casa, cosa, cuore | «ك» |
+| ce, ci | ch (as in *church*) | cena, cinema | «تش» |
+| che, chi | k | che, chiave | «ك» (الـ h تُقسّي الصوت) |
+| cia, cio, ciu | ch | ciao, cioccolato | «تش» (الـ i لا تُلفظ) |
+| ga, go, gu | g (hard) | gatto, gola | «گ» |
+| ge, gi | j (as in *jam*) | gelato, giro | «ج» |
+| ghe, ghi | g (hard) | spaghetti, ghiaccio | «گ» |
+| gia, gio, giu | j | giardino, giorno | «ج» |
+
+#### Special combinations · تراكيب خاصة
+| Spelling | Sound | Example | العربية |
+|---|---|---|---|
+| gn | ny (like Spanish ñ) | bagno, gnocchi | «نْي» |
+| gli | ly (soft l) | figlio, aglio | «لْي» |
+| sce, sci | sh | pesce, scienza | «ش» |
+| sche, schi | sk | schiena, scherzo | «سك» |
+| h | silent | ho, hanno | لا تُلفظ |
+| z / zz | ts or dz | pizza, zero | «تس» أو «دز» |
+
+#### Double consonants = shadda · الحروف المضاعفة = الشدّة
+**EN:** A double consonant is held longer — exactly like Arabic **shadda (ّ)**. It changes meaning, so don't skip it.
+**AR:** الحرف المضاعف يُمدّ ويُشدَّد تماماً مثل **الشدّة** في العربية، ويغيّر المعنى، فلا تُهمله.
+
+| Single | Double | العربية |
+|---|---|---|
+| pala (shovel) | palla (ball) | مِجرفة / كُرة |
+| caro (dear) | carro (cart) | عزيز / عربة |
+| sete (thirst) | sette (seven) | عطش / سبعة |
+| nono (ninth) | nonno (grandfather) | تاسع / جدّ |
+
+#### Traps for Arabic speakers · فخاخ للمتكلّمين بالعربية
+- **p ≠ b** — Arabic has no *p*: *pane* (bread) is not *bane*. — العربية ليس فيها حرف p: كلمة pane (خبز) ليست bane.
+- **v ≠ f** — *vino* (wine) vs *fino* (fine). — فرّق بين v و f.
+- **o ≠ u** and **e ≠ i** — Italian has seven clear vowels; keep them distinct: *posta* / *pusta*, *vede* / *vidi*. — الإيطالية فيها سبعة أصوات حركات واضحة؛ لا تخلط بين o و u ولا بين e و i.
+- **r** is a tapped/rolled tongue r, close to Arabic «ر». — حرف r قريب جداً من الراء العربية.
+
+#### Stress · النبر
+**EN:** Most words stress the second-to-last syllable: *a-MI-co, ra-GAZ-za*. A written accent marks a stressed final vowel: *città, perché, caffè, più*. And **è** (is) ≠ **e** (and).
+**AR:** أغلب الكلمات تُنبَر على المقطع قبل الأخير: a-MI-co. العلامة المكتوبة تعني أن النبر على الحرف الأخير: città, perché, caffè. وانتبه: **è** (يكون) ≠ **e** (و).
+
+> [!tip] Golden tip · نصيحة ذهبية
+> **EN:** Read Italian aloud slowly, letter by letter — it works. Then speed up.
+> **AR:** اقرأ الإيطالية بصوت عالٍ ببطء حرفاً حرفاً — هذا ينجح فعلاً. ثم أسرِع تدريجياً.

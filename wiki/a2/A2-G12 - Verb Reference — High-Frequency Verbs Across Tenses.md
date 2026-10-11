@@ -4,7 +4,7 @@ aliases: [A2-G12]
 title: "Verb Reference — High-Frequency Verbs Across Tenses"
 level: A2
 type: grammar
-sources: ["A2 Part 2 · 2.1", "A2 Part 2 · 2.2"]
+sources: ["A2 Part 2 · 2.1", "A2 Part 2 · 2.2", "Bilingual Lessons · A2-G12"]
 status: Not Reviewed
 last_reviewed:
 weak_areas: []
@@ -108,3 +108,44 @@ tags: [a2, grammar]
 | sentire      | to feel / hear        | يشعر / يسمع   | Sento dolore alla schiena.                       |
 | chiamare     | to call               | ينادي / يتصل  | Mi ha chiamato ieri sera.                        |
 | telefonare   | to phone              | يتصل هاتفياً   | Le telefonerò stasera.                           |
+
+## 🇬🇧🇸🇦 Bilingual lesson — Irregular verb survival kit
+<!-- src: Bilingual Lessons · A2-G12 -->
+
+### I verbi irregolari: 15 verbs, 5 tenses — «عُدّة النجاة»
+*English:* Fifteen irregular verbs make up a huge share of everyday Italian. Learn each one as a single row — present, past, imperfect, future, conditional — and you can rebuild almost everything.
+*العربية:* خمسة عشر فعلاً شاذاً تشكّل جزءاً كبيراً من الكلام اليومي. احفظ كل فعل كسطر واحد — المضارع والماضي والماضي الناقص والمستقبل والشرطي — وستبني الباقي بنفسك.
+
+#### The table · الجدول
+| Verb | presente (io) | passato prossimo | imperfetto | futuro | condizionale |
+|---|---|---|---|---|---|
+| essere · يكون | sono | sono stato/a | ero | sarò | sarei |
+| avere · يملك | ho | ho avuto | avevo | avrò | avrei |
+| fare · يفعل | faccio | ho fatto | facevo | farò | farei |
+| andare · يذهب | vado | sono andato/a | andavo | andrò | andrei |
+| venire · يأتي | vengo | sono venuto/a | venivo | verrò | verrei |
+| dire · يقول | dico | ho detto | dicevo | dirò | direi |
+| potere · يستطيع | posso | ho potuto | potevo | potrò | potrei |
+| volere · يريد | voglio | ho voluto | volevo | vorrò | vorrei |
+| dovere · يجب | devo | ho dovuto | dovevo | dovrò | dovrei |
+| sapere · يعرف | so | ho saputo | sapevo | saprò | saprei |
+| stare · يبقى | sto | sono stato/a | stavo | starò | starei |
+| uscire · يخرج | esco | sono uscito/a | uscivo | uscirò | uscirei |
+| bere · يشرب | bevo | ho bevuto | bevevo | berrò | berrei |
+| vedere · يرى | vedo | ho visto | vedevo | vedrò | vedrei |
+| rimanere · يبقى | rimango | sono rimasto/a | rimanevo | rimarrò | rimarrei |
+
+#### Three keys unlock each verb · ثلاثة مفاتيح لكل فعل
+**EN:** (1) the **io** present, (2) the **participle** and its auxiliary, (3) the **future stem**. The conditional always uses the same stem as the future (*sar-ò → sar-ei*). The imperfetto is almost always regular — only *essere (ero), fare (facevo), dire (dicevo), bere (bevevo)* are odd.
+**AR:** (١) صيغة **io** في المضارع، (٢) **اسم المفعول** مع فعله المساعد، (٣) **جذر المستقبل**. الشرطي يستعمل دائماً جذر المستقبل نفسه (sar-ò ← sar-ei). والـ imperfetto منتظم تقريباً دائماً، والشواذ فقط: ero, facevo, dicevo, bevevo.
+
+#### Meaning changes in the past · تغيّر المعنى في الماضي
+| Passato prossimo | Imperfetto | العربية |
+|---|---|---|
+| Ho saputo la notizia. (I found out) | Sapevo la notizia. (I knew) | علمتُ بالخبر / كنتُ أعرف الخبر |
+| Ho conosciuto Anna. (I met) | Conoscevo Anna. (I knew) | تعرّفتُ على آنا / كنت أعرف آنا |
+| Non ho potuto venire. (I couldn't — and didn't) | Non potevo venire. (I wasn't able — background) | لم أستطع المجيء |
+
+> [!tip] Golden tip · نصيحة ذهبية
+> **EN:** *Stare* and *essere* share the same participle: *sono stato* = "I was" **and** "I stayed / I have been".
+> **AR:** stare و essere لهما نفس اسم المفعول: sono stato = «كنتُ» و«بقيتُ / زُرتُ».

@@ -108,3 +108,8 @@ Everything else → AVERE (transitive verbs and most others): Ho mangiato · Ho 
 > [!info] Arabic lesson (درس بالعربية)
 > «الماضي القريب: كيف تقول «فعلتُ» بالإيطالية» — see [[A2-G02 - Passato Prossimo#🇸🇦 Arabic lesson — Passato prossimo]]
 <!-- xref: Arabic Lessons · L06 -->
+
+> [!info] Lesson for this topic (درس لهذا الموضوع)
+> The full Arabic lesson is on [[A2-G02 - Passato Prossimo#🇸🇦 Arabic lesson — Passato prossimo]].
+> الدرس الكامل بالعربية موجود في الصفحة المرتبطة أعلاه.
+<!-- xref: lesson on A2-G02 -->

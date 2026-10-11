@@ -4,7 +4,7 @@ aliases: [B2-G05]
 title: "Time Clauses, Certainty & Necessity"
 level: B2
 type: grammar
-sources: ["B2 Part 1 · 1.9", "B2 Part 1 · 1.10"]
+sources: ["B2 Part 1 · 1.9", "B2 Part 1 · 1.10", "Bilingual Lessons · B2-G05"]
 status: Not Reviewed
 last_reviewed:
 weak_areas: []
@@ -50,3 +50,37 @@ tags: [b2, grammar]
 *The percentages are only a memory aid; real usage varies. After «È certo che» use the indicative.*
 
 بالعربية: درجات اليقين: È certo (يقين، indicativo) ← È probabile ← È possibile ← È dubbio ← È impossibile (كلها congiuntivo). ودرجات الضرورة: necessario ← importante ← sarebbe meglio ← opportuno ← auspicabile.
+
+## 🇬🇧🇸🇦 Bilingual lesson — Time clauses, certainty & necessity
+<!-- src: Bilingual Lessons · B2-G05 -->
+
+### Quando, appena, prima che — e quanto sei sicuro? — «الزمن واليقين والضرورة»
+*English:* Time clauses and degrees of certainty decide the mood of the verb. Most time words take the indicative — only *prima che* insists on the subjunctive. Certainty works like a scale: the less sure you are, the more you need the subjunctive.
+*العربية:* جمل الزمن ودرجات اليقين تحدّد صيغة الفعل. أغلب كلمات الزمن تأخذ الإخباري — فقط prima che تتطلب الكونجونتيفو. واليقين كالسلّم: كلما قلّ يقينك احتجت الكونجونتيفو أكثر.
+
+#### Time clauses · جمل الزمن
+| Italian | Mood | Example | العربية |
+|---|---|---|---|
+| quando | indicative | Quando arriverai, ceneremo. | عندما تصل سنتعشى. |
+| appena | indicative | Appena finisco, ti chiamo. | فور أن أنتهي أتصل بك. |
+| dopo che | indicative | Dopo che è partito, ho pianto. | بعد أن سافر بكيت. |
+| finché (non) | indicative | Aspetto finché non arrivi. | أنتظر حتى تصل. |
+| mentre | indicative | Mentre lavoro, ascolto musica. | بينما أعمل أستمع للموسيقى. |
+| prima che | **subjunctive** | Partiamo prima che piova. | لنسافر قبل أن تمطر. |
+
+#### The certainty scale · سلّم اليقين
+| Italian | Mood | English | العربية |
+|---|---|---|---|
+| È certo / sicuro che è vero. | indicative | It's certain it's true. | من المؤكد أنه صحيح. |
+| È probabile che sia vero. | subjunctive | It's probably true. | من المحتمل أنه صحيح. |
+| È possibile / può darsi che sia vero. | subjunctive | It may be true. | ربما يكون صحيحاً. |
+| Non è detto che sia vero. | subjunctive | It's not necessarily true. | ليس بالضرورة أن يكون صحيحاً. |
+| Dubito che sia vero. | subjunctive | I doubt it's true. | أشكّ أنه صحيح. |
+
+#### Necessity · الضرورة
+**EN:** General rule → impersonal + infinitive: *Bisogna prenotare. È necessario presentare il passaporto.* Specific person → *che* + subjunctive: *Bisogna che tu prenoti. È necessario che Lei presenti il passaporto.*
+**AR:** قاعدة عامة ← تعبير غير شخصي + مصدر: Bisogna prenotare = يجب الحجز. لشخص محدد ← che + congiuntivo: Bisogna che tu prenoti = يجب أن تحجز أنت.
+
+> [!tip] Golden tip · نصيحة ذهبية
+> **EN:** *Probabilmente* (adverb) takes the indicative: *Probabilmente è vero.* *È probabile che* takes the subjunctive: *È probabile che sia vero.* Same meaning, different grammar.
+> **AR:** الظرف probabilmente يأخذ الإخباري: Probabilmente è vero، أما È probabile che فتأخذ الكونجونتيفو: È probabile che sia vero. نفس المعنى وقواعد مختلفة.

@@ -4,7 +4,7 @@ aliases: [B1-G07]
 title: "Formal vs Informal Register"
 level: B1
 type: grammar
-sources: ["B1 Part 1 · 1.7"]
+sources: ["B1 Part 1 · 1.7", "Bilingual Lessons · B1-G07"]
 status: Not Reviewed
 last_reviewed:
 weak_areas: []
@@ -30,3 +30,40 @@ Lei uses the 3rd person singular. Capitalise Lei / La / Le / Suo in writing for 
 *Correction: «La ringrazio» (direct object → La) but «Le chiedo» / «Le auguro» (indirect object → Le). «Le chiedo se può aiutarmi» is more natural than «se possa aiutarmi».*
 
 بالعربية: صيغة الاحترام Lei تأخذ صيغة المفرد الغائب. نقول La ringrazio (أشكرك) لكن Le chiedo / Le auguro (أسألك / أتمنى لك).
+
+## 🇬🇧🇸🇦 Bilingual lesson — Formal vs informal — tu or Lei?
+<!-- src: Bilingual Lessons · B1-G07 -->
+
+### Tu o Lei? — «أنتَ أم حضرتك؟»
+*English:* Italians switch between *tu* (friends, family, young people) and *Lei* (strangers, offices, older people, work). Using the wrong one isn't a disaster, but getting it right makes a real difference — especially in Italian bureaucracy.
+*العربية:* الإيطاليون ينتقلون بين tu (للأصدقاء والعائلة والشباب) و Lei (للغرباء والمكاتب وكبار السن والعمل). الخطأ ليس كارثة، لكن الصواب يصنع فرقاً حقيقياً — خاصة في الإدارات الإيطالية.
+
+#### How Lei works · كيف تعمل Lei
+**EN:** *Lei* takes the **3rd person singular** verb (like *lui/lei*) for both men and women. In writing it's often capitalised, and so are its pronouns: *La ringrazio*, *Le scrivo*, *il Suo indirizzo*.
+**AR:** Lei تأخذ فعل **الغائب المفرد** (مثل lui/lei) للرجل والمرأة. في الكتابة تُكتب غالباً بحرف كبير، وكذلك ضمائرها: La ringrazio = أشكرك، Le scrivo = أكتب لك، il Suo indirizzo = عنوانك.
+
+| Informal (tu) | Formal (Lei) | English | العربية |
+|---|---|---|---|
+| Come stai? | Come sta? | How are you? | كيف حالك؟ |
+| Scusa! | Mi scusi! | Excuse me! | عفواً! |
+| Senti… | Senta… | Listen… | اسمع / اسمع حضرتك… |
+| Dimmi. | Mi dica. | Tell me. / How can I help? | تفضّل، قل لي. |
+| Puoi aiutarmi? | Potrebbe aiutarmi? | Could you help me? | هل يمكنك مساعدتي؟ |
+| Vieni! | Venga! | Come! | تعال / تفضّل! |
+| Ti chiamo domani. | La chiamo domani. | I'll call you tomorrow. | أتصل بك غداً. |
+| Ciao! | Buongiorno! / ArrivederLa! | Hello! / Goodbye! | مرحباً / مع السلامة |
+
+#### Titles · الألقاب
+**EN:** Italians use titles a lot: *Signore/Signora*, *Dottore/Dottoressa* (for any university graduate, not just doctors), *Ingegnere*, *Avvocato*, *Professore/Professoressa*. Before a surname, *-re* drops: *il dottor Rossi, l'ingegner Bianchi*.
+**AR:** الإيطاليون يستعملون الألقاب كثيراً: Signore/Signora (سيد/سيدة)، Dottore/Dottoressa (لأي خرّيج جامعي، ليس للأطباء فقط)، Ingegnere (مهندس)، Avvocato (محامٍ). قبل اسم العائلة تُحذف -re: il dottor Rossi.
+
+#### Emails · الرسائل
+| | Informal | Formal | العربية |
+|---|---|---|---|
+| opening | Ciao Marco, / Caro Marco, | Gentile Dott.ssa Rossi, | عزيزي ماركو / حضرة الدكتورة روسي |
+| request | Mi puoi mandare…? | Potrebbe inviarmi…? | هل يمكنك أن ترسل لي…؟ |
+| closing | A presto! Un abbraccio | Cordiali saluti / Distinti saluti | إلى اللقاء / مع خالص التحية |
+
+> [!tip] Golden tip · نصيحة ذهبية
+> **EN:** When in doubt, start with *Lei*. If the other person wants *tu*, they'll say *Diamoci del tu!* (Let's use *tu*). You can also ask: *Possiamo darci del tu?*
+> **AR:** إذا شككت فابدأ بـ Lei. إذا أراد الطرف الآخر tu فسيقول Diamoci del tu! (لنتخاطب بـ tu). ويمكنك أن تسأل: Possiamo darci del tu?

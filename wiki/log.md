@@ -28,3 +28,11 @@ Placement follows the CEFR rules: A1 articles, prepositions, essere/avere, gende
 Corrections to the source, each flagged in a warning callout on its page: Lei takes a 3rd-person verb, not a "feminine" one; parlarei → parlerei (built on the future stem); the futuro stem rule (drop -e, -are → -er-); the French "Dr & Mrs Vandertramp" mnemonic replaced with the Italian essere rule; la gamba/le gambe is regular, so it was swapped for la mano/le mani; future of probability = «على الأرجح», not «أكيد»; sto male = «لست بخير»; nessuno = nobody, not nothing; "ce ne sono" ci = there; typo قابلها → قابلتها.
 
 index.md, course_tracker.md and the README tables were rebuilt (87 pages).
+
+## [2026-10-11] create | 17 bilingual EN + AR lessons + Lessons by Level page
+
+Wrote 17 new lessons in the Arabic-lesson style, but bilingual: every explanation in English then Arabic, and tables with Italian | English | العربية. They cover every grammar topic that had no lesson: A1-G06 piacere, A1-G11 modals and everyday irregulars, A1-G15 pronunciation (with p/b, v/f, o/u traps and doubles = shadda), A2-G11 tense clue words, A2-G12 irregular verb survival kit, B1-G06 linking, B1-G07 tu/Lei register, B1-G10 gerund/implicit clauses, B2-G01 sequence of tenses, B2-G02 congiuntivo passato/trapassato, B2-G04 complete subjunctive triggers, B2-G05 time clauses/certainty/necessity, B2-G06 advanced passive (venire / andare + participle) and relatives, B2-G07 mixed conditionals and wishes, B2-G08 discourse markers, B2-G09 formal register and email template, B2-G11 passato remoto.
+
+Six grammar pages already covered by an Arabic lesson on a sibling page got a cross-link callout instead (A1-G07, A1-G12, A1-G14, A2-G01, B1-G02, B2-G03). Every grammar page now has a lesson.
+
+New page wiki/lessons.md lists all 50 lessons (33 🇸🇦 + 17 🇬🇧🇸🇦) by level, in a suggested study order. index.md and README link to it.

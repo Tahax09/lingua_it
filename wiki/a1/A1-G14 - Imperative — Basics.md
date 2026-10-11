@@ -38,3 +38,8 @@ Place words: a destra · a sinistra · sempre dritto · all'angolo · di fronte 
 > [!info] Arabic lesson (درس بالعربية)
 > «صيغة الأمر: اطلب، اكتب، اذهب!» — see [[B1-G11 - Imperative — Full#🇸🇦 Arabic lesson — Imperative]]
 <!-- xref: Arabic Lessons · L21 -->
+
+> [!info] Lesson for this topic (درس لهذا الموضوع)
+> The full Arabic lesson is on [[B1-G11 - Imperative — Full#🇸🇦 Arabic lesson — Imperative]].
+> الدرس الكامل بالعربية موجود في الصفحة المرتبطة أعلاه.
+<!-- xref: lesson on B1-G11 -->

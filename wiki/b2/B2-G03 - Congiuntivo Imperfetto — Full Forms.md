@@ -29,3 +29,8 @@ tags: [b2, grammar]
 Vorrei che venissi. · Sarebbe meglio che venisse. · Sarebbe opportuno che considerasse… · Sebbene non avesse tempo, è venuto. · Nonostante fosse tardi, ha continuato.
 
 بالعربية: congiuntivo imperfetto: -assi/-essi/-issi. الأفعال الشاذة: fossi, avessi, facessi, dicessi, stessi. يُستعمل بعد فعل ماضٍ أو شرطي (Vorrei che venissi).
+
+> [!info] Lesson for this topic (درس لهذا الموضوع)
+> The full Arabic lesson is on [[B1-G03 - Congiuntivo Imperfetto & Trapassato#🇸🇦 Arabic lesson — Congiuntivo imperfetto]].
+> الدرس الكامل بالعربية موجود في الصفحة المرتبطة أعلاه.
+<!-- xref: lesson on B1-G03 -->

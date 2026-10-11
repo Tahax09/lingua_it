@@ -40,3 +40,8 @@ Pattern: article + possessive + noun → Il mio telefono è nuovo. The possessiv
 > [!info] Arabic lesson (درس بالعربية)
 > «الصفات وضمائر الملكية: أبيض أم بيضاء؟» — see [[A1-G05 - Adjectives#🇸🇦 Arabic lesson — Adjectives & possessives]]
 <!-- xref: Arabic Lessons · L07 -->
+
+> [!info] Lesson for this topic (درس لهذا الموضوع)
+> The full Arabic lesson is on [[A1-G05 - Adjectives#🇸🇦 Arabic lesson — Adjectives & possessives]].
+> الدرس الكامل بالعربية موجود في الصفحة المرتبطة أعلاه.
+<!-- xref: lesson on A1-G05 -->

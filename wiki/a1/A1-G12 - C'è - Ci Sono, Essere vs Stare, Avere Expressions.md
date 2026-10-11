@@ -41,3 +41,8 @@ tags: [a1, grammar]
 > [!info] Arabic lesson (درس بالعربية)
 > «تركيبات لا تصرّف: c'è, bisogna, si può, è vietato» — see [[A2-G13 - Impersonal Constructions#🇸🇦 Arabic lesson — Impersonal constructions]]
 <!-- xref: Arabic Lessons · L33 -->
+
+> [!info] Lesson for this topic (درس لهذا الموضوع)
+> The full Arabic lesson is on [[A1-G02 - Essere, Avere & the Core Irregular Verbs#🇸🇦 Arabic lesson — Essere & avere (and stare)]].
+> الدرس الكامل بالعربية موجود في الصفحة المرتبطة أعلاه.
+<!-- xref: lesson on A1-G02 -->

@@ -2,7 +2,9 @@
 
 Italian A1 → B2 study wiki. Every page = one topic, sorted by CEFR level. Sources live in `raw/sources/` (never edited).
 
-Legend: **↪** = includes sections re-sorted from another level's file · **🇸🇦** = includes a full Arabic-language lesson
+Legend: **↪** = includes sections re-sorted from another level's file · **🇸🇦** = Arabic lesson · **🇬🇧🇸🇦** = bilingual EN + AR lesson
+
+📚 **[[lessons|Lessons by Level · الدروس حسب المستوى]]** — all 50 lessons in study order.
 
 ## A1 — Beginner
 
@@ -15,16 +17,16 @@ Legend: **↪** = includes sections re-sorted from another level's file · **�
 | A1-G03 | [[A1-G03 - Subject Pronouns\|Subject Pronouns]] ↪ 🇸🇦 | Not Reviewed |
 | A1-G04 | [[A1-G04 - Articles, Gender & Plurals\|Articles, Gender & Plurals]] ↪ 🇸🇦 | Not Reviewed |
 | A1-G05 | [[A1-G05 - Adjectives\|Adjectives]] ↪ 🇸🇦 | Not Reviewed |
-| A1-G06 | [[A1-G06 - Piacere — Expressing Likes\|Piacere — Expressing Likes]] | Not Reviewed |
+| A1-G06 | [[A1-G06 - Piacere — Expressing Likes\|Piacere — Expressing Likes]] 🇬🇧🇸🇦 | Not Reviewed |
 | A1-G07 | [[A1-G07 - Possessives\|Possessives]] | Not Reviewed |
 | A1-G08 | [[A1-G08 - Prepositions & Articulated Prepositions\|Prepositions & Articulated Prepositions]] ↪ 🇸🇦 | Not Reviewed |
 | A1-G09 | [[A1-G09 - Negation\|Negation]] 🇸🇦 | Not Reviewed |
 | A1-G10 | [[A1-G10 - Question Words, Numbers, Time & Dates\|Question Words, Numbers, Time & Dates]] ↪ 🇸🇦 | Not Reviewed |
-| A1-G11 | [[A1-G11 - Modal Verbs & More Irregulars\|Modal Verbs & More Irregulars]] | Not Reviewed |
+| A1-G11 | [[A1-G11 - Modal Verbs & More Irregulars\|Modal Verbs & More Irregulars]] 🇬🇧🇸🇦 | Not Reviewed |
 | A1-G12 | [[A1-G12 - C'è - Ci Sono, Essere vs Stare, Avere Expressions\|C'è - Ci Sono, Essere vs Stare, Avere Expressions]] | Not Reviewed |
 | A1-G13 | [[A1-G13 - Reflexive Verbs\|Reflexive Verbs]] 🇸🇦 | Not Reviewed |
 | A1-G14 | [[A1-G14 - Imperative — Basics\|Imperative — Basics]] | Not Reviewed |
-| A1-G15 | [[A1-G15 - Spelling & Pronunciation\|Spelling & Pronunciation]] | Not Reviewed |
+| A1-G15 | [[A1-G15 - Spelling & Pronunciation\|Spelling & Pronunciation]] 🇬🇧🇸🇦 | Not Reviewed |
 | A1-G16 | [[A1-G16 - Demonstratives & Indefinites\|Demonstratives & Indefinites]] 🇸🇦 | Not Reviewed |
 
 ### Vocabulary & Sentences
@@ -76,8 +78,8 @@ _none yet — saved under `wiki/quizzes/a1/`_
 | A2-G08 | [[A2-G08 - Ne & Ci\|Ne & Ci]] 🇸🇦 | Not Reviewed |
 | A2-G09 | [[A2-G09 - Adverbs in -mente\|Adverbs in -mente]] 🇸🇦 | Not Reviewed |
 | A2-G10 | [[A2-G10 - Comparatives & Superlatives\|Comparatives & Superlatives]] 🇸🇦 | Not Reviewed |
-| A2-G11 | [[A2-G11 - Tense Clue Words & Time Structures\|Tense Clue Words & Time Structures]] | Not Reviewed |
-| A2-G12 | [[A2-G12 - Verb Reference — High-Frequency Verbs Across Tenses\|Verb Reference — High-Frequency Verbs Across Tenses]] | Not Reviewed |
+| A2-G11 | [[A2-G11 - Tense Clue Words & Time Structures\|Tense Clue Words & Time Structures]] 🇬🇧🇸🇦 | Not Reviewed |
+| A2-G12 | [[A2-G12 - Verb Reference — High-Frequency Verbs Across Tenses\|Verb Reference — High-Frequency Verbs Across Tenses]] 🇬🇧🇸🇦 | Not Reviewed |
 | A2-G13 | [[A2-G13 - Impersonal Constructions\|Impersonal Constructions]] 🇸🇦 | Not Reviewed |
 
 ### Vocabulary & Sentences
@@ -124,11 +126,11 @@ _none yet — saved under `wiki/quizzes/a2/`_
 | B1-G03 | [[B1-G03 - Congiuntivo Imperfetto & Trapassato\|Congiuntivo Imperfetto & Trapassato]] 🇸🇦 | Not Reviewed |
 | B1-G04 | [[B1-G04 - Compound Tenses\|Compound Tenses]] 🇸🇦 | Not Reviewed |
 | B1-G05 | [[B1-G05 - Periodo Ipotetico — Hypothetical Sentences\|Periodo Ipotetico — Hypothetical Sentences]] 🇸🇦 | Not Reviewed |
-| B1-G06 | [[B1-G06 - Linking Sentences & Structured Writing\|Linking Sentences & Structured Writing]] | Not Reviewed |
-| B1-G07 | [[B1-G07 - Formal vs Informal Register\|Formal vs Informal Register]] | Not Reviewed |
+| B1-G06 | [[B1-G06 - Linking Sentences & Structured Writing\|Linking Sentences & Structured Writing]] 🇬🇧🇸🇦 | Not Reviewed |
+| B1-G07 | [[B1-G07 - Formal vs Informal Register\|Formal vs Informal Register]] 🇬🇧🇸🇦 | Not Reviewed |
 | B1-G08 | [[B1-G08 - Relative Pronouns\|Relative Pronouns]] 🇸🇦 | Not Reviewed |
 | B1-G09 | [[B1-G09 - Passive, Si Passivante & Fare + Infinitive\|Passive, Si Passivante & Fare + Infinitive]] 🇸🇦 | Not Reviewed |
-| B1-G10 | [[B1-G10 - Gerund, Participle & Infinitive Clauses\|Gerund, Participle & Infinitive Clauses]] | Not Reviewed |
+| B1-G10 | [[B1-G10 - Gerund, Participle & Infinitive Clauses\|Gerund, Participle & Infinitive Clauses]] 🇬🇧🇸🇦 | Not Reviewed |
 | B1-G11 | [[B1-G11 - Imperative — Full\|Imperative — Full]] 🇸🇦 | Not Reviewed |
 | B1-G12 | [[B1-G12 - Reported Speech\|Reported Speech]] 🇸🇦 | Not Reviewed |
 
@@ -171,17 +173,17 @@ _none yet — saved under `wiki/quizzes/b1/`_
 
 | ID | Page | Status |
 |----|------|--------|
-| B2-G01 | [[B2-G01 - Subjunctive Tenses & Sequence of Tenses\|Subjunctive Tenses & Sequence of Tenses]] | Not Reviewed |
-| B2-G02 | [[B2-G02 - Congiuntivo Passato & Trapassato\|Congiuntivo Passato & Trapassato]] | Not Reviewed |
+| B2-G01 | [[B2-G01 - Subjunctive Tenses & Sequence of Tenses\|Subjunctive Tenses & Sequence of Tenses]] 🇬🇧🇸🇦 | Not Reviewed |
+| B2-G02 | [[B2-G02 - Congiuntivo Passato & Trapassato\|Congiuntivo Passato & Trapassato]] 🇬🇧🇸🇦 | Not Reviewed |
 | B2-G03 | [[B2-G03 - Congiuntivo Imperfetto — Full Forms\|Congiuntivo Imperfetto — Full Forms]] | Not Reviewed |
-| B2-G04 | [[B2-G04 - Subjunctive Triggers — Complete List\|Subjunctive Triggers — Complete List]] | Not Reviewed |
-| B2-G05 | [[B2-G05 - Time Clauses, Certainty & Necessity\|Time Clauses, Certainty & Necessity]] | Not Reviewed |
-| B2-G06 | [[B2-G06 - Impersonal, Passive & Relative Structures\|Impersonal, Passive & Relative Structures]] | Not Reviewed |
-| B2-G07 | [[B2-G07 - Advanced Conditionals & Wishes\|Advanced Conditionals & Wishes]] | Not Reviewed |
-| B2-G08 | [[B2-G08 - Discourse Markers & Connectors\|Discourse Markers & Connectors]] | Not Reviewed |
-| B2-G09 | [[B2-G09 - Register — Informal ↔ Formal\|Register — Informal ↔ Formal]] | Not Reviewed |
+| B2-G04 | [[B2-G04 - Subjunctive Triggers — Complete List\|Subjunctive Triggers — Complete List]] 🇬🇧🇸🇦 | Not Reviewed |
+| B2-G05 | [[B2-G05 - Time Clauses, Certainty & Necessity\|Time Clauses, Certainty & Necessity]] 🇬🇧🇸🇦 | Not Reviewed |
+| B2-G06 | [[B2-G06 - Impersonal, Passive & Relative Structures\|Impersonal, Passive & Relative Structures]] 🇬🇧🇸🇦 | Not Reviewed |
+| B2-G07 | [[B2-G07 - Advanced Conditionals & Wishes\|Advanced Conditionals & Wishes]] 🇬🇧🇸🇦 | Not Reviewed |
+| B2-G08 | [[B2-G08 - Discourse Markers & Connectors\|Discourse Markers & Connectors]] 🇬🇧🇸🇦 | Not Reviewed |
+| B2-G09 | [[B2-G09 - Register — Informal ↔ Formal\|Register — Informal ↔ Formal]] 🇬🇧🇸🇦 | Not Reviewed |
 | B2-G10 | [[B2-G10 - Combined Pronouns\|Combined Pronouns]] 🇸🇦 | Not Reviewed |
-| B2-G11 | [[B2-G11 - Passato Remoto — Recognition\|Passato Remoto — Recognition]] | Not Reviewed |
+| B2-G11 | [[B2-G11 - Passato Remoto — Recognition\|Passato Remoto — Recognition]] 🇬🇧🇸🇦 | Not Reviewed |
 
 ### Vocabulary & Sentences
 

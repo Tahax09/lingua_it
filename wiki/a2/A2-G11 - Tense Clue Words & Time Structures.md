@@ -4,7 +4,7 @@ aliases: [A2-G11]
 title: "Tense Clue Words & Time Structures"
 level: A2
 type: grammar
-sources: ["A2 Part 4 · 4.10", "A2 Part 12 · A2+.8"]
+sources: ["A2 Part 4 · 4.10", "A2 Part 12 · A2+.8", "Bilingual Lessons · A2-G11"]
 status: Not Reviewed
 last_reviewed:
 weak_areas: []
@@ -57,3 +57,41 @@ tags: [a2, grammar]
 | quando / mentre / appena    | Quando arrivi, chiamami. · Appena posso, ti scrivo.                                          | time clauses                        |
 
 *Careful: «da» + present, not passato prossimo: «Abito qui da due anni» ✓ — not «Ho abitato qui da due anni» ✗.*
+
+## 🇬🇧🇸🇦 Bilingual lesson — Tense clue words
+<!-- src: Bilingual Lessons · A2-G11 -->
+
+### Le parole chiave: which tense? — «أيّ زمن أستعمل؟»
+*English:* Before you conjugate, look for the clue word. *Ieri*, *mentre*, *di solito*, *domani* — each one practically tells you which tense the sentence needs.
+*العربية:* قبل أن تصرّف الفعل، ابحث عن الكلمة المفتاحية. ieri و mentre و di solito و domani — كل واحدة تخبرك تقريباً بالزمن المطلوب.
+
+#### The clue table · جدول الكلمات المفتاحية
+| Clue words | Tense | Example | العربية |
+|---|---|---|---|
+| ieri, l'anno scorso, due giorni fa, una volta, all'improvviso | passato prossimo | Ieri ho visto Luca. | رأيتُ لوكا أمس. |
+| di solito, sempre, ogni giorno, da bambino, mentre | imperfetto | Da bambino giocavo a calcio. | في صغري كنت ألعب كرة القدم. |
+| domani, la settimana prossima, tra/fra due giorni, un giorno | futuro | Domani partirò presto. | سأسافر غداً باكراً. |
+| se potessi…, magari | condizionale | Se potessi, viaggerei. | لو استطعت لسافرت. |
+| adesso, in questo momento | stare + gerundio | Adesso sto cucinando. | أنا أطبخ الآن. |
+
+#### "For" and "ago": da, per, fa · «منذ» و«لمدة» و«قبل»
+**EN:** **da** + present = something that started in the past and is still true. **per** + passato prossimo = a closed period. **fa** = ago.
+**AR:** **da** + المضارع = شيء بدأ في الماضي وما زال مستمراً. **per** + الماضي = مدة انتهت. **fa** = قبل (مضى).
+
+| Italian | English | العربية |
+|---|---|---|
+| Abito a Roma da tre anni. | I've lived in Rome for three years (and still do). | أسكن في روما منذ ثلاث سنوات. |
+| Ho abitato a Roma per tre anni. | I lived in Rome for three years (finished). | سكنتُ في روما ثلاث سنوات. |
+| Sono arrivato tre anni fa. | I arrived three years ago. | وصلتُ قبل ثلاث سنوات. |
+
+#### Già, ancora, appena, mai
+**EN:** These go between *avere/essere* and the participle: *Ho già mangiato* (already), *Non ho ancora mangiato* (not yet), *È appena arrivato* (just), *Non sono mai stato a Venezia* (never).
+**AR:** هذه الكلمات تأتي بين avere/essere واسم المفعول: Ho già mangiato = أكلتُ بالفعل، Non ho ancora mangiato = لم آكل بعد، È appena arrivato = وصل للتو، Non sono mai stato a Venezia = لم أزر البندقية أبداً.
+
+#### Mentre vs quando · «بينما» و«عندما»
+**EN:** *Mentre* (while) introduces the background in the imperfetto; *quando* (when) often introduces the interruption in the passato prossimo: *Mentre dormivo, ha squillato il telefono.*
+**AR:** mentre (بينما) تأتي مع الخلفية بالـ imperfetto، و quando (عندما) غالباً مع الحدث المقاطِع بالـ passato prossimo: Mentre dormivo, ha squillato il telefono = بينما كنت نائماً رنّ الهاتف.
+
+> [!tip] Golden tip · نصيحة ذهبية
+> **EN:** In Italian, a future after *quando* / *appena* stays future: *Quando arriverò, ti chiamerò* (not *quando arrivo* in careful speech).
+> **AR:** في الإيطالية بعد quando و appena للمستقبل نستعمل المستقبل أيضاً: Quando arriverò, ti chiamerò = عندما أصل سأتصل بك.
