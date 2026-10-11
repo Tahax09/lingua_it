@@ -4,7 +4,7 @@ aliases: [B2-G10]
 title: "Combined Pronouns"
 level: B2
 type: grammar
-sources: ["B2 Part 4 · B2+.4"]
+sources: ["B2 Part 4 · B2+.4", "Arabic Lessons · L19"]
 status: Not Reviewed
 last_reviewed:
 weak_areas: []
@@ -38,3 +38,35 @@ tags: [b2, grammar]
 |--------------------------------------|----------------------------------|
 | of it / them · quantity · from there | there · about / to it            |
 | Ne parlo. · Ne ho due. · Me ne vado. | Ci vado. · Ci penso. · Ci credo. |
+
+## 🇸🇦 Arabic lesson — Combined pronouns
+<!-- src: Arabic Lessons · L19 -->
+
+### الضمائر المدمجة: me lo, te la, glielo
+
+*«أعطيته إياه» — الإيطالية يدمج الضميرين معا: **glielo do**. ترتيب ثابت: غير المباشر أولا ثم المباشر، وبعض الضمائر تتغير صورتها.*
+
+#### القاعدة
+
+غير المباشر + المباشر، في كلمة «مركبة» قبل الفعل:
+
+| التركيب | المعنى حرفيا | مثال |
+|---|---|---|
+| me lo | إياه لي | Me lo dai? — تعطينيه؟ |
+| te lo | إياه لك | Te lo porto. — أحضره لك. |
+| glielo / gliela | إياه/إياها له/لها/لهم | Glielo spiego. — أشرحه له. |
+| ce lo / ce la | إياه/إياها لنا | Ce la mandi? — ترسلها لنا؟ |
+| ve lo | إياه لكم | Ve lo dico io. — أقوله لكم أنا. |
+
+تغيّرات الإملاء: mi+lo→me lo, ti+lo→te lo, ci+lo→ce lo, vi+lo→ve lo, gli+lo→glielo (تلتصق).
+
+#### أمثلة حية
+
+- «Mi presti la macchina?» — «Te la presto domani.» — «تعيرني سيارتك؟» — «أعيرك إياها غدا.»
+- Gliel'ho detto ieri. — قلته له أمس.
+- Non me lo ricordo. — لا أتذكره.
+- Ce ne sono tanti. — يوجد الكثير منها.
+- نصيحة: احفظ te lo وglielo أولا — هما الأكثر استعمالا في الكلام اليومي.
+
+> [!warning] Corrections to the source (تصحيحات)
+> - In 'ce ne sono' ci means 'there', not 'to us'.

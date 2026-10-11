@@ -4,7 +4,7 @@ aliases: [A2-G10]
 title: "Comparatives & Superlatives"
 level: A2
 type: grammar
-sources: ["A2 Part 12 · A2+.7"]
+sources: ["A2 Part 12 · A2+.7", "Arabic Lessons · L16"]
 status: Not Reviewed
 last_reviewed:
 weak_areas: []
@@ -40,3 +40,42 @@ tags: [a2, grammar]
 | piccolo       | minore (più piccolo)  | minimo                | —             |
 
 *Take care: «migliore» is an adjective (il migliore amico), «meglio» an adverb (Sto meglio. Parli meglio di me.). Before a noun, il più bel film… = il film più bello.*
+
+## 🇸🇦 Arabic lesson — Comparatives & superlatives
+<!-- src: Arabic Lessons · L16 -->
+
+### المقارنة والتفضيل
+
+*كيف تقول "أكبر من"، "أفضل"، "الأغلى في المدينة" — قاعدة قصيرة تفتح جملا كثيرة في المحادثة والكتابة.*
+
+#### المقارنة بـ più و meno
+
+| التركيبة | متى | مثال |
+|---|---|---|
+| più + صفة + di | مقارنة مع اسم/ضمير | Milano è più grande di Tunisi. |
+| più + صفة + che | مقارنة بين فعلين/صفة أخرى | È più facile parlare che scrivere. |
+| meno ... di/che | الأقل | Il bus è meno veloce del treno. |
+
+#### التساوي
+
+- Marco è come Paolo. — ماركو مثل باولو.
+- È tanto bravo quanto me. — هو ماهر بقدري.
+- Costa come l'altro. — يكلف مثل الآخر.
+
+#### التفضيل العظمى (الأكثر)
+
+il/la/i/le + più + صفة:
+
+- È la città più bella d'Italia. — أجمل مدينة في إيطاليا.
+- il ristorante meno caro — المطعم الأرخص.
+
+#### الشواذ المهمة — لا تقول "più buono"!
+
+| الصفة | المقارنة | مثال |
+|---|---|---|
+| buono (جيد) | migliore / meglio | La pizza è migliore qui. |
+| cattivo (سيئ) | peggiore / peggio | Il traffico è peggiore a Roma. |
+| grande (كبير) | maggiore (أيضا più grande) | il mio fratello maggiore — أخي الأكبر |
+| piccolo (صغير) | minore | la mia sorella minore |
+
+meglio/peggio للأحوال (أفضل/أسوأ)، migliore/peggiore للأشياء (أجود/أردأ).

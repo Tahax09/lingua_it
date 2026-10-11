@@ -4,7 +4,7 @@ aliases: [A1-G08]
 title: "Prepositions & Articulated Prepositions"
 level: A1
 type: grammar
-sources: ["A1 Part 1 · 1.8", "A2 Part 4 · 4.9", "A1 Part 4 · A1+.8"]
+sources: ["A1 Part 1 · 1.8", "A2 Part 4 · 4.9", "A1 Part 4 · A1+.8", "Arabic Lessons · L02"]
 status: Not Reviewed
 last_reviewed:
 weak_areas: []
@@ -61,3 +61,31 @@ Vado al cinema. · Il libro è sul tavolo. · Vengo dalla Francia. · Lavoro dal
 | con             | with                                  | Esco con gli amici                                         |
 | su              | on, about                             | sul tavolo · un libro sull'Italia                          |
 | tra / fra       | between, in (time)                    | Torno tra due ore · tra Roma e Milano                      |
+
+## 🇸🇦 Arabic lesson — Prepositions — di, a, da, in
+<!-- src: Arabic Lessons · L02 -->
+
+### حروف الجر: di, a, da, in — الخريطة الكاملة
+
+*حروف الجر الإيطالية التسعة هي أصغر الكلمات وأكبر مصدر للأخطاء — لكن معانيها الأساسية ثابتة وواضحة.*
+
+#### الجدول الأساسي
+
+| الحرف | المعنى الأساسي | مثال |
+|---|---|---|
+| di | من / ملكية (مثل ـِ الإضافة) | il libro di Marco — كتاب ماركو |
+| a | إلى / في (مدينة) | vado a Roma — أذهب إلى روما |
+| da | من / عند / منذ | vengo da Tunisi — جئت من تونس |
+| in | في (دولة/وسيلة نقل/مكان) | in Italia, in treno, in macchina |
+| con | مع | caffè con latte — قهوة بالحليب |
+| su | على | sul tavolo — على الطاولة |
+| per | لأجل / لمدة | per te — لك / per due giorni |
+| tra / fra | بين | tra noi — بيننا |
+
+#### a أم in؟ القاعدة التي تحتاجها فقط
+
+المدن تأخذ a: a Tunisi, a Roma, a Milano. الدول والمناطق تأخذ in: in Tunisia, in Italia, in Europa. «أنا في تونس» = sono a Tunisi، و«أنا في تونس البلد» = sono in Tunisia. نفس الكلمة، معنى مختلف — المدينة بالـ a والدولة بالـ in.
+
+#### الاندماجات — لا تهرب منها
+
+حروف الجر تندمج مع أدوات التعريف: di + il = del، a + il = al، da + il = dal، in + il = nel، su + il = sul. vado al ristorante = a + il. تحفظها ككلمات واحدة وليس كقاعدة — الاستماع للحوارات يجعلها تلقائية.

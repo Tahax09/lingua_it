@@ -17,6 +17,7 @@
 | A1-G13 | Reflexive Verbs | A1 | grammar | Not Reviewed | — | — |
 | A1-G14 | Imperative — Basics | A1 | grammar | Not Reviewed | — | — |
 | A1-G15 | Spelling & Pronunciation | A1 | grammar | Not Reviewed | — | — |
+| A1-G16 | Demonstratives & Indefinites | A1 | grammar | Not Reviewed | — | — |
 | A1-V01 | Vocabulary | A1 | vocabulary | Not Reviewed | — | — |
 | A1-V02 | Sentence Bank | A1 | vocabulary | Not Reviewed | — | — |
 | A1-S01 | Speaking Practice — Days 1–21 | A1 | speaking | Not Reviewed | — | — |
@@ -38,6 +39,7 @@
 | A2-G10 | Comparatives & Superlatives | A2 | grammar | Not Reviewed | — | — |
 | A2-G11 | Tense Clue Words & Time Structures | A2 | grammar | Not Reviewed | — | — |
 | A2-G12 | Verb Reference — High-Frequency Verbs Across Tenses | A2 | grammar | Not Reviewed | — | — |
+| A2-G13 | Impersonal Constructions | A2 | grammar | Not Reviewed | — | — |
 | A2-V01 | Vocabulary | A2 | vocabulary | Not Reviewed | — | — |
 | A2-S01 | Speaking Practice — Days 22–42 | A2 | speaking | Not Reviewed | — | — |
 | A2-S02 | Conversations, Slang & Expressions | A2 | speaking | Not Reviewed | — | — |

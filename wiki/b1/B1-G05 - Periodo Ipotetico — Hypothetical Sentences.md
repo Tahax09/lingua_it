@@ -4,7 +4,7 @@ aliases: [B1-G05]
 title: "Periodo Ipotetico — Hypothetical Sentences"
 level: B1
 type: grammar
-sources: ["B1 Part 1 · 1.6", "B1 Part 4 · B1+.3"]
+sources: ["B1 Part 1 · 1.6", "B1 Part 4 · B1+.3", "Arabic Lessons · L23"]
 status: Not Reviewed
 last_reviewed:
 weak_areas: []
@@ -42,3 +42,35 @@ Type 2 verbs: avessi / fossi / potessi / facessi / andassi / dicessi + condizion
 | Mixed                     | Se + trapassato congiuntivo | condizionale presente          | Se avessi studiato, ora sarei laureato.        |
 
 *Never put the conditional after «se»: Se avessi tempo, andrei ✓ — Se andrei ✗. In very colloquial speech Italians say «Se avevo tempo, venivo» (imperfetto both sides) but avoid it in writing.*
+
+## 🇸🇦 Arabic lesson — If-clauses (periodo ipotetico)
+<!-- src: Arabic Lessons · L23 -->
+
+### الجمل الشرطية مع se: لو... إذا...
+
+*«لو كان عندي مال لسافرت» — الشرطية الإيطالية لها ثلاث درجات: محتمل، غير محتمل في الحاضر، ومستحيل في الماضي. مثل العربية تماما في الفكرة.*
+
+#### النوع الأول — شرط حقيقي (se + indicativo)
+
+شيء ممكن: se + مضارع/مستقبل → مضارع/مستقبل:
+
+- Se piove, resto a casa. — إن مطرت، أبقى في البيت.
+- Se studi, passerai l'esame. — إن درست، ستنجح.
+- Se hai fame, mangia! — إن كنت جائعا، كُل!
+
+#### النوع الثاني — شرط متخيل (se + congiuntivo imperfetto → condizionale)
+
+خيال في الحاضر — مثل «لو كنتَ غنيا لاشتريت»:
+
+- Se fossi ricco, comprerei una villa. — لو كنت غنيا، لاشتريت فيلا.
+- Se avessi tempo, verrei con te. — لو كان عندي وقت، لجئت معك.
+- Se parlassi italiano, troverei lavoro. — لو تكلمت الإيطالية، لوجدت عملا.
+- قاعدة صارمة: بعد se للتخيل لا نقول condizionale — خطأ شائع حتى بين الإيطاليين: ❌ se sarei
+
+#### النوع الثالث — ندم على الماضي
+
+شيء فات وانتهى: se + congiuntivo trapassato → condizionale passato:
+
+- Se avessi studiato, avrei passato l'esame. — لو درست، لكنت نجحت.
+- Se fossi partito presto, non avrei perso il treno. — لو انطلقت مبكرا، لما فاتني القطار.
+- الأصعب لكنه الأكثر أهمية للفهم — الإيطاليون يستعملونه كثيرا في القصص والندم.

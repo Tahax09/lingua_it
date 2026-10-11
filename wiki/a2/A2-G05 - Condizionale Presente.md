@@ -4,7 +4,7 @@ aliases: [A2-G05]
 title: "Condizionale Presente"
 level: A2
 type: grammar
-sources: ["A2 Part 4 · 4.5", "A2 Part 12 · A2+.5"]
+sources: ["A2 Part 4 · 4.5", "A2 Part 12 · A2+.5", "Arabic Lessons · L11"]
 status: Not Reviewed
 last_reviewed:
 weak_areas: []
@@ -50,3 +50,25 @@ Same irregular stem as Futuro + these endings: -ei / -esti / -ebbe / -emmo / -es
 | Advice                                   | Dovresti dormire di più. · Dovreste prenotare.                         |
 | Wish / suggestion                        | Mi piacerebbe viaggiare. · Potremmo andare al mare.                    |
 | Hypothesis (you will see it again at B1) | Se avessi tempo, andrei. (B1)                                          |
+
+## 🇸🇦 Arabic lesson — Politeness — vorrei, potrei, dovrei
+<!-- src: Arabic Lessons · L11 -->
+
+### التهذيب الإيطالي: vorrei بدل voglio
+
+*في إيطاليا التهذيب ليس خيارا — إنه القاعدة. vorrei و potrei و dovrei هي كلمات اللباقة التي ستفرق بين سائح مزعج وضيف مرحب به.*
+
+#### الثلاثي الذهبي
+
+ثلاث صيغ شرطية تستعملها يوميا عشرات المرات: vorrei (أريد بلباقة — بدل voglio أريد مباشرة)، potrei (هل يمكنني...؟)، dovrei (ينبغي أن...). Vorrei un caffè عند النادل، وليس voglio un caffè — الفرق بين «أريد» و«لو سمحت أريد».
+
+#### عبارات اللباقة الجاهزة
+
+Scusi / mi scusi عفوا (رسمي) — scusa (ودي). Potrebbe aiutarmi? هل يمكنك مساعدتي؟ Mi dà il conto, per favore? الحساب من فضلك؟ Le dispiace se...? هل تمانع لو...؟ Mi farebbe un favore? معروف منك؟
+
+#### تكوين الشرط — للفضوليين
+
+الشرطي يتكون بإضافة النهايات على جذر المستقبل (parler-): parlerei, parleresti, parlerebbe.... لكن عمليا احفظ هذه الثلاثة فقط في البداية: vorrei, potrei, dovrei — تغطي 90% من مواقف التهذيب.
+
+> [!warning] Corrections to the source (تصحيحات)
+> - Typo 'parlarei' → parlerei; the conditional is built on the future stem (parler-), not the bare infinitive.

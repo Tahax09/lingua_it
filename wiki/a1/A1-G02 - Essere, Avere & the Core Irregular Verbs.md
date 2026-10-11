@@ -4,7 +4,7 @@ aliases: [A1-G02]
 title: "Essere, Avere & the Core Irregular Verbs"
 level: A1
 type: grammar
-sources: ["A1 Part 1 · 1.4", "A2 Part 1 · 1.2"]
+sources: ["A1 Part 1 · 1.4", "A2 Part 1 · 1.2", "Arabic Lessons · L03"]
 status: Not Reviewed
 last_reviewed:
 weak_areas: []
@@ -50,3 +50,35 @@ AVERE for age and physical states: Ho venticinque anni · Ho fame / sete / fredd
 | noi         | siamo              | abbiamo             |
 | voi         | siete              | avete               |
 | loro        | sono               | hanno               |
+
+## 🇸🇦 Arabic lesson — Essere & avere (and stare)
+<!-- src: Arabic Lessons · L03 -->
+
+### essere و avere: العمود الفقري للغة الإيطالية
+
+*نصف الجمل الإيطالية تدور حول فعلين: «يكون» و«يملك». أتقنهما بالكامل قبل أي شيء آخر — وهما أسهل مما تتخيل.*
+
+#### التصريف الكامل في المضارع
+
+| الضمير | essere (يكون) | avere (يملك) |
+|---|---|---|
+| io | sono | ho |
+| tu | sei | hai |
+| lui/lei | è | ha |
+| noi | siamo | abbiamo |
+| voi | siete | avete |
+| loro | sono | hanno |
+
+انتبه: io sono وloro sono نفس الصيغة — السياق يوضح المعنى.
+
+متى تستعمل avere حيث العربية تقول «يكون»
+
+هذه أهم نقطة للعرب: الإيطالية «تملك» أشياء كثيرة نعتبرها حالات: ho fame (أنا جائع — أملك الجوع)، ho sete (عطشان)، ho freddo (بردان)، ho paura (خائف)، ho 25 anni (عمري 25 سنة)، ho ragione (أنا على حق). لا تقل أبدا sono fame — هذا خطأ العرب الشهير.
+
+#### متى تستعمل essere
+
+للهوية والمهنة والجنسية والصفات الثابتة: sono tunisino (أنا تونسي)، sono studente (أنا طالب)، è importante (هذا مهم). وللموقع الدائم: Roma è in Italia.
+
+#### فخ stare
+
+يوجد فعل ثالث يعني «يكون»: stare، لكنه للحالات المؤقتة والصحة: come stai? — sto bene (كيف حالك؟ بخير). القاعدة العملية: للصحة والمزاج استعمل stare، للهوية استعمل essere.

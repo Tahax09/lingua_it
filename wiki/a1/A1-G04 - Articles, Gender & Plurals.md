@@ -4,7 +4,7 @@ aliases: [A1-G04]
 title: "Articles, Gender & Plurals"
 level: A1
 type: grammar
-sources: ["A1 Part 1 · 1.5", "A2 Part 1 · 1.3", "A1 Part 4 · A1+.2"]
+sources: ["A1 Part 1 · 1.5", "A2 Part 1 · 1.3", "A1 Part 4 · A1+.2", "Arabic Lessons · L01", "Arabic Lessons · L04"]
 status: Not Reviewed
 last_reviewed:
 weak_areas: []
@@ -81,3 +81,59 @@ tags: [a1, grammar]
 | accented vowel, foreign word | no change                | il caffè → i caffè · la città → le città · il bar → i bar · il film → i film |                                                        |
 
 *Feminine nouns ending in -o: la mano → le mani, la foto → le foto, la moto → le moto. Many nouns that are feminine in Arabic are masculine in Italian and vice versa: il sole (الشمس f.) · la luna (القمر m.) — learn each noun WITH its article.*
+
+## 🇸🇦 Arabic lesson — Definite & indefinite articles
+<!-- src: Arabic Lessons · L01 -->
+
+### أدوات التعريف: il, lo, la — متى تستعمل كل واحدة؟
+
+*الإيطالية ليست فيها «ال» واحدة مثل العربية، بل سبع أدوات تعريف! لا تقلق — القاعدة بسيطة وتعتمد على أول حرف من الاسم وجنسه.*
+
+#### القاعدة الذهبية
+
+انظر لأول حرفين من الاسم وجنسه (مذكر/مؤنث)، ثم اختر الأداة من الجدول:
+
+| الأداة | متى تُستعمل | مثال |
+|---|---|---|
+| il | مذكر، يبدأ بحرف ساكن | il libro, il ragazzo |
+| lo | مذكر، يبدأ بـ s+ساكن، z, gn, ps, x, y | lo studente, lo zio, lo gnocco |
+| l' | مذكر أو مؤنث يبدأ بحرف متحرك | l'amico, l'amica |
+| la | مؤنث، يبدأ بحرف ساكن | la casa, la ragazza |
+| i | جمع il | i libri |
+| gli | جمع lo و l' المذكرة | gli studenti, gli amici |
+| le | جمع المؤنث كله | le case, le amiche |
+
+#### خدعة سريعة للحفظ
+
+احفظ هذه الأسماء «المشاغبة» التي تأخذ lo/gli: studente, sport, zio, zero, gnocco, psicologo. كل اسم مذكر يبدأ بـ s وبعدها حرف ساكن آخر = lo. إن شككت، جرّب il — ستفهم دائما حتى لو أخطأت.
+
+#### أدوات النكرة un/una
+
+مثل «واحد» في العربية: un مذكر (un libro, uno studente)، una مؤنث (una casa)، وun' قبل المتحرك المؤنث (un'amica). ومرة أخرى: الأسماء المشاغبة تأخذ uno وليس un.
+
+## 🇸🇦 Arabic lesson — Gender & plural endings
+<!-- src: Arabic Lessons · L04 -->
+
+### المذكر والمؤنث والجمع: قواعد النهايات
+
+*كيف تعرف أن casa مؤنثة و problemi مذكر جمع؟ نهايات الكلمات الإيطالية تخبرك بكل شيء — إن عرفت قراءتها.*
+
+#### خريطة النهايات
+
+| مفرد مذكر | جمع مذكر | مفرد مؤنث | جمع مؤنث |
+|---|---|---|---|
+| -o (libro) | -i (libri) | -a (casa) | -e (case) |
+| -e (studente) | -i (studenti) | -e (notte) | -i (notti) |
+
+القاعدة: o→i، a→e، e→i. ثلاثة أسهم فقط.
+
+#### الاستثناءات الشهيرة
+
+الأسماء المنتهية بـ -ma أصلها يوناني فهي مذكرة: il problema, il tema, il sistema, il programma. وبعض النهايات بـ -o مؤنثة يجب حفظها: la mano (اليد)، la radio، la foto، l'auto (هذه مختصرة من كلمات مؤنثة أطول).
+
+#### الجمع الشاذ
+
+بعض الكلمات لا تتبع القاعدة: l'uomo → gli uomini (رجل/رجال)، la mano → le mani، والكلمات الأجنبية لا تتغير: il computer → i computer. والأسماء المنتهية بمتحرك مشدد تبقى كما هي: la città → le città.
+
+> [!warning] Corrections to the source (تصحيحات)
+> - 'la gamba → le gambe' is regular, not irregular; replaced with la mano → le mani (feminine -o noun with -i plural).

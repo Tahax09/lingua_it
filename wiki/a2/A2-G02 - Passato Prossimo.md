@@ -4,7 +4,7 @@ aliases: [A2-G02]
 title: "Passato Prossimo"
 level: A2
 type: grammar
-sources: ["A2 Part 4 · 4.2", "A2 Part 12 · A2+.1", "A2 Part 4 · 4.8", "A2 Part 4 · 4.6"]
+sources: ["A2 Part 4 · 4.2", "A2 Part 12 · A2+.1", "A2 Part 4 · 4.8", "A2 Part 4 · 4.6", "Arabic Lessons · L06"]
 status: Not Reviewed
 last_reviewed:
 weak_areas: []
@@ -87,3 +87,31 @@ Auxiliary depends on the infinitive that follows: use ESSERE if the following ve
 > ***Es:** Non ho potuto finire il lavoro.* — I wasn't able to finish the work.
 >
 > ***Es:** Sono dovuta partire presto.* — I had to leave early. (essere-verb 'partire' → agreement)
+
+## 🇸🇦 Arabic lesson — Passato prossimo
+<!-- src: Arabic Lessons · L06 -->
+
+### الماضي القريب: كيف تقول «فعلتُ» بالإيطالية
+
+*أكثر زمن ستستعمله في الكلام اليومي. تركيبة بسيطة: فعل مساعد + اسم المفعول — لكن اختيار المساعد هو المفتاح.*
+
+#### التركيبة
+
+الماضي القريب = avere/essere بالمضارع + اسم المفعول. اسم المفعول يتكون بحذف نهاية المصدر: -are → -ato (parlato)، -ere → -uto (venduto)، -ire → -ito (dormito). مثال: ho parlato = تكلمتُ / تكلمت.
+
+#### avere أم essere؟ السؤال المليون يورو
+
+أغلب الأفعال تأخذ avere: ho mangiato, ho visto, ho lavorato. لكن أفعال الحركة والتغير والبقاء تأخذ essere: sono andato (ذهبت)، sono arrivato (وصلت)، sono nato (ولدت)، sono rimasto (بقيت)، sono diventato (أصبحت).
+
+خدعة للحفظ: كل أفعال الحركة والتغيير والحياة/الموت تأخذ essere، وكذلك كل الأفعال الانعكاسية. عمليا: إن تحركت أو تغيرت أو بقيت = essere.
+
+#### التوافق مع essere
+
+عند استعمال essere، اسم المفعول يوافق الفاعل في الجنس والعدد: sono andato (رجل)، sono andata (امرأة)، siamo andati (رجال)، siamo andate (نساء). مع avere لا يتغير: ho mangiato دائما.
+
+#### أسماء مفعول شاذة تحفظ كما هي
+
+fare → fatto, dire → detto, scrivere → scritto, leggere → letto, prendere → preso, mettere → messo, vedere → visto, essere → stato, bere → bevuto, aprire → aperto, venire → venuto, rispondere → risposto, chiedere → chiesto. هي الأكثر استعمالا لذا ستحفظها سريعا.
+
+> [!warning] Corrections to the source (تصحيحات)
+> - 'Dr. & Mrs. Vandertramp' is a French mnemonic and does not map onto Italian; replaced with the Italian rule (movement / change of state / staying, plus all reflexives).

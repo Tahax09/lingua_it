@@ -104,3 +104,7 @@ Everything else → AVERE (transitive verbs and most others): Ho mangiato · Ho 
 | Negation and adverbs sit around the auxiliary                    | Non ho mangiato · Ho già mangiato · Non ho ancora finito · Ho appena visto · Non sono mai stato a Roma                |
 
 بالعربية: الأفعال التي تعبّر عن الحركة أو التغيّر (andare, venire, nascere…) وكل الأفعال المنعكسة تأخذ essere وتتطابق مع الفاعل. باقي الأفعال تأخذ avere ولا مطابقة إلا مع الضمائر lo/la/li/le.
+
+> [!info] Arabic lesson (درس بالعربية)
+> «الماضي القريب: كيف تقول «فعلتُ» بالإيطالية» — see [[A2-G02 - Passato Prossimo#🇸🇦 Arabic lesson — Passato prossimo]]
+<!-- xref: Arabic Lessons · L06 -->

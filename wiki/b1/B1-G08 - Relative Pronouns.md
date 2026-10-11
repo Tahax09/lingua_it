@@ -4,7 +4,7 @@ aliases: [B1-G08]
 title: "Relative Pronouns"
 level: B1
 type: grammar
-sources: ["B1 Part 4 · B1+.4"]
+sources: ["B1 Part 4 · B1+.4", "Arabic Lessons · L20"]
 status: Not Reviewed
 last_reviewed:
 weak_areas: []
@@ -33,3 +33,34 @@ tags: [b1, grammar]
 | quello che / ciò che | what (the thing that)                                | Quello che dici è vero. · Ciò che mi preoccupa è…                        |
 | il che               | the whole preceding clause                           | Ha vinto, il che mi rende felice.                                        |
 | il cui / la cui      | whose (agrees with the thing owned)                  | L'uomo la cui moglie è medico…                                           |
+
+## 🇸🇦 Arabic lesson — Relative pronouns — che, cui, dove
+<!-- src: Arabic Lessons · L20 -->
+
+### ضمائر الوصل: che, cui, dove
+
+*مثل «الذي/التي/الذين» في العربية — تربط جملتين في جملة واحدة: «الكتاب الذي اشتريته» = **il libro che ho comprato**.*
+
+#### che — التي/الذي العامة
+
+che تعوّض الفاعل أو المفعول — الأكثر استعمالا بنسبة ٩٠٪:
+
+- Il ragazzo che parla è mio fratello. — الشاب الذي يتكلم هو أخي.
+- Il film che ho visto era bello. — الفيلم الذي شاهدته كان جميلا.
+- La casa che vedi è vecchia. — البيت الذي تراه قديم.
+- لا تتغير مع الجنس أو العدد — che واحدة للكل.
+
+#### cui — التي/الذي مع حروف الجر
+
+بعد حرف جر لا نستعمل che بل cui: مثل «الذي به/الذي له»:
+
+- L'amico a cui scrivo — الصديق الذي أكتب له.
+- La città in cui vivo — المدينة التي أعيش فيها.
+- Il motivo per cui studio — السبب الذي من أجله أدرس.
+- لاحظ: حرف الجر يبقى قبل cui — ترتيب عكس العربية تماما.
+
+#### dove و quello che
+
+dove = الذي/حيث للمكان: il posto dove sono nato — المكان الذي وُلدت فيه.
+
+quello che / ciò che = «ما» بمعنى «الذي» العام: Faccio quello che posso. — أفعل ما أستطيع. Quello che dici è vero. — ما تقوله صحيح.

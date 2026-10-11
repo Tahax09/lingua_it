@@ -81,3 +81,7 @@ This is the enhancement for level B1. Your pack concentrates on the congiuntivo;
 *Colloquial note: in everyday speech Italians often replace the subjunctive with the indicative after «penso che / credo che» (Penso che è giusto). It is common but marked as informal — in an exam or in writing use the subjunctive.*
 
 بالعربية: اسأل نفسك: هل هناك فاعل مختلف بعد che؟ هل الفعل يعبّر عن رأي/رغبة/شك/عاطفة؟ إذا نعم → congiuntivo. أما اليقين (So che, È vero che) → المضارع العادي.
+
+> [!info] Arabic lesson (درس بالعربية)
+> «الـ Congiuntivo: che io sia — زمن الشك والرأي» — see [[B1-G01 - Congiuntivo Presente — Forms#🇸🇦 Arabic lesson — Congiuntivo presente]]
+<!-- xref: Arabic Lessons · L24 -->

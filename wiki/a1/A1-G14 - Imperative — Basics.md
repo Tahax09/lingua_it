@@ -34,3 +34,7 @@ tags: [a1, grammar]
 | scusare      | scusa                | scusi                | scusate      |
 
 Place words: a destra · a sinistra · sempre dritto · all'angolo · di fronte a · accanto a · vicino a · lontano da · il primo / secondo incrocio · il semaforo. Negative tu imperative = non + infinitive: Non girare qui!
+
+> [!info] Arabic lesson (درس بالعربية)
+> «صيغة الأمر: اطلب، اكتب، اذهب!» — see [[B1-G11 - Imperative — Full#🇸🇦 Arabic lesson — Imperative]]
+<!-- xref: Arabic Lessons · L21 -->

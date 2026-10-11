@@ -4,7 +4,7 @@ aliases: [A2-G04]
 title: "Futuro Semplice"
 level: A2
 type: grammar
-sources: ["A2 Part 4 · 4.4", "A2 Part 12 · A2+.4"]
+sources: ["A2 Part 4 · 4.4", "A2 Part 12 · A2+.4", "Arabic Lessons · L13"]
 status: Not Reviewed
 last_reviewed:
 weak_areas: []
@@ -58,3 +58,59 @@ Regular: -ARE and -ERE verbs share endings; -ARE verbs change the a → e before
 | Present for the near, planned future | Domani vado al cinema. (very common)                   |
 
 بالعربية: المستقبل يُصاغ بتغيير النهاية: -erò, -erai, -erà, -eremo, -erete, -eranno. ويُستعمل أيضاً للاحتمال في الحاضر (Sarà a casa = غالباً هو في البيت). والأفعال الشاذة: sarò, avrò, andrò, farò, verrò, vedrò, potrò.
+
+## 🇸🇦 Arabic lesson — Futuro semplice
+<!-- src: Arabic Lessons · L13 -->
+
+### المستقبل البسيط (Futuro)
+
+*زمن المستقبل — للتخطيط والوعود والتنبؤات. ملاحظة مهمة: الإيطاليون يستعملون المضارع كثيرا للمستقبل القريب!*
+
+#### التصريف المنتظم
+
+احذف -e الأخيرة من المصدر (وفي أفعال -are تتحول a إلى e: parlare → parler-) وأضف:
+
+| الضمير | parlare | credere | partire |
+|---|---|---|---|
+| io | parlerò | crederò | partirò |
+| tu | parlerai | crederai | partirai |
+| lui/lei | parlerà | crederà | partirà |
+| noi | parleremo | crederemo | partiremo |
+| voi | parlerete | crederete | partirete |
+| loro | parleranno | crederanno | partiranno |
+
+#### تغييرات الإملاء المهمة
+
+- -care / -gare تضيف h: cercare → cercherò، pagare → pagherò
+- -ciare / -giare تحذف i: cominciare → comincerò، mangiare → mangerò
+- -iare باقية تحذف i: studiare → studierò
+
+#### أهم الشواذ — احفظها
+
+| الفعل | io (المستقبل) |
+|---|---|
+| essere | sarò |
+| avere | avrò |
+| andare | andrò |
+| fare | farò |
+| stare | starò |
+| potere | potrò |
+| volere | vorrò |
+| dovere | dovrò |
+| sapere | saprò |
+| vedere | vedrò |
+| venire | verrò |
+| bere | berrò |
+| rimanere | rimarrò |
+| vivere | vivrò |
+
+#### سر عملي
+
+للمستقبل القريب والمؤكد، الإيطاليون يستعملون المضارع: Domani parto — "غدا أسافر" (وليس partirò). المستقبل الحقيقي للتنبؤات والوعود والقرارات اللحظية: Ti aiuterò, vedrai! — سأساعدك، سترى!
+
+> [!warning] Corrections to the source (تصحيحات)
+> - All verbs drop the final -e of the infinitive; -are verbs also change a → e (parlare → parlerò). Nothing special happens to -ire.
+
+> [!info] Arabic lesson (درس بالعربية)
+> «المستقبل التام والتخمين: avrò finito, sarà lui» — see [[B1-G04 - Compound Tenses#🇸🇦 Arabic lesson — Futuro anteriore & future of probability]]
+<!-- xref: Arabic Lessons · L28 -->

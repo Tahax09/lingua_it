@@ -4,7 +4,7 @@ aliases: [A2-G03]
 title: "Imperfetto & Passato Prossimo vs Imperfetto"
 level: A2
 type: grammar
-sources: ["A2 Part 4 · 4.3", "A2 Part 12 · A2+.3"]
+sources: ["A2 Part 4 · 4.3", "A2 Part 12 · A2+.3", "Arabic Lessons · L12"]
 status: Not Reviewed
 last_reviewed:
 weak_areas: []
@@ -79,3 +79,51 @@ Endings: -ARE → -avo/-avi/-ava/-avamo/-avate/-avano · -ERE → -evo... · -IR
 | avere     | Avevo fame. (I was hungry)    | Ho avuto un'idea. (I got an idea)    |
 
 بالعربية: في العربية الماضي التام والماضي الاستمراري يُميَّزان بالسياق؛ أما في الإيطالية فاستعمل passato prossimo للحدث المنتهي، وimperfetto للوصف والعادة والخلفية (Faceva freddo).
+
+## 🇸🇦 Arabic lesson — Imperfetto
+<!-- src: Arabic Lessons · L12 -->
+
+### الماضي الناقص (Imperfetto)
+
+*الزمن الذي نستعمله للعادات القديمة والوصف والأحداث المستمرة في الماضي — "كنتُ أذهب"، "كان الجو جميلا". أهم زمن بعد الماضي القريب.*
+
+#### متى نستعمله؟
+
+ثلاث حالات رئيسية:
+
+- عادة متكررة في الماضي: Da bambino giocavo fuori — في صغري كنت ألعب خارجا.
+- وصف (أشخاص، طقس، مشاعر): Era una bella giornata — كان يوما جميلا.
+- حدث مستمر قطعه حدث آخر: Dormivo quando hai chiamato — كنت نائما عندما اتصلت.
+
+#### التصريف المنتظم
+
+| الضمير | -are | -ere | -ire |
+|---|---|---|---|
+| io | parlavo | credevo | dormivo |
+| tu | parlavi | credevi | dormivi |
+| lui/lei | parlava | credeva | dormiva |
+| noi | parlavamo | credevamo | dormivamo |
+| voi | parlavate | credevate | dormivate |
+| loro | parlavano | credevano | dormivano |
+
+القاعدة: احذف -re وأضف النهايات -vo, -vi, -va, -vamo, -vate, -vano.
+
+#### الأفعال الشاذة
+
+| الفعل | المعنى | التصريف |
+|---|---|---|
+| essere | يكون | ero, eri, era, eravamo, eravate, erano |
+| fare | يفعل | facevo, facevi, faceva, facevamo, facevate, facevano |
+| dire | يقول | dicevo, dicevi, diceva, dicevamo, dicevate, dicevano |
+| bere | يشرب | bevevo, bevevi, beveva, bevevamo, bevevate, bevevano |
+| tradurre | يترجم | traducevo, traducevi, traduceva... |
+
+#### imperfetto أم passato prossimo؟
+
+| الماضي الناقص | الماضي القريب |
+|---|---|
+| عادة متكررة: ogni giorno prendevo il bus | حدث مرة واحدة: ieri ho preso il bus |
+| وصف خلفية: pioveva e faceva freddo | حدث محدد: è arrivato alle otto |
+| حال مستمر: dormivo | نقطة زمنية: mi sono svegliato |
+
+القاعدة العملية: الخلفية والعادات = imperfetto، الأحداث المحددة = passato prossimo.

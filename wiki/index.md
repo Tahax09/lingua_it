@@ -2,7 +2,7 @@
 
 Italian A1 → B2 study wiki. Every page = one topic, sorted by CEFR level. Sources live in `raw/sources/` (never edited).
 
-Legend: **↪** = page includes sections moved here from another level's file during the 2026-10-10 re-sort.
+Legend: **↪** = includes sections re-sorted from another level's file · **🇸🇦** = includes a full Arabic-language lesson
 
 ## A1 — Beginner
 
@@ -10,21 +10,22 @@ Legend: **↪** = page includes sections moved here from another level's file du
 
 | ID | Page | Status |
 |----|------|--------|
-| A1-G01 | [[A1-G01 - Present Tense — Regular Verbs\|Present Tense — Regular Verbs]] ↪ | Not Reviewed |
-| A1-G02 | [[A1-G02 - Essere, Avere & the Core Irregular Verbs\|Essere, Avere & the Core Irregular Verbs]] ↪ | Not Reviewed |
-| A1-G03 | [[A1-G03 - Subject Pronouns\|Subject Pronouns]] ↪ | Not Reviewed |
-| A1-G04 | [[A1-G04 - Articles, Gender & Plurals\|Articles, Gender & Plurals]] ↪ | Not Reviewed |
-| A1-G05 | [[A1-G05 - Adjectives\|Adjectives]] ↪ | Not Reviewed |
+| A1-G01 | [[A1-G01 - Present Tense — Regular Verbs\|Present Tense — Regular Verbs]] ↪ 🇸🇦 | Not Reviewed |
+| A1-G02 | [[A1-G02 - Essere, Avere & the Core Irregular Verbs\|Essere, Avere & the Core Irregular Verbs]] ↪ 🇸🇦 | Not Reviewed |
+| A1-G03 | [[A1-G03 - Subject Pronouns\|Subject Pronouns]] ↪ 🇸🇦 | Not Reviewed |
+| A1-G04 | [[A1-G04 - Articles, Gender & Plurals\|Articles, Gender & Plurals]] ↪ 🇸🇦 | Not Reviewed |
+| A1-G05 | [[A1-G05 - Adjectives\|Adjectives]] ↪ 🇸🇦 | Not Reviewed |
 | A1-G06 | [[A1-G06 - Piacere — Expressing Likes\|Piacere — Expressing Likes]] | Not Reviewed |
 | A1-G07 | [[A1-G07 - Possessives\|Possessives]] | Not Reviewed |
-| A1-G08 | [[A1-G08 - Prepositions & Articulated Prepositions\|Prepositions & Articulated Prepositions]] ↪ | Not Reviewed |
-| A1-G09 | [[A1-G09 - Negation\|Negation]] | Not Reviewed |
-| A1-G10 | [[A1-G10 - Question Words, Numbers, Time & Dates\|Question Words, Numbers, Time & Dates]] ↪ | Not Reviewed |
+| A1-G08 | [[A1-G08 - Prepositions & Articulated Prepositions\|Prepositions & Articulated Prepositions]] ↪ 🇸🇦 | Not Reviewed |
+| A1-G09 | [[A1-G09 - Negation\|Negation]] 🇸🇦 | Not Reviewed |
+| A1-G10 | [[A1-G10 - Question Words, Numbers, Time & Dates\|Question Words, Numbers, Time & Dates]] ↪ 🇸🇦 | Not Reviewed |
 | A1-G11 | [[A1-G11 - Modal Verbs & More Irregulars\|Modal Verbs & More Irregulars]] | Not Reviewed |
 | A1-G12 | [[A1-G12 - C'è - Ci Sono, Essere vs Stare, Avere Expressions\|C'è - Ci Sono, Essere vs Stare, Avere Expressions]] | Not Reviewed |
-| A1-G13 | [[A1-G13 - Reflexive Verbs\|Reflexive Verbs]] | Not Reviewed |
+| A1-G13 | [[A1-G13 - Reflexive Verbs\|Reflexive Verbs]] 🇸🇦 | Not Reviewed |
 | A1-G14 | [[A1-G14 - Imperative — Basics\|Imperative — Basics]] | Not Reviewed |
 | A1-G15 | [[A1-G15 - Spelling & Pronunciation\|Spelling & Pronunciation]] | Not Reviewed |
+| A1-G16 | [[A1-G16 - Demonstratives & Indefinites\|Demonstratives & Indefinites]] 🇸🇦 | Not Reviewed |
 
 ### Vocabulary & Sentences
 
@@ -66,17 +67,18 @@ _none yet — saved under `wiki/quizzes/a1/`_
 | ID | Page | Status |
 |----|------|--------|
 | A2-G01 | [[A2-G01 - Avere vs Essere — Choosing the Auxiliary\|Avere vs Essere — Choosing the Auxiliary]] | Not Reviewed |
-| A2-G02 | [[A2-G02 - Passato Prossimo\|Passato Prossimo]] | Not Reviewed |
-| A2-G03 | [[A2-G03 - Imperfetto & Passato Prossimo vs Imperfetto\|Imperfetto & Passato Prossimo vs Imperfetto]] | Not Reviewed |
-| A2-G04 | [[A2-G04 - Futuro Semplice\|Futuro Semplice]] | Not Reviewed |
-| A2-G05 | [[A2-G05 - Condizionale Presente\|Condizionale Presente]] | Not Reviewed |
-| A2-G06 | [[A2-G06 - Presente Progressivo (stare + gerundio)\|Presente Progressivo (stare + gerundio)]] | Not Reviewed |
-| A2-G07 | [[A2-G07 - Direct & Indirect Object Pronouns\|Direct & Indirect Object Pronouns]] | Not Reviewed |
-| A2-G08 | [[A2-G08 - Ne & Ci\|Ne & Ci]] | Not Reviewed |
-| A2-G09 | [[A2-G09 - Adverbs in -mente\|Adverbs in -mente]] | Not Reviewed |
-| A2-G10 | [[A2-G10 - Comparatives & Superlatives\|Comparatives & Superlatives]] | Not Reviewed |
+| A2-G02 | [[A2-G02 - Passato Prossimo\|Passato Prossimo]] 🇸🇦 | Not Reviewed |
+| A2-G03 | [[A2-G03 - Imperfetto & Passato Prossimo vs Imperfetto\|Imperfetto & Passato Prossimo vs Imperfetto]] 🇸🇦 | Not Reviewed |
+| A2-G04 | [[A2-G04 - Futuro Semplice\|Futuro Semplice]] 🇸🇦 | Not Reviewed |
+| A2-G05 | [[A2-G05 - Condizionale Presente\|Condizionale Presente]] 🇸🇦 | Not Reviewed |
+| A2-G06 | [[A2-G06 - Presente Progressivo (stare + gerundio)\|Presente Progressivo (stare + gerundio)]] 🇸🇦 | Not Reviewed |
+| A2-G07 | [[A2-G07 - Direct & Indirect Object Pronouns\|Direct & Indirect Object Pronouns]] 🇸🇦 | Not Reviewed |
+| A2-G08 | [[A2-G08 - Ne & Ci\|Ne & Ci]] 🇸🇦 | Not Reviewed |
+| A2-G09 | [[A2-G09 - Adverbs in -mente\|Adverbs in -mente]] 🇸🇦 | Not Reviewed |
+| A2-G10 | [[A2-G10 - Comparatives & Superlatives\|Comparatives & Superlatives]] 🇸🇦 | Not Reviewed |
 | A2-G11 | [[A2-G11 - Tense Clue Words & Time Structures\|Tense Clue Words & Time Structures]] | Not Reviewed |
 | A2-G12 | [[A2-G12 - Verb Reference — High-Frequency Verbs Across Tenses\|Verb Reference — High-Frequency Verbs Across Tenses]] | Not Reviewed |
+| A2-G13 | [[A2-G13 - Impersonal Constructions\|Impersonal Constructions]] 🇸🇦 | Not Reviewed |
 
 ### Vocabulary & Sentences
 
@@ -117,18 +119,18 @@ _none yet — saved under `wiki/quizzes/a2/`_
 
 | ID | Page | Status |
 |----|------|--------|
-| B1-G01 | [[B1-G01 - Congiuntivo Presente — Forms\|Congiuntivo Presente — Forms]] | Not Reviewed |
+| B1-G01 | [[B1-G01 - Congiuntivo Presente — Forms\|Congiuntivo Presente — Forms]] 🇸🇦 | Not Reviewed |
 | B1-G02 | [[B1-G02 - When to Use the Subjunctive — Triggers & Doubt\|When to Use the Subjunctive — Triggers & Doubt]] | Not Reviewed |
-| B1-G03 | [[B1-G03 - Congiuntivo Imperfetto & Trapassato\|Congiuntivo Imperfetto & Trapassato]] | Not Reviewed |
-| B1-G04 | [[B1-G04 - Compound Tenses\|Compound Tenses]] | Not Reviewed |
-| B1-G05 | [[B1-G05 - Periodo Ipotetico — Hypothetical Sentences\|Periodo Ipotetico — Hypothetical Sentences]] | Not Reviewed |
+| B1-G03 | [[B1-G03 - Congiuntivo Imperfetto & Trapassato\|Congiuntivo Imperfetto & Trapassato]] 🇸🇦 | Not Reviewed |
+| B1-G04 | [[B1-G04 - Compound Tenses\|Compound Tenses]] 🇸🇦 | Not Reviewed |
+| B1-G05 | [[B1-G05 - Periodo Ipotetico — Hypothetical Sentences\|Periodo Ipotetico — Hypothetical Sentences]] 🇸🇦 | Not Reviewed |
 | B1-G06 | [[B1-G06 - Linking Sentences & Structured Writing\|Linking Sentences & Structured Writing]] | Not Reviewed |
 | B1-G07 | [[B1-G07 - Formal vs Informal Register\|Formal vs Informal Register]] | Not Reviewed |
-| B1-G08 | [[B1-G08 - Relative Pronouns\|Relative Pronouns]] | Not Reviewed |
-| B1-G09 | [[B1-G09 - Passive, Si Passivante & Fare + Infinitive\|Passive, Si Passivante & Fare + Infinitive]] | Not Reviewed |
+| B1-G08 | [[B1-G08 - Relative Pronouns\|Relative Pronouns]] 🇸🇦 | Not Reviewed |
+| B1-G09 | [[B1-G09 - Passive, Si Passivante & Fare + Infinitive\|Passive, Si Passivante & Fare + Infinitive]] 🇸🇦 | Not Reviewed |
 | B1-G10 | [[B1-G10 - Gerund, Participle & Infinitive Clauses\|Gerund, Participle & Infinitive Clauses]] | Not Reviewed |
-| B1-G11 | [[B1-G11 - Imperative — Full\|Imperative — Full]] | Not Reviewed |
-| B1-G12 | [[B1-G12 - Reported Speech\|Reported Speech]] | Not Reviewed |
+| B1-G11 | [[B1-G11 - Imperative — Full\|Imperative — Full]] 🇸🇦 | Not Reviewed |
+| B1-G12 | [[B1-G12 - Reported Speech\|Reported Speech]] 🇸🇦 | Not Reviewed |
 
 ### Vocabulary & Sentences
 
@@ -178,7 +180,7 @@ _none yet — saved under `wiki/quizzes/b1/`_
 | B2-G07 | [[B2-G07 - Advanced Conditionals & Wishes\|Advanced Conditionals & Wishes]] | Not Reviewed |
 | B2-G08 | [[B2-G08 - Discourse Markers & Connectors\|Discourse Markers & Connectors]] | Not Reviewed |
 | B2-G09 | [[B2-G09 - Register — Informal ↔ Formal\|Register — Informal ↔ Formal]] | Not Reviewed |
-| B2-G10 | [[B2-G10 - Combined Pronouns\|Combined Pronouns]] | Not Reviewed |
+| B2-G10 | [[B2-G10 - Combined Pronouns\|Combined Pronouns]] 🇸🇦 | Not Reviewed |
 | B2-G11 | [[B2-G11 - Passato Remoto — Recognition\|Passato Remoto — Recognition]] | Not Reviewed |
 
 ### Vocabulary & Sentences

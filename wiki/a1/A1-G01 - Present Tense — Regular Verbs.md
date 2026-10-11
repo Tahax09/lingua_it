@@ -4,7 +4,7 @@ aliases: [A1-G01]
 title: "Present Tense — Regular Verbs"
 level: A1
 type: grammar
-sources: ["A1 Part 1", "A1 Part 1 · 1.1", "A1 Part 1 · 1.2", "A2 Part 1 · 1.4", "A2 Part 2 · 2.3"]
+sources: ["A1 Part 1", "A1 Part 1 · 1.1", "A1 Part 1 · 1.2", "A2 Part 1 · 1.4", "A2 Part 2 · 2.3", "Arabic Lessons · L05"]
 status: Not Reviewed
 last_reviewed:
 weak_areas: []
@@ -210,3 +210,29 @@ Leggo il giornale. · Prendo un caffè al bar. · Non credo a questa storia. · 
 | parere (to seem)          | paio   | pari   | pare        | paiamo    | parete   | paiono   |
 | apparire (to appear)      | appaio | appari | appare      | appariamo | apparite | appaiono |
 | cogliere (to pick/gather) | colgo  | cogli  | coglie      | cogliamo  | cogliete | colgono  |
+
+## 🇸🇦 Arabic lesson — Present tense -are / -ere / -ire
+<!-- src: Arabic Lessons · L05 -->
+
+### تصريف المضارع: -are, -ere, -ire في صفحة واحدة
+
+*كل الأفعال الإيطالية المنتظمة تتبع ثلاثة أنماط فقط. احفظ النهايات الست لكل نمط وستصرف آلاف الأفعال.*
+
+#### النهايات الثلاث
+
+| الضمير | -are (parlare) | -ere (prendere) | -ire (dormire) |
+|---|---|---|---|
+| io | parlo | prendo | dormo |
+| tu | parli | prendi | dormi |
+| lui/lei | parla | prende | dorme |
+| noi | parliamo | prendiamo | dormiamo |
+| voi | parlate | prendete | dormite |
+| loro | parlano | prendono | dormono |
+
+#### الاستثناء الوحيد المهم: -isc-
+
+أفعال كثيرة من نمط -ire تضيف -isc- في المفرد وجمع الغائب: capire → capisco, capisci, capisce, capiamo, capite, capiscono. capisco (أفهم) من أشهر كلمات الإيطالية — احفظها. من هذه العائلة: finire, preferire, pulire.
+
+#### أفعال شاذة لا مفر من حفظها
+
+الأفعال الأكثر استعمالا هي الشاذة — الخبر الجيد أنك ستسمعها كثيرا فتحفظها دون عناء: andare (vado, vai, va, andiamo, andate, vanno)، fare (faccio, fai, fa, facciamo, fate, fanno)، volere (voglio, vuoi, vuole, vogliamo, volete, vogliono)، potere (posso, puoi, può...)، dovere (devo, devi, deve...). جدولها الكامل في [[A2-G12 - Verb Reference — High-Frequency Verbs Across Tenses]].

@@ -4,7 +4,7 @@ aliases: [A2-G06]
 title: "Presente Progressivo (stare + gerundio)"
 level: A2
 type: grammar
-sources: ["A2 Part 4 · 4.11"]
+sources: ["A2 Part 4 · 4.11", "Arabic Lessons · L15"]
 status: Not Reviewed
 last_reviewed:
 weak_areas: []
@@ -65,3 +65,33 @@ Used for an action happening right now, in this exact moment — not a habit. Co
 > ***Es:** Camminando, ho incontrato Maria.* — While walking, I met Maria.
 >
 > ***Es:** Mangio guardando la TV.* — I eat while watching TV.
+
+## 🇸🇦 Arabic lesson — Stare + gerundio
+<!-- src: Arabic Lessons · L15 -->
+
+### المضارع المستمر (Sto + gerundio)
+
+*للتعبير عما يحدث "الآن حرفيا": sto mangiando = أنا آكل الآن. أقرب زمن لفكرة "أنا أعمل حاليا".*
+
+#### التركيبة
+
+stare (مصرّف) + المصدر المستمر
+
+| المجموعة | النهاية | مثال |
+|---|---|---|
+| -are | -ando | parlare → sto parlando |
+| -ere | -endo | leggere → sto leggendo |
+| -ire | -endo | dormire → sto dormendo |
+
+تصريف stare: sto, stai, sta, stiamo, state, stanno.
+
+#### أمثلة حية
+
+- Cosa stai facendo? — ماذا تفعل الآن؟
+- Sto studiando per l'esame. — أذاكر للامتحان.
+- Stiamo mangiando, richiamo dopo. — نحن نأكل، أعاود الاتصال لاحقا.
+- Sta piovendo. — إنها تمطر الآن.
+
+#### الفرق عن العربية والإنجليزية
+
+الإيطالية تستعمل المستمر أقل من الإنجليزية — فقط للحدث الجاري هذه اللحظة. لكل ما عدا ذلك يكفي المضارع العادي: "أتعلم الإيطالية" = Imparo l'italiano (وليس sto imparando إلا إذا كنت تدرس الآن فعلا!).

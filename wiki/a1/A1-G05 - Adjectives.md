@@ -4,7 +4,7 @@ aliases: [A1-G05]
 title: "Adjectives"
 level: A1
 type: grammar
-sources: ["A1 Part 4 · A1+.3", "A2 Part 1 · 1.6"]
+sources: ["A1 Part 4 · A1+.3", "A2 Part 1 · 1.6", "Arabic Lessons · L07", "Arabic Lessons · L30"]
 status: Not Reviewed
 last_reviewed:
 weak_areas: []
@@ -50,3 +50,72 @@ Adjectives normally follow the noun (una macchina rossa, un ragazzo simpatico). 
 | nuovo / vecchio  | new / old        | جديد / قديم |
 | caldo / freddo   | hot / cold       | حار / بارد  |
 | felice / triste  | happy / sad      | سعيد / حزين |
+
+## 🇸🇦 Arabic lesson — Adjectives & possessives
+<!-- src: Arabic Lessons · L07 -->
+
+### الصفات وضمائر الملكية: أبيض أم بيضاء؟
+
+*الصفة الإيطالية «تتبع» الاسم: تتغير معه في الجنس والعدد تماما كأدوات التعريف.*
+
+#### قاعدة التوافق
+
+الصفة المنتهية بـ -o لها 4 صيغ مثل الاسم: rosso, rossa, rossi, rosse: un libro rosso, una macchina rossa, i libri rossi, le macchine rosse. والصفة المنتهية بـ -e لها صيغتان فقط: grande → grandi: un ragazzo grande, una casa grande, case grandi.
+
+#### الموقع: بعد الاسم عادة
+
+عكس العربية؟ لا — مثلها تقريبا: الصفة تأتي بعد الاسم: una macchina rossa (سيارة حمراء)، un ragazzo italiano (شاب إيطالي). لكن صفات قليلة شائعة تتقدم: bello, buono, grande, piccolo, nuovo, vecchio: una bella casa، un buon caffè.
+
+#### ضمائر الملكية
+
+| مذكر مفرد | مذكر جمع | مؤنث مفرد | مؤنث جمع | المعنى |
+|---|---|---|---|---|
+| il mio | i miei | la mia | le mie | ـي (لي) |
+| il tuo | i tuoi | la tua | le tue | ـك (لك) |
+| il suo | i suoi | la sua | le sue | ـه/ـها |
+| il nostro | i nostri | la nostra | le nostre | ـنا |
+| il vostro | i vostri | la vostra | le vostre | ـكم |
+| il loro | i loro | la loro | le loro | ـهم |
+
+ملاحظتان: loro لا يتغير أبدا، وأعضاء العائلة المفردة تسقط الأداة: mia madre وليس la mia madre (لكن i miei fratelli).
+
+## 🇸🇦 Arabic lesson — Special adjectives — buono, bello, grande
+<!-- src: Arabic Lessons · L30 -->
+
+### صفات بقواعد خاصة: buono, grande, bello
+
+*معظم الصفات نظامية، لكن ثلاثا من الأكثر استعمالا تتغير حسب مكانها واسمها — buono, bello, grande. قواعدها تشبه قواعد الأدوات نفسها.*
+
+#### buono — يتصرف مثل un/uno
+
+buono قبل الاسم يتبع قاعدة أدوات النكرة:
+
+| قبل | الصيغة | مثال |
+|---|---|---|
+| مذكر عادي | buon | un buon libro |
+| مذكر «مشاغب» (s+، z...) | buono | un buono studente |
+| مؤنث | buona | una buona idea |
+| مؤنث بمتحرك | buon' | una buon'amica |
+
+بعد الاسم يبقى عاديا: il caffè è buono.
+
+#### bello — يتصرف مثل il/lo/la
+
+bello قبل الاسم يتبع أدوات التعريف:
+
+| قبل | الصيغة | مثال |
+|---|---|---|
+| il → | bel | un bel libro, un bel giorno |
+| lo → | bello | un bello sport |
+| l' → | bell' | un bell'amico |
+| la → | bella | una bella casa |
+| جمع i → | bei | bei libri |
+| جمع gli/le → | begli/belle | begli amici, belle case |
+
+Che bello! — «يا لها من روعة!» تعبير يومي.
+
+#### grande و santo
+
+grande قبل الاسم يُختصر أحيانا إلى gran: un gran uomo (رجل عظيم) مقابل un uomo grande (رجل كبير الحجم) — فرق المعنى!
+
+grande قبل = معنى مجازي (عظيم)، بعد = حجم (كبير). نفس القاعدة تقريبا مع povero (مسكين/فقير) وvecchio (قديم الصداقة/عجوز).

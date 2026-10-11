@@ -4,7 +4,7 @@ aliases: [A2-G09]
 title: "Adverbs in -mente"
 level: A2
 type: grammar
-sources: ["A2 Part 4 · 4.7", "A2 Part 3 · 3.2"]
+sources: ["A2 Part 4 · 4.7", "A2 Part 3 · 3.2", "Arabic Lessons · L29"]
 status: Not Reviewed
 last_reviewed:
 weak_areas: []
@@ -51,3 +51,50 @@ Rule: take the FEMININE singular form of the adjective + -mente. If the adjectiv
 | regolare      | regolarmente    | regularly (drops final -e) | بانتظام     |
 | forte         | fortemente      | strongly                   | بقوة        |
 | veloce        | velocemente     | fast                       | بسرعة       |
+
+## 🇸🇦 Arabic lesson — Adverbs
+<!-- src: Arabic Lessons · L29 -->
+
+### الظروف: bene, male, -mente, sempre, mai
+
+*كلمات تصف «كيف» يحدث الفعل — يتكلم **جيدا**، أذهب **دائما**. نهايتها الشهيرة **-mente** = «ـا/بشكل» في العربية.*
+
+#### الأساسيون — بلا -mente
+
+| الظرف | المعنى | مثال |
+|---|---|---|
+| bene | جيدا | Parlo bene italiano. |
+| male | سيئا | Sto male oggi. — لست بخير اليوم. |
+| sempre | دائما | Arrivo sempre presto. |
+| mai | أبدا | Non fumo mai. — لا أدخن أبدا. |
+| spesso | كثيرا/غالبا | Vado spesso al mare. |
+| già | بالفعل/سلفا | Ho già mangiato. |
+| ancora | بعد/مازال | Non è ancora arrivato. |
+| subito | فورا | Vengo subito! — آتي فورا! |
+
+#### نهاية -mente = «بـ/ـا»
+
+صفة مؤنثة + mente → ظرف. مثل happily من happy:
+
+- lentamente — ببطء
+- velocemente — بسرعة
+- facilmente — بسهولة
+- normalmente — عادة
+- purtroppo — للأسف (استثناء شائع)
+- الموقع: بعد الفعل مباشرة عادة — Parla lentamente.
+
+#### ظروف الوقت والمكان اليومية
+
+| الظرف | المعنى |
+|---|---|
+| oggi / domani / ieri | اليوم / غدا / أمس |
+| adesso / ora | الآن |
+| presto / tardi | مبكرا / متأخرا |
+| qui / lì / là | هنا / هناك |
+| sopra / sotto | فوق / تحت |
+| vicino / lontano | قريب / بعيد |
+| forse | ربما |
+| purtroppo | للأسف |
+
+> [!warning] Corrections to the source (تصحيحات)
+> - 'Sto male' means 'I'm not well / I feel bad', not 'I am bad'.

@@ -36,3 +36,7 @@ tags: [a1, grammar]
 Pattern: article + possessive + noun → Il mio telefono è nuovo. The possessive agrees with the THING owned, not the owner. Singular family members drop the article: mio padre, mia madre, but i miei fratelli, le mie sorelle. «loro» never changes: la loro casa.
 
 بالعربية: المُلكية تتبع الشيء المملوك لا المالك. مع الأقارب بالمفرد نحذف الأداة (mio padre)، ومع الجمع نضيفها (i miei fratelli).
+
+> [!info] Arabic lesson (درس بالعربية)
+> «الصفات وضمائر الملكية: أبيض أم بيضاء؟» — see [[A1-G05 - Adjectives#🇸🇦 Arabic lesson — Adjectives & possessives]]
+<!-- xref: Arabic Lessons · L07 -->

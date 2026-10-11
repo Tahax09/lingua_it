@@ -33,3 +33,11 @@ tags: [a1, grammar]
 | fare + weather    | weather         | Che tempo fa? · fa caldo · fa freddo · fa bel tempo · fa brutto tempo     |
 
 بالعربية: العربية تحذف فعل الكينونة في المضارع («أنا طالب») أما الإيطالية فلا تحذفه: Sono studente. وC'è / Ci sono = يوجد.
+
+> [!info] Arabic lesson (درس بالعربية)
+> «essere و avere: العمود الفقري للغة الإيطالية» — see [[A1-G02 - Essere, Avere & the Core Irregular Verbs#🇸🇦 Arabic lesson — Essere & avere (and stare)]]
+<!-- xref: Arabic Lessons · L03 -->
+
+> [!info] Arabic lesson (درس بالعربية)
+> «تركيبات لا تصرّف: c'è, bisogna, si può, è vietato» — see [[A2-G13 - Impersonal Constructions#🇸🇦 Arabic lesson — Impersonal constructions]]
+<!-- xref: Arabic Lessons · L33 -->

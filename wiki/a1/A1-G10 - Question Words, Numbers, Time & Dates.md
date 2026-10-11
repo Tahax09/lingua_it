@@ -4,7 +4,7 @@ aliases: [A1-G10]
 title: "Question Words, Numbers, Time & Dates"
 level: A1
 type: grammar
-sources: ["A1 Part 1 · 1.6", "A2 Part 1 · 1.5", "A1 Part 4 · A1+.7"]
+sources: ["A1 Part 1 · 1.6", "A2 Part 1 · 1.5", "A1 Part 4 · A1+.7", "Arabic Lessons · L10"]
 status: Not Reviewed
 last_reviewed:
 weak_areas: []
@@ -69,3 +69,32 @@ lunedì (Mon) · martedì (Tue) · mercoledì (Wed) · giovedì (Thu) · venerd�
 | **Date**          | Oggi è il 9 ottobre. · Il primo maggio (only the 1st is ordinal) · il 12 giugno 2026 = il dodici giugno duemilaventisei                                                                   |
 
 *Days of the week are masculine and lowercase except domenica (f.): il lunedì. «Il lunedì» = every Monday; «lunedì» alone = this Monday.*
+
+> [!info] Arabic lesson (درس بالعربية)
+> «النفي والأسئلة: non واحدة تكفي» — see [[A1-G09 - Negation#🇸🇦 Arabic lesson — Negation & questions]]
+<!-- xref: Arabic Lessons · L09 -->
+
+## 🇸🇦 Arabic lesson — Numbers & time
+<!-- src: Arabic Lessons · L10 -->
+
+### الأرقام والوقت: che ore sono?
+
+*الأرقام الإيطالية منتظمة جدا — احفظ 1-20 والعشرات وستبني أي رقم. والوقت له قاعدة صغيرة تحفظها في دقيقة.*
+
+#### البناء
+
+1-20 تحفظ كما هي (جدولها في قسم الأرقام). فوق ذلك: ventuno, ventidue, ventitré... — عشرات + آحاد مباشرة مثل العربية. الاستثناء: الأرقام المنتهية بـ 1 و8 تقطع آخر حرف من العشرات: ventuno ليس ventiuno، وtrentotto ليس trentootto.
+
+#### تفاصيل تهمك
+
+uno يتصرف كأداة النكرة: un libro, una casa, uno studente. وكل الأرقام لا تتغير إلا mille → mila في الجمع (duemila) وبناء العدد: cento ثابت (cento, duecento)، mille يتغير (duemila)، milione يأخذ di: un milione di euro.
+
+#### الوقت
+
+السؤال: Che ore sono? (كم الساعة؟ — جمع دائما إلا الواحدة). الجواب: Sono le tre (الثالثة)، È l'una (الواحدة فقط). النصف: e mezza (sono le tre e mezza). الربع: e un quarto. إلا: meno un quarto (sono le quattro meno un quarto = الرابعة إلا ربع).
+
+للمواعيد الرسمية الإيطاليون يستعملون نظام 24: il treno parte alle 14:30 (القطار يغادر الرابعة عشرة والنصف).
+
+#### الترتيبية
+
+أول، ثاني، ثالث...: primo, secondo, terzo, quarto, quinto, sesto, settimo, ottavo, nono, decimo — تتصرف كصفات عادية (il terzo piano الطابق الثالث، il primo giorno).

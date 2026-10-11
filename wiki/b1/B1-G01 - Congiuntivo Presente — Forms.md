@@ -4,7 +4,7 @@ aliases: [B1-G01]
 title: "Congiuntivo Presente — Forms"
 level: B1
 type: grammar
-sources: ["B1 Part 1", "B1 Part 1 · 1.1", "B1 Part 1 · 1.2"]
+sources: ["B1 Part 1", "B1 Part 1 · 1.1", "B1 Part 1 · 1.2", "Arabic Lessons · L24"]
 status: Not Reviewed
 last_reviewed:
 weak_areas: []
@@ -63,3 +63,51 @@ Penso che io sappia la risposta. · Spero che io possa aiutare. · Penso che io 
 **Quiz: «Penso che lui \_\_\_\_\_ ragione» → abbia (avere, 3rd person subjunctive). «ha» = indicative; «avere» = infinitive; «abbi» = imperative (tu), not subjunctive.**
 
 بالعربية: الأفعال الشاذة يجب حفظها: sia, abbia, vada, faccia, sappia, possa, voglia, debba, dica, stia. وللتذكير: abbi هو أمر (imperativo) وليس congiuntivo.
+
+## 🇸🇦 Arabic lesson — Congiuntivo presente
+<!-- src: Arabic Lessons · L24 -->
+
+### الـ Congiuntivo: che io sia — زمن الشك والرأي
+
+*أصعب باب في الإيطالية للعرب — زمن لا يوجد في لغتنا بالاسم لكن بالفكرة نعرفه: كل ما هو **رأي، أمل، شك، أمنية** بعد كلمة che يأخذ الكونجونتيفو.*
+
+#### متى يُستعمل؟
+
+بعد تعبيرات الرأي والأمل والشك — القاعدة: جملة رئيسية فيها شعور + che + كونجونتيفو:
+
+- Penso che sia intelligente. — أظن أنه ذكي.
+- Spero che tu venga. — أرجو أن تأتي.
+- Dubito che sia vero. — أشك أنه صحيح.
+- È importante che studi. — من المهم أن تدرس.
+- لكن لليقين لا نستعمله: So che è intelligente. — أعرف أنه ذكي (حقيقة → indicativo).
+
+#### التصريف — المنتظم
+
+نهايات تبدو «مقلوبة» مقارنة بالمضارع:
+
+|  | parlare | leggere | dormire | finire |
+|---|---|---|---|---|
+| che io | parli | legga | dorma | finisca |
+| che tu | parli | legga | dorma | finisca |
+| che lui/lei | parli | legga | dorma | finisca |
+| che noi | parliamo | leggiamo | dormiamo | finiamo |
+| che voi | parliate | leggiate | dormiate | finiate |
+| che loro | parlino | leggano | dormano | finiscano |
+
+أنا/أنت/هو نفس الصيغة — لذلك نحتفظ بالضمير: che io parli وليس che parli وحدها.
+
+#### الأفعال الشاذة — احفظها كلها
+
+| الفعل | che io |
+|---|---|
+| essere | sia, sia, sia, siamo, siate, siano |
+| avere | abbia, abbia, abbia, abbiamo, abbiate, abbiano |
+| andare | vada, vada, vada, andiamo, andiate, vadano |
+| fare | faccia, faccia, faccia, facciamo, facciate, facciano |
+| potere | possa... |
+| volere | voglia... |
+| dovere | debba... |
+| stare | stia... |
+| sapere | sappia... |
+
+Spero che tu stia bene. — أرجو أن تكون بخير: أشهر جملة تسمعها في الرسائل.

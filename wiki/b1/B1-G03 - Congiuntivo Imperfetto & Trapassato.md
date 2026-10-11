@@ -4,7 +4,7 @@ aliases: [B1-G03]
 title: "Congiuntivo Imperfetto & Trapassato"
 level: B1
 type: grammar
-sources: ["B1 Part 1 · 1.8"]
+sources: ["B1 Part 1 · 1.8", "Arabic Lessons · L25"]
 status: Not Reviewed
 last_reviewed:
 weak_areas: []
@@ -38,3 +38,42 @@ Sequence of tenses: present main verb → present or passato subjunctive (Penso 
 *Corrections to your pack: «Vorrei che io fossi venuto» and «Vorrei che fossi stato qui ieri» are unnatural. Use Avrei voluto che… / Vorrei che… + imperfetto for the present, and Avrei voluto che… + trapassato for the past. «Speravo che noi fossimo insieme» is fine (imperfetto). The pack's garbled «Vorrei che (noi - essere) stati insieme» → «Avrei voluto che fossimo stati insieme» or «Vorrei che fossimo insieme».*
 
 بالعربية: لدينا زمنان: congiuntivo imperfetto (fossi، avessi، parlassi) للرغبة في الحاضر، وcongiuntivo trapassato (fossi venuto، avessi studiato) للندم على الماضي.
+
+## 🇸🇦 Arabic lesson — Congiuntivo imperfetto
+<!-- src: Arabic Lessons · L25 -->
+
+### كونجونتيفو الماضي: se fossi, come se
+
+*«لو كنتُ، كأنه» — صيغة التخيل. تعلمتها مع الجمل الشرطية، وهذا تصريفها الكامل مع باقي استعمالاتها.*
+
+#### التصريف — سهل لأنه نظامي
+
+خذ جذع الماضي المستمر وبدّل النهايات:
+
+|  | parlare | leggere | dormire |
+|---|---|---|---|
+| io | parlassi | leggessi | dormissi |
+| tu | parlassi | leggessi | dormissi |
+| lui/lei | parlasse | leggesse | dormisse |
+| noi | parlassimo | leggessimo | dormissimo |
+| voi | parlaste | leggeste | dormiste |
+| loro | parlassero | leggessero | dormissero |
+
+#### الشواذ — ٤ فقط تستحق الحفظ
+
+| الفعل | io |
+|---|---|
+| essere | fossi, fossi, fosse, fossimo, foste, fossero |
+| stare | stessi... |
+| dare | dessi... |
+| fare | facessi... |
+
+Se fossi in te... — «لو كنت مكانك»: أشهر تعبير نصيحة في الإيطالية.
+
+#### الاستعمالات الثلاثة
+
+- Se avessi tempo... — لو كان عندي وقت (شرط متخيل)
+- Come se fosse un bambino. — كأنه طفل.
+- Vorrei che tu venissi. — أود أن تأتي.
+- Magari avessi ragione! — يا ليتني على صواب!
+- Magari + كونجونتيفو = «يا ليت» — أجمل تعبير للأمنية المستحيلة.

@@ -4,7 +4,7 @@ aliases: [B1-G11]
 title: "Imperative — Full"
 level: B1
 type: grammar
-sources: ["B1 Part 4 · B1+.7"]
+sources: ["B1 Part 4 · B1+.7", "Arabic Lessons · L21"]
 status: Not Reviewed
 last_reviewed:
 weak_areas: []
@@ -38,3 +38,43 @@ tags: [b1, grammar]
 | Negative tu = non + infinitive                                                 | Non parlare! · Non fumare qui.                |
 | Pronouns attach to tu / noi / voi (and double the consonant after short forms) | Dimmi! · Dammelo! · Fammi vedere · Andiamoci! |
 | Pronouns go BEFORE Lei imperatives                                             | Mi dica. · Si accomodi. · Me lo dia.          |
+
+## 🇸🇦 Arabic lesson — Imperative
+<!-- src: Arabic Lessons · L21 -->
+
+### صيغة الأمر: اطلب، اكتب، اذهب!
+
+*صيغة الأمر — كما في العربية «اكتب!»، الإيطالية له صيغ خاصة تختلف حسب «أنت/أنتم/نحن» والنفي عنده حيلة خاصة.*
+
+#### التصريف الموجب
+
+| الفعل | tu (أنت) | noi (لنـ) | voi (أنتم) |
+|---|---|---|---|
+| parlare | parla! | parliamo! | parlate! |
+| scrivere | scrivi! | scriviamo! | scrivete! |
+| dormire | dormi! | dormiamo! | dormite! |
+| finire | finisci! | finiamo! | finite! |
+
+للاحترام (Lei): استعمل الكونجونتيفو — mi scusi = اعذرني.
+
+#### النفي — لا + المصدر
+
+للنهي عن شيء مع «أنت»: non + مصدر الفعل — لا تصريف!
+
+- Non fumare! — لا تدخن!
+- Non preoccuparti! — لا تقلق!
+- Non toccare! — لا تلمس!
+- مع voi و noi نفي عادي: non parliamo di questo.
+
+#### أفعال شاذة شائعة
+
+| الفعل | tu | voi |
+|---|---|---|
+| essere | sii | siate |
+| avere | abbi | abbiate |
+| andare | va' / vai | andate |
+| fare | fa' / fai | fate |
+| dire | di' | dite |
+| stare | sta' / stai | state |
+
+أشهر ٣ تسمعها يوميا: dai! (هيا!)، vieni! (تعال!)، senti! (اسمع!).
