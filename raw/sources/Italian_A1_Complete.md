@@ -1,6 +1,6 @@
 # Italian Study Guide — Level A1 — Beginner (complete)
 
-English + Arabic · Taha's study guide · everything for this level in one file.
+English + Arabic · Study guide · everything for this level in one file.
 
 ## Contents
 
@@ -760,7 +760,7 @@ Record yourself with only the starter first, then compare. Models use masculine 
 
 | **Italiano**                                                                                                                      | **English**                                                                                                                       |
 |-----------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
-| Ciao! Mi chiamo Luca. Sono di Milano, ma adesso abito a L'Aquila. Ho ventidue anni. Sono uno studente e mi piace molto la musica. | Hi! My name is Luca. I'm from Milan, but now I live in L'Aquila. I'm twenty-two years old. I'm a student and I really like music. |
+| Ciao! Mi chiamo Luca. Sono di Milano, ma adesso abito a Bologna. Ho ventidue anni. Sono uno studente e mi piace molto la musica. | Hi! My name is Luca. I'm from Milan, but now I live in Bologna. I'm twenty-two years old. I'm a student and I really like music. |
 
 *Model persona — replace the details with your own and keep the same five steps.*
 
@@ -884,7 +884,7 @@ Record yourself with only the starter first, then compare. Models use masculine 
 
 | **Italiano**                                                                                                                                                                                                                                                                                                                  | **English**                                                                                                                                                                                                                                                                                                                                    |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Ciao, piacere! Mi chiamo Luca, sono di Milano e abito a L'Aquila. Ho ventidue anni e studio all'università. Nella mia famiglia siamo in sei. Di solito mi sveglio presto, vado a lezione e la sera studio. Mi piace la pizza, ma non mi piace il pesce. Il weekend esco con gli amici o vado al cinema. E tu, come ti chiami? | Hi, nice to meet you! My name is Luca, I'm from Milan and I live in L'Aquila. I'm twenty-two and I study at university. There are six of us in my family. I usually wake up early, go to class and study in the evening. I like pizza but I don't like fish. At the weekend I go out with friends or to the cinema. And you, what's your name? |
+| Ciao, piacere! Mi chiamo Luca, sono di Milano e abito a Bologna. Ho ventidue anni e studio all'università. Nella mia famiglia siamo in sei. Di solito mi sveglio presto, vado a lezione e la sera studio. Mi piace la pizza, ma non mi piace il pesce. Il weekend esco con gli amici o vado al cinema. E tu, come ti chiami? | Hi, nice to meet you! My name is Luca, I'm from Milan and I live in Bologna. I'm twenty-two and I study at university. There are six of us in my family. I usually wake up early, go to class and study in the evening. I like pizza but I don't like fish. At the weekend I go out with friends or to the cinema. And you, what's your name? |
 
 **Day 21 — Final A1 Challenge (5 min)**
 
@@ -1170,7 +1170,7 @@ This supplement adds what the A1 pack alone does not give you: whole conversatio
 **2. Presentarsi — introducing yourself**
 
 - A: Ciao, mi chiamo Sara. E tu?
-- B: Piacere, io sono Omar. Sono di Tripoli, ma abito a Roma.
+- B: Piacere, io sono Omar. Sono di Tunisi, ma abito a Roma.
 - A: Che cosa fai a Roma?
 - B: Studio ingegneria. E tu?
 - A: Lavoro in un ufficio. Parli italiano molto bene!
@@ -1202,7 +1202,7 @@ This supplement adds what the A1 pack alone does not give you: whole conversatio
 
 **6. Al telefono — a short phone call**
 
-- Tu: Pronto? Sono Taha. C'è Marco?
+- Tu: Pronto? Sono Ahmed. C'è Marco?
 - Amica: No, non c'è. Vuoi lasciare un messaggio?
 - Tu: Sì, digli di richiamarmi, per favore.
 - Amica: Va bene, glielo dico. Ciao!

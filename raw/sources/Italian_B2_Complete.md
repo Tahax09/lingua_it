@@ -1,6 +1,6 @@
 # Italian Study Guide — Level B2 — Upper-Intermediate (complete)
 
-English + Arabic · Taha's study guide · everything for this level in one file.
+English + Arabic · Study guide · everything for this level in one file.
 
 ## Contents
 

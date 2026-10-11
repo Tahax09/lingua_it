@@ -97,7 +97,7 @@ tags: [a2, grammar]
 | partire      | to leave / depart     | يغادر         | Sono partito da Roma stamattina.                 |
 | arrivare     | to arrive             | يصل           | Probabilmente arriverà domani.                   |
 | diventare    | to become             | يصبح          | Vuole diventare ingegnere.                       |
-| crescere     | to grow               | ينمو          | Sono cresciuto a Tripoli.                        |
+| crescere     | to grow               | ينمو          | Sono cresciuto a Tunisi.                        |
 | tornare      | to return             | يعود          | Sono tornato tardi ieri sera.                    |
 | cercare      | to look for           | يبحث عن       | Sto cercando lavoro a Napoli.                    |
 | trovare      | to find               | يجد           | Peter ha trovato lavoro come segretario.         |

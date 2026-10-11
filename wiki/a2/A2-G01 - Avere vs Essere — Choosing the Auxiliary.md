@@ -40,7 +40,7 @@ Both verbs do TWO jobs: (1) they're normal verbs with their own meaning, and (2)
 
 | **Uso**                      | **Esempio**                 | **English**                                                                                                        |
 |------------------------------|-----------------------------|--------------------------------------------------------------------------------------------------------------------|
-| Identità (identity)          | Sono Taha.                  | I am Taha.                                                                                                         |
+| Identità (identity)          | Sono Ahmed.                  | I am Ahmed.                                                                                                         |
 | Descrizione (description)    | Sono stanco. Sei alto.      | I am tired. You are tall.                                                                                          |
 | Luogo / posizione (location) | Sono a Roma.                | I am in Rome.                                                                                                      |
 | Nazionalità / professione    | Sono libico. Sei ingegnere. | I am Libyan. You are an engineer.                                                                                  |

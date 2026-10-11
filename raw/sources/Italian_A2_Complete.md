@@ -1,6 +1,6 @@
 # Italian Study Guide — Level A2 — Elementary (complete)
 
-English + Arabic · Taha's study guide · everything for this level in one file.
+English + Arabic · Study guide · everything for this level in one file.
 
 ## Contents
 
@@ -26,7 +26,7 @@ English + Arabic · Taha's study guide · everything for this level in one file.
 
 *Verbs · Vocabulary · A2 Grammar · Oral Exam Prep · CEFR Roadmap A0→B1*
 
-This guide is built from your two exam papers (Simulazione A2 and the June exam at l'Aquila) plus your own conjugation notes. It focuses on exactly what those exams test, plus a full map of where you've come from (A0/A1) and where you're going next (B1).
+This guide is built from your two exam papers (Simulazione A2 and the June exam) plus your own conjugation notes. It focuses on exactly what those exams test, plus a full map of where you've come from (A0/A1) and where you're going next (B1).
 
 **How to use this tonight (fast-refresh order)**
 
@@ -239,7 +239,7 @@ lunedì (Mon) · martedì (Tue) · mercoledì (Wed) · giovedì (Thu) · venerd�
 | partire      | to leave / depart     | يغادر         | Sono partito da Roma stamattina.                 |
 | arrivare     | to arrive             | يصل           | Probabilmente arriverà domani.                   |
 | diventare    | to become             | يصبح          | Vuole diventare ingegnere.                       |
-| crescere     | to grow               | ينمو          | Sono cresciuto a Tripoli.                        |
+| crescere     | to grow               | ينمو          | Sono cresciuto a Tunisi.                        |
 | tornare      | to return             | يعود          | Sono tornato tardi ieri sera.                    |
 | cercare      | to look for           | يبحث عن       | Sto cercando lavoro a Napoli.                    |
 | trovare      | to find               | يجد           | Peter ha trovato lavoro come segretario.         |
@@ -417,7 +417,7 @@ Both verbs do TWO jobs: (1) they're normal verbs with their own meaning, and (2)
 
 | **Uso**                      | **Esempio**                 | **English**                                                                                                        |
 |------------------------------|-----------------------------|--------------------------------------------------------------------------------------------------------------------|
-| Identità (identity)          | Sono Taha.                  | I am Taha.                                                                                                         |
+| Identità (identity)          | Sono Ahmed.                  | I am Ahmed.                                                                                                         |
 | Descrizione (description)    | Sono stanco. Sei alto.      | I am tired. You are tall.                                                                                          |
 | Luogo / posizione (location) | Sono a Roma.                | I am in Rome.                                                                                                      |
 | Nazionalità / professione    | Sono libico. Sei ingegnere. | I am Libyan. You are an engineer.                                                                                  |
@@ -672,7 +672,7 @@ Sample answer:
 
 Sample answer (childhood memory — uses Imperfetto for habits):
 
-> ***Es:** Da bambino abitavo a Tripoli con la mia famiglia. Ogni estate andavamo al mare e giocavamo sulla spiaggia tutto il giorno. Avevo paura dell'acqua profonda, ma mio padre mi insegnava sempre a nuotare. Un giorno, quando avevo dieci anni, ho nuotato da solo per la prima volta: è stato un momento molto importante per me.* — As a child I lived in Tripoli with my family. Every summer we would go to the sea and play on the beach all day. I was afraid of deep water, but my father always taught me to swim. One day, when I was ten, I swam alone for the first time: it was a very important moment for me.
+> ***Es:** Da bambino abitavo a Tunisi con la mia famiglia. Ogni estate andavamo al mare e giocavamo sulla spiaggia tutto il giorno. Avevo paura dell'acqua profonda, ma mio padre mi insegnava sempre a nuotare. Un giorno, quando avevo dieci anni, ho nuotato da solo per la prima volta: è stato un momento molto importante per me.* — As a child I lived in Tunisi with my family. Every summer we would go to the sea and play on the beach all day. I was afraid of deep water, but my father always taught me to swim. One day, when I was ten, I swam alone for the first time: it was a very important moment for me.
 
 *Notice the pattern: Imperfetto (abitavo, andavamo, avevo) for the repeated/background part, then ONE Passato Prossimo verb (ho nuotato) for the specific event that stands out.*
 
@@ -680,7 +680,7 @@ Sample answer (childhood memory — uses Imperfetto for habits):
 
 Sample answer:
 
-> ***Es:** Il prossimo weekend studierò per il mio esame di ingegneria e lavorerò un po' per la mia azienda a Tripoli. Sabato sera, però, uscirò con i miei amici e giocheremo insieme. Domenica farò una corsa la mattina, come faccio di solito il lunedì, mercoledì e sabato. In futuro spero di finire il mio master a L'Aquila e di sviluppare la piattaforma della mia azienda.* — Next weekend I will study for my engineering exam and work a bit for my company in Tripoli. Saturday evening, though, I will go out with my friends and we will play together. Sunday I will go jogging in the morning, as I usually do on Mondays, Wednesdays, and Saturdays. In the future I hope to finish my master's degree in L'Aquila and develop my company's platform.
+> ***Es:** Il prossimo weekend studierò per il mio esame di ingegneria e lavorerò un po' per la mia azienda a Tunisi. Sabato sera, però, uscirò con i miei amici e giocheremo insieme. Domenica farò una corsa la mattina, come faccio di solito il lunedì, mercoledì e sabato. In futuro spero di finire il mio master a Bologna e di sviluppare la piattaforma della mia azienda.* — Next weekend I will study for my engineering exam and work a bit for my company in Tunisi. Saturday evening, though, I will go out with my friends and we will play together. Sunday I will go jogging in the morning, as I usually do on Mondays, Wednesdays, and Saturdays. In the future I hope to finish my master's degree in Bologna and develop my company's platform.
 
 *Key phrases to reuse: il prossimo weekend..., studierò, lavorerò, uscirò con i miei amici, in futuro spero di + infinito.*
 
@@ -751,7 +751,7 @@ Presente indicativo is now taught as a full SYSTEM — see Part 0.4 for the comp
 
 - Simple prepositions (not yet articulated): in, a, di, da, con, su, per, tra/fra.
 
-> ***Es:** Vivo in Italia. Vado a scuola. Sono di Tripoli.* — I live in Italy. I go to school. I'm from Tripoli.
+> ***Es:** Vivo in Italia. Vado a scuola. Sono di Tunisi.* — I live in Italy. I go to school. I'm from Tunisi.
 
 - Interrogatives.
 
@@ -763,7 +763,7 @@ Presente indicativo is now taught as a full SYSTEM — see Part 0.4 for the comp
 
 - Reflexive verbs in presente.
 
-> ***Es:** Mi chiamo Taha. Mi alzo alle 7.* — My name is Taha. I get up at 7.
+> ***Es:** Mi chiamo Ahmed. Mi alzo alle 7.* — My name is Ahmed. I get up at 7.
 
 - Piacere — basic use.
 

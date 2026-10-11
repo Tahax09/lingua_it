@@ -75,7 +75,7 @@ Presente indicativo is now taught as a full SYSTEM — see Part [[A1-G01 - Prese
 
 - Simple prepositions (not yet articulated): in, a, di, da, con, su, per, tra/fra.
 
-> ***Es:** Vivo in Italia. Vado a scuola. Sono di Tripoli.* — I live in Italy. I go to school. I'm from Tripoli.
+> ***Es:** Vivo in Italia. Vado a scuola. Sono di Tunisi.* — I live in Italy. I go to school. I'm from Tunisi.
 
 - Interrogatives.
 
@@ -87,7 +87,7 @@ Presente indicativo is now taught as a full SYSTEM — see Part [[A1-G01 - Prese
 
 - Reflexive verbs in presente.
 
-> ***Es:** Mi chiamo Taha. Mi alzo alle 7.* — My name is Taha. I get up at 7.
+> ***Es:** Mi chiamo Ahmed. Mi alzo alle 7.* — My name is Ahmed. I get up at 7.
 
 - Piacere — basic use.
 

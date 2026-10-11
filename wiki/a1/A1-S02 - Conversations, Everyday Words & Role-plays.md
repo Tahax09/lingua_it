@@ -36,7 +36,7 @@ This supplement adds what the A1 pack alone does not give you: whole conversatio
 **2. Presentarsi — introducing yourself**
 
 - A: Ciao, mi chiamo Sara. E tu?
-- B: Piacere, io sono Omar. Sono di Tripoli, ma abito a Roma.
+- B: Piacere, io sono Omar. Sono di Tunisi, ma abito a Roma.
 - A: Che cosa fai a Roma?
 - B: Studio ingegneria. E tu?
 - A: Lavoro in un ufficio. Parli italiano molto bene!
@@ -68,7 +68,7 @@ This supplement adds what the A1 pack alone does not give you: whole conversatio
 
 **6. Al telefono — a short phone call**
 
-- Tu: Pronto? Sono Taha. C'è Marco?
+- Tu: Pronto? Sono Ahmed. C'è Marco?
 - Amica: No, non c'è. Vuoi lasciare un messaggio?
 - Tu: Sì, digli di richiamarmi, per favore.
 - Amica: Va bene, glielo dico. Ciao!
