@@ -36,22 +36,22 @@ tags: [b1, revision]
 | voi                       | foste      | aveste    | faceste   | parlaste   | scriveste   | dormiste   |
 | loro                      | fossero    | avessero  | facessero | parlassero | scrivessero | dormissero |
 
-| **Conditionals** | **Pattern**                                       | **Esempio**                   |
-|------------------|---------------------------------------------------|-------------------------------|
-| Type 1           | Se + presente, futuro                             | Se piove, non uscirò.         |
-| Type 2           | Se + imperfetto congiuntivo, condizionale         | Se avessi tempo, andrei.      |
-| Type 3           | Se + trapassato congiuntivo, condizionale passato | Se fossi venuto, avrei visto. |
+| **Conditionals** | **Pattern**                                       | **Esempio**                   | **العربية** |
+|------------------|---------------------------------------------------|-------------------------------|---|
+| Type 1           | Se + presente, futuro                             | Se piove, non uscirò.         | النوع ١ (شرط حقيقي): إن أمطرت لن أخرج. |
+| Type 2           | Se + imperfetto congiuntivo, condizionale         | Se avessi tempo, andrei.      | النوع ٢ (افتراض في الحاضر): لو كان عندي وقت لذهبت. |
+| Type 3           | Se + trapassato congiuntivo, condizionale passato | Se fossi venuto, avrei visto. | النوع ٣ (ندم على الماضي): لو كنتَ أتيت لرأيت. |
 
-| **Linking**                                                                                                                                    | **Mood**    |
-|------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
-| sebbene · benché · nonostante · affinché · prima che · purché · a meno che · come se                                                           | subjunctive |
-| siccome · dato che · visto che · poiché · perché (because) · quindi · perciò · di conseguenza · pertanto · anche se (real) · dopo che · appena | indicative  |
+| **Linking**                                                                                                                                    | **Mood**    | **العربية** |
+|------------------------------------------------------------------------------------------------------------------------------------------------|-------------|---|
+| sebbene · benché · nonostante · affinché · prima che · purché · a meno che · come se                                                           | subjunctive | أدوات تأخذ الكونجونتيفو: رغم أنّ · لكي · قبل أن · بشرط أن · إلا إذا · كأنّ |
+| siccome · dato che · visto che · poiché · perché (because) · quindi · perciò · di conseguenza · pertanto · anche se (real) · dopo che · appena | indicative  | أدوات تأخذ الإخباري: بما أنّ · لأنّ · لذلك · ونتيجة لذلك · حتى لو (لحقيقة) · بعد أن · فور أن |
 
-| **Top 6 B1 mistakes**  | **Fix**                 |
-|------------------------|-------------------------|
-| Penso che è…           | Penso che sia…          |
-| Penso che io sia…      | Penso di essere…        |
-| Se avevo tempo, andrei | Se avessi tempo, andrei |
-| Se avrei tempo         | Se avessi tempo         |
-| Sebbene piove          | Sebbene piova           |
-| Il libro che parlo     | Il libro di cui parlo   |
+| **Top 6 B1 mistakes**  | **Fix**                 | **العربية** |
+|------------------------|-------------------------|---|
+| Penso che è…           | Penso che sia…          | خطأ: الرأي يأخذ الكونجونتيفو ← Penso che sia (أظن أنه…) |
+| Penso che io sia…      | Penso di essere…        | خطأ: نفس الفاعل ← di + مصدر: Penso di essere (أظن أنني…) |
+| Se avevo tempo, andrei | Se avessi tempo, andrei | خطأ: النوع ٢ يأخذ congiuntivo imperfetto ← Se avessi tempo, andrei |
+| Se avrei tempo         | Se avessi tempo         | خطأ: لا شرطي بعد se ← Se avessi tempo |
+| Sebbene piove          | Sebbene piova           | خطأ: sebbene تأخذ الكونجونتيفو ← Sebbene piova |
+| Il libro che parlo     | Il libro di cui parlo   | خطأ: بعد حرف الجر نستعمل cui ← Il libro di cui parlo (الكتاب الذي أتحدث عنه) |
