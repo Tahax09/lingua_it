@@ -17,6 +17,8 @@ tags: [a2, speaking]
 
 Four realistic dialogues — read them out loud, then try covering the English/Arabic columns and reconstructing the Italian from memory. The weekend one doubles as extra oral-exam practice.
 
+🇸🇦 أربعة حوارات واقعية — اقرأها بصوت عالٍ، ثم غطِّ العمودين الإنجليزي والعربي وحاول إعادة بناء الإيطالية من الذاكرة. حوار نهاية الأسبوع يصلح أيضاً كتمرين إضافي للامتحان الشفهي.
+
 ## Al bar — ordering coffee (A1/A2)
 <!-- src: A2 Part 8 · 8.1 -->
 
@@ -56,51 +58,81 @@ Four realistic dialogues — read them out loud, then try covering the English/A
 
 The slang and dialogue sections on this page already cover the basics; this supplement adds more practice for the core A2 exam topics: passato prossimo, imperfetto and futuro.
 
+🇸🇦 أقسام العامية والحوارات في هذه الصفحة تغطي الأساسيات؛ وهذا الملحق يضيف تمريناً على مواضيع امتحان A2 الأساسية: الماضي القريب، الماضي الناقص، والمستقبل.
+
 ## Five more dialogues
 <!-- src: A2 Part 15 · A2.S1 -->
 
-**1. Raccontare le vacanze — passato prossimo + imperfetto**
+**1. Raccontare le vacanze — passato prossimo + imperfetto** · **١. الحديث عن العطلة — الماضي القريب + الماضي الناقص**
 
 - A: Dove sei andato in vacanza?
+  🇸🇦 أ: إلى أين ذهبتَ في العطلة؟
 - B: Sono andato in Sicilia con degli amici.
+  🇸🇦 ب: ذهبتُ إلى صقلية مع بعض الأصدقاء.
 - A: Com'era il tempo?
+  🇸🇦 أ: كيف كان الطقس؟
 - B: Faceva molto caldo, ma c'era sempre un bel vento. Ogni mattina andavamo in spiaggia e la sera mangiavamo il pesce.
+  🇸🇦 ب: كان الجو حاراً جداً، لكن كانت هناك دائماً نسمة لطيفة. كل صباح كنّا نذهب إلى الشاطئ وفي المساء كنّا نأكل السمك.
 - A: Che bello! Cosa hai visitato?
+  🇸🇦 أ: ما أجمل ذلك! ماذا زرت؟
 - B: Abbiamo visitato Palermo e Taormina. Ho fatto tantissime foto.
+  🇸🇦 ب: زرنا باليرمو وتاورمينا. التقطتُ صوراً كثيرة جداً.
 
-**2. Progetti per il futuro — futuro semplice**
+**2. Progetti per il futuro — futuro semplice** · **٢. خطط المستقبل — المستقبل البسيط**
 
 - A: Che cosa farai l'anno prossimo?
+  🇸🇦 أ: ماذا ستفعل السنة القادمة؟
 - B: Finirò la laurea e cercherò lavoro. Forse partirò per un periodo.
+  🇸🇦 ب: سأنهي دراستي الجامعية وسأبحث عن عمل. ربما سأسافر لفترة.
 - A: E dove vivrai?
+  🇸🇦 أ: وأين ستعيش؟
 - B: Credo che vivrò a Milano, ma non so ancora. Tu che farai?
+  🇸🇦 ب: أظن أنني سأعيش في ميلانو، لكنني لا أعرف بعد. وأنت ماذا ستفعل؟
 - A: Studierò per un master e imparerò meglio l'italiano.
+  🇸🇦 أ: سأدرس الماجستير وسأتعلّم الإيطالية بشكل أفضل.
 
-**3. Dal medico — at the doctor (simple)**
+**3. Dal medico — at the doctor (simple)** · **٣. عند الطبيب (بسيط)**
 
 - Medico: Come si sente?
+  🇸🇦 الطبيب: كيف تشعر؟ (رسمي)
 - Tu: Ho mal di testa da due giorni e ho la febbre.
+  🇸🇦 أنت: عندي صداع منذ يومين وعندي حرارة.
 - Medico: Ha preso qualcosa?
+  🇸🇦 الطبيب: هل أخذتَ شيئاً؟
 - Tu: Sì, ho preso una pastiglia ieri sera.
+  🇸🇦 أنت: نعم، أخذتُ حبّة أمس مساءً.
 - Medico: Beva molta acqua e riposi.
+  🇸🇦 الطبيب: اشرب ماءً كثيراً وارتح. (أمر رسمي)
 
-**4. In treno — on the train**
+**4. In treno — on the train** · **٤. في القطار**
 
 - Tu: Scusi, questo treno va a Roma?
+  🇸🇦 أنت: عفواً، هل هذا القطار يذهب إلى روما؟
 - Controllore: No, quello è il binario 5.
+  🇸🇦 المراقب: لا، ذاك على الرصيف ٥.
 - Tu: A che ora parte?
+  🇸🇦 أنت: في أي ساعة يغادر؟
 - Controllore: Alle 14:20. Ha già fatto il biglietto?
+  🇸🇦 المراقب: في ١٤:٢٠. هل اشتريتَ التذكرة؟
 - Tu: Sì, l'ho comprato online.
+  🇸🇦 أنت: نعم، اشتريتها عبر الإنترنت.
 
-**5. Prenotare un albergo — booking a hotel**
+**5. Prenotare un albergo — booking a hotel** · **٥. حجز فندق**
 
 - Tu: Buongiorno, vorrei prenotare una camera doppia per tre notti.
+  🇸🇦 أنت: صباح الخير، أريد حجز غرفة مزدوجة لثلاث ليالٍ.
 - Receptionist: Per quando?
+  🇸🇦 موظف الاستقبال: لأي تاريخ؟
 - Tu: Dal dieci al tredici giugno. Quanto costa?
+  🇸🇦 أنت: من العاشر إلى الثالث عشر من يونيو. بكم؟
 - Receptionist: Ottanta euro a notte, colazione inclusa.
+  🇸🇦 موظف الاستقبال: ثمانون يورو لليلة، مع الفطور.
 - Tu: Va bene, la prendo.
+  🇸🇦 أنت: حسناً، سآخذها.
 
 Textbook Italian and spoken Italian aren't the same thing — these are the fillers and reactions you'll actually hear from classmates, colleagues, and on the street. Most are casual; a couple are flagged as friends-only.
+
+🇸🇦 الإيطالية في الكتب ليست هي الإيطالية المحكية — هذه هي الكلمات الحشوية وردود الفعل التي ستسمعها فعلاً من الزملاء والناس في الشارع. أغلبها عامي، وبعضها مُعلَّم بأنه للأصدقاء فقط.
 
 | **Italiano**                   | **English**                                                           | **العربية**               | **Nota**                                                                        |
 |--------------------------------|-----------------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------|
