@@ -26,27 +26,29 @@ tags: [a2, grammar]
 
 Both verbs do TWO jobs: (1) they're normal verbs with their own meaning, and (2) they're the 'auxiliary' (helper) verb that builds the Passato Prossimo. Mixing these up is the \#1 A2 mistake — here's both jobs, side by side.
 
-**AVERE — 'to have' — used for:**
+🇸🇦 كل من الفعلين يؤدّي وظيفتين: (١) فعل عادي له معناه الخاص، و(٢) فعل «مساعد» يبني الماضي القريب. الخلط بين الوظيفتين هو الخطأ رقم ١ في مستوى A2 — إليك الوظيفتين جنباً إلى جنب.
 
-| **Uso**                              | **Esempio**                                      | **English**                                          |
-|--------------------------------------|--------------------------------------------------|------------------------------------------------------|
-| Possesso (to have/own)               | Ho un libro.                                     | I have a book.                                       |
-| Età (age)                            | Ho 25 anni.                                      | I am 25 years old. (lit. 'I have 25 years')          |
-| Sensazioni fisiche (physical states) | Ho fame / sete / freddo / caldo / sonno / paura. | I'm hungry / thirsty / cold / hot / sleepy / scared. |
-| Ragione / torto                      | Hai ragione. Hai torto.                          | You're right. You're wrong.                          |
-| AUSILIARE — Passato Prossimo         | Ho mangiato. Ho lavorato. Ho letto.              | I ate. I worked. I read. — used with MOST verbs      |
+**AVERE — 'to have' — used for:** · **AVERE — «يملك» — يُستعمل لـ:**
 
-**ESSERE — 'to be' — used for:**
+| **Uso**                              | **Esempio**                                      | **English**                                          | **العربية** |
+|--------------------------------------|--------------------------------------------------|------------------------------------------------------|---|
+| Possesso (to have/own)               | Ho un libro.                                     | I have a book.                                       | الملكية: عندي كتاب. |
+| Età (age)                            | Ho 25 anni.                                      | I am 25 years old. (lit. 'I have 25 years')          | العمر: عمري ٢٥ سنة (حرفياً: أملك ٢٥ سنة). |
+| Sensazioni fisiche (physical states) | Ho fame / sete / freddo / caldo / sonno / paura. | I'm hungry / thirsty / cold / hot / sleepy / scared. | الأحاسيس الجسدية: أنا جائع / عطشان / بردان / حرّان / نعسان / خائف. |
+| Ragione / torto                      | Hai ragione. Hai torto.                          | You're right. You're wrong.                          | الصواب والخطأ: أنت محق. أنت مخطئ. |
+| AUSILIARE — Passato Prossimo         | Ho mangiato. Ho lavorato. Ho letto.              | I ate. I worked. I read. — used with MOST verbs      | فعل مساعد للماضي القريب: أكلتُ. عملتُ. قرأتُ. — يُستعمل مع أغلب الأفعال. |
 
-| **Uso**                      | **Esempio**                 | **English**                                                                                                        |
-|------------------------------|-----------------------------|--------------------------------------------------------------------------------------------------------------------|
-| Identità (identity)          | Sono Ahmed.                  | I am Ahmed.                                                                                                         |
-| Descrizione (description)    | Sono stanco. Sei alto.      | I am tired. You are tall.                                                                                          |
-| Luogo / posizione (location) | Sono a Roma.                | I am in Rome.                                                                                                      |
-| Nazionalità / professione    | Sono tunisino. Sei ingegnere. | I am Tunisian. You are an engineer.                                                                                  |
-| AUSILIARE — Passato Prossimo | Sono andato/a. Sono nato/a. | I went. I was born. — used with movement / change-of-state / reflexive verbs; participle AGREES in gender & number |
+**ESSERE — 'to be' — used for:** · **ESSERE — «يكون» — يُستعمل لـ:**
 
-**How to know which auxiliary to use in Passato Prossimo: almost everything takes AVERE by default. ESSERE is the exception, reserved for this specific group of verbs (memorize this list — it's often called 'la casa di essere'):**
+| **Uso**                      | **Esempio**                 | **English**                                                                                                        | **العربية** |
+|------------------------------|-----------------------------|--------------------------------------------------------------------------------------------------------------------|---|
+| Identità (identity)          | Sono Ahmed.                  | I am Ahmed.                                                                                                         | الهوية: أنا أحمد. |
+| Descrizione (description)    | Sono stanco. Sei alto.      | I am tired. You are tall.                                                                                          | الوصف: أنا متعب. أنت طويل. |
+| Luogo / posizione (location) | Sono a Roma.                | I am in Rome.                                                                                                      | المكان: أنا في روما. |
+| Nazionalità / professione    | Sono tunisino. Sei ingegnere. | I am Tunisian. You are an engineer.                                                                                  | الجنسية والمهنة: أنا تونسي. أنت مهندس. |
+| AUSILIARE — Passato Prossimo | Sono andato/a. Sono nato/a. | I went. I was born. — used with movement / change-of-state / reflexive verbs; participle AGREES in gender & number | فعل مساعد للماضي القريب: ذهبتُ. وُلدتُ. — مع أفعال الحركة وتغيّر الحال والأفعال الانعكاسية؛ واسم المفعول يطابق الفاعل في الجنس والعدد. |
+
+**How to know which auxiliary to use in Passato Prossimo: almost everything takes AVERE by default. ESSERE is the exception, reserved for this specific group of verbs (memorize this list — it's often called 'la casa di essere'):** · **كيف تعرف أي فعل مساعد تستعمل في الماضي القريب: تقريباً كل الأفعال تأخذ AVERE افتراضياً. ESSERE هو الاستثناء، ومخصّص لمجموعة محدّدة من الأفعال (احفظ هذه القائمة — تُسمّى غالباً «بيت essere»):**
 
 | **Italiano**             | **English**          | **العربية**           |
 |--------------------------|----------------------|-----------------------|
@@ -78,30 +80,38 @@ Both verbs do TWO jobs: (1) they're normal verbs with their own meaning, and (2)
 
 *Remember: with ESSERE, the past participle agrees with the subject like an adjective (-o masc.sing / -a fem.sing / -i masc.pl / -e fem.pl). With AVERE, the participle never changes.*
 
+🇸🇦 *تذكّر: مع ESSERE يطابق اسم المفعول الفاعل مثل الصفة (‎-o‎ مذكر مفرد / ‎-a‎ مؤنث مفرد / ‎-i‎ مذكر جمع / ‎-e‎ مؤنث جمع). ومع AVERE لا يتغيّر اسم المفعول أبداً.*
+
 > ***Es:** Marco è andato. / Maria è andata. / Loro sono andati.* — Marco went. / Maria went. / They went. — participle changes
 >
+> 🇸🇦 ماركو ذهب. / ماريا ذهبت. / هم ذهبوا. — اسم المفعول يتغيّر.
+>
 > ***Es:** Marco ha mangiato. / Maria ha mangiato.* — Marco ate. / Maria ate. — participle never changes with avere
+>
+> 🇸🇦 ماركو أكل. / ماريا أكلت. — اسم المفعول لا يتغيّر أبداً مع avere.
 
 ## Avere or essere?
 <!-- src: A2 Part 12 · A2+.2 -->
 
-| **Use ESSERE with**          | **Examples**                                                                                                         |
-|------------------------------|----------------------------------------------------------------------------------------------------------------------|
-| Movement and change of place | andare · venire · partire · arrivare · tornare · uscire · entrare · salire · scendere · cadere → Sono andato a Roma. |
-| Change of state / life       | nascere · morire · diventare · crescere · rimanere / restare → È nata nel 2000. · Sono rimasto a casa.               |
-| Being and happening          | essere (sono stato) · stare · succedere · accadere · costare · durare → Il film è durato due ore.                    |
-| ALL reflexive verbs          | mi sono svegliato · ci siamo incontrati · si è vestita                                                               |
-| piacere                      | Mi è piaciuto il film. · Mi sono piaciuti i libri.                                                                   |
+| **Use ESSERE with**          | **Examples**                                                                                                         | **العربية** |
+|------------------------------|----------------------------------------------------------------------------------------------------------------------|---|
+| Movement and change of place | andare · venire · partire · arrivare · tornare · uscire · entrare · salire · scendere · cadere → Sono andato a Roma. | الحركة وتغيير المكان: يذهب · يأتي · يغادر · يصل · يعود · يخرج · يدخل · يصعد · ينزل · يسقط ← ذهبتُ إلى روما. |
+| Change of state / life       | nascere · morire · diventare · crescere · rimanere / restare → È nata nel 2000. · Sono rimasto a casa.               | تغيّر الحال / الحياة: يولد · يموت · يصبح · يكبر · يبقى ← وُلدت عام ٢٠٠٠. · بقيتُ في البيت. |
+| Being and happening          | essere (sono stato) · stare · succedere · accadere · costare · durare → Il film è durato due ore.                    | الكون والحدوث: يكون (sono stato) · يبقى · يحدث · يقع · يكلّف · يدوم ← استمرّ الفيلم ساعتين. |
+| ALL reflexive verbs          | mi sono svegliato · ci siamo incontrati · si è vestita                                                               | كل الأفعال الانعكاسية: استيقظتُ · التقينا · ارتدت ملابسها. |
+| piacere                      | Mi è piaciuto il film. · Mi sono piaciuti i libri.                                                                   | piacere: أعجبني الفيلم. · أعجبتني الكتب. |
 
 Everything else → AVERE (transitive verbs and most others): Ho mangiato · Ho visto · Ho lavorato · Ho dormito · Ho studiato · Ho parlato.
 
-| **Rule**                                                         | **Esempio**                                                                                                           |
-|------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
-| With ESSERE the participle agrees with the subject               | Maria è andata · I ragazzi sono usciti · Le ragazze sono arrivate · Io (f.) sono stata                                |
-| With AVERE there is no agreement … except with lo / la / li / le | Ho comprato la pizza → L'ho comprata. · Ho letto i libri → Li ho letti. · but: Ho mangiato → Ho mangiato (no pronoun) |
-| Modal + infinitive: the auxiliary of the infinitive              | Sono dovuto andare · Ho dovuto studiare · Non sono potuto venire · Ho potuto mangiare                                 |
-| Verbs with both (meaning changes)                                | Ho finito il lavoro. · Il film è finito. · Ho cominciato io. · La lezione è cominciata.                               |
-| Negation and adverbs sit around the auxiliary                    | Non ho mangiato · Ho già mangiato · Non ho ancora finito · Ho appena visto · Non sono mai stato a Roma                |
+🇸🇦 كل ما عدا ذلك ← AVERE (الأفعال المتعدّية وأغلب الأفعال): أكلتُ · رأيتُ · عملتُ · نمتُ · درستُ · تكلّمتُ.
+
+| **Rule**                                                         | **Esempio**                                                                                                           | **العربية** |
+|------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|---|
+| With ESSERE the participle agrees with the subject               | Maria è andata · I ragazzi sono usciti · Le ragazze sono arrivate · Io (f.) sono stata                                | مع ESSERE يطابق اسم المفعول الفاعل: ماريا ذهبت · الشباب خرجوا · الفتيات وصلن · أنا (مؤنث) كنتُ. |
+| With AVERE there is no agreement … except with lo / la / li / le | Ho comprato la pizza → L'ho comprata. · Ho letto i libri → Li ho letti. · but: Ho mangiato → Ho mangiato (no pronoun) | مع AVERE لا مطابقة… إلا مع lo / la / li / le: اشتريتُ البيتزا ← اشتريتها (comprata). · قرأتُ الكتب ← قرأتها (letti). · لكن: Ho mangiato بدون ضمير لا يتغيّر. |
+| Modal + infinitive: the auxiliary of the infinitive              | Sono dovuto andare · Ho dovuto studiare · Non sono potuto venire · Ho potuto mangiare                                 | فعل قدرة/وجوب + مصدر: نستعمل مساعد المصدر ← اضطررتُ للذهاب (Sono dovuto andare) · اضطررتُ للدراسة (Ho dovuto studiare) · لم أستطع المجيء · استطعتُ الأكل. |
+| Verbs with both (meaning changes)                                | Ho finito il lavoro. · Il film è finito. · Ho cominciato io. · La lezione è cominciata.                               | أفعال تأخذ المساعدين (والمعنى يتغيّر): أنهيتُ العمل (avere) · انتهى الفيلم (essere) · بدأتُ أنا (avere) · بدأ الدرس (essere). |
+| Negation and adverbs sit around the auxiliary                    | Non ho mangiato · Ho già mangiato · Non ho ancora finito · Ho appena visto · Non sono mai stato a Roma                | النفي والظروف تحيط بالفعل المساعد: لم آكل · أكلتُ بالفعل · لم أنتهِ بعد · رأيتُ للتو · لم أزر روما أبداً. |
 
 بالعربية: الأفعال التي تعبّر عن الحركة أو التغيّر (andare, venire, nascere…) وكل الأفعال المنعكسة تأخذ essere وتتطابق مع الفاعل. باقي الأفعال تأخذ avere ولا مطابقة إلا مع الضمائر lo/la/li/le.
 
