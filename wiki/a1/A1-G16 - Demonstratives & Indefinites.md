@@ -70,3 +70,4 @@ tags: [a1, grammar]
 
 > [!warning] Corrections to the source (تصحيحات)
 > - nessuno = nobody / not one; 'nothing' is niente/nulla.
+> - 🇸🇦 nessuno = لا أحد / ولا واحد؛ أما «لا شيء» فهي niente / nulla.

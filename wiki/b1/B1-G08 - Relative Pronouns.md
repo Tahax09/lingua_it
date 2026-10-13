@@ -24,15 +24,15 @@ tags: [b1, grammar]
 ## Relative pronouns
 <!-- src: B1 Part 4 · B1+.4 -->
 
-| **Pronoun**          | **Use**                                              | **Esempio**                                                              |
-|----------------------|------------------------------------------------------|--------------------------------------------------------------------------|
-| che                  | subject or direct object (never after a preposition) | Il libro che leggo. · La ragazza che parla.                              |
-| preposition + cui    | after a preposition                                  | La città in cui vivo. · Il ragazzo di cui parlo. · L'amico con cui esco. |
-| il quale / la quale  | formal, avoids ambiguity                             | La signora, la quale era presente, ha detto…                             |
-| chi                  | he who / whoever (no antecedent)                     | Chi studia impara.                                                       |
-| quello che / ciò che | what (the thing that)                                | Quello che dici è vero. · Ciò che mi preoccupa è…                        |
-| il che               | the whole preceding clause                           | Ha vinto, il che mi rende felice.                                        |
-| il cui / la cui      | whose (agrees with the thing owned)                  | L'uomo la cui moglie è medico…                                           |
+| **Pronoun**          | **Use**                                              | **Esempio**                                                              | **العربية** |
+|----------------------|------------------------------------------------------|--------------------------------------------------------------------------|---|
+| che                  | subject or direct object (never after a preposition) | Il libro che leggo. · La ragazza che parla.                              | che = الذي/التي (فاعل أو مفعول مباشر، لا يأتي بعد حرف جر): الكتاب الذي أقرؤه. · الفتاة التي تتكلم. |
+| preposition + cui    | after a preposition                                  | La città in cui vivo. · Il ragazzo di cui parlo. · L'amico con cui esco. | حرف جر + cui: المدينة التي أعيش فيها. · الشاب الذي أتحدث عنه. · الصديق الذي أخرج معه. |
+| il quale / la quale  | formal, avoids ambiguity                             | La signora, la quale era presente, ha detto…                             | il quale / la quale = الذي/التي (رسمي، يمنع الالتباس): السيدة التي كانت حاضرة قالت… |
+| chi                  | he who / whoever (no antecedent)                     | Chi studia impara.                                                       | chi = مَن (بدون سابق): مَن يدرس يتعلّم. |
+| quello che / ciò che | what (the thing that)                                | Quello che dici è vero. · Ciò che mi preoccupa è…                        | quello che / ciò che = ما (الشيء الذي): ما تقوله صحيح. · ما يقلقني هو… |
+| il che               | the whole preceding clause                           | Ha vinto, il che mi rende felice.                                        | il che = وهذا (يعود على الجملة السابقة كلها): فاز، وهذا يسعدني. |
+| il cui / la cui      | whose (agrees with the thing owned)                  | L'uomo la cui moglie è medico…                                           | il cui / la cui = الذي… ـه (ملكية، يطابق المملوك): الرجل الذي زوجته طبيبة… |
 
 ## 🇸🇦 Arabic lesson — Relative pronouns — che, cui, dove
 <!-- src: Arabic Lessons · L20 -->

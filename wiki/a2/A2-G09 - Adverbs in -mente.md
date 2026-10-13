@@ -26,14 +26,22 @@ tags: [a2, grammar]
 
 Placed after the verb, or at the beginning/end of a sentence for emphasis. See the full table in Part [[A2-G09 - Adverbs in -mente]].
 
+🇸🇦 يأتي بعد الفعل، أو في بداية الجملة أو نهايتها للتأكيد.
+
 > ***Es:** Sara parla chiaramente.* — Sara speaks clearly.
 >
+> 🇸🇦 سارة تتكلم بوضوح.
+>
 > ***Es:** Probabilmente arriverà domani.* — He will probably arrive tomorrow.
+>
+> 🇸🇦 على الأرجح سيصل غداً.
 
 ## Adjective → Adverb (-mente) — Esercizio 2 pattern
 <!-- src: A2 Part 3 · 3.2 -->
 
 Rule: take the FEMININE singular form of the adjective + -mente. If the adjective ends in -e, just add -mente directly. If it ends in -le or -re, drop the final -e first.
+
+🇸🇦 القاعدة: خذ صيغة المؤنث المفرد من الصفة + ‎-mente‎. إذا انتهت الصفة بـ ‎-e‎ أضف ‎-mente‎ مباشرة. وإذا انتهت بـ ‎-le‎ أو ‎-re‎ احذف e الأخيرة أولاً.
 
 | **Aggettivo** | **Avverbio**    | **English**                | **العربية** |
 |---------------|-----------------|----------------------------|-------------|
@@ -98,3 +106,4 @@ Rule: take the FEMININE singular form of the adjective + -mente. If the adjectiv
 
 > [!warning] Corrections to the source (تصحيحات)
 > - 'Sto male' means 'I'm not well / I feel bad', not 'I am bad'.
+> - 🇸🇦 «Sto male» تعني «لست بخير / أشعر بتوعّك»، وليس «أنا سيئ».

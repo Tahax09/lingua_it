@@ -26,6 +26,8 @@ tags: [a2, grammar]
 
 *Columns: Italian \| English \| Arabic \| Presente (io) \| Past Participle \| Passato Prossimo (io) \| Imperfetto (io) \| Futuro (io) \| Condizionale (io) · \*piacere is used impersonally: mi piace / mi piacciono*
 
+🇸🇦 *الأعمدة: الإيطالية | الإنجليزية | العربية | المضارع (أنا) | اسم المفعول | الماضي القريب (أنا) | الماضي الناقص (أنا) | المستقبل (أنا) | الشرطي (أنا) · piacere يُستعمل بشكل غير شخصي: mi piace / mi piacciono.*
+
 | **Italiano** | **English**       | **العربية**  | **Presente (io)** | **Participio** | **Passato Pross. (io)** | **Imperfetto (io)** | **Futuro (io)** | **Condizionale (io)** |
 |--------------|-------------------|--------------|-------------------|----------------|-------------------------|---------------------|-----------------|-----------------------|
 | essere       | to be             | يكون         | sono              | stato/a        | sono stato/a            | ero                 | sarò            | sarei                 |
@@ -62,6 +64,8 @@ tags: [a2, grammar]
 | rispondere   | to answer         | يجيب         | rispondo          | risposto       | ho risposto             | rispondevo          | risponderò      | risponderei           |
 
 *Remember: essere, andare, venire, stare, uscire, entrare, partire, arrivare, tornare, nascere, rimanere, morire, diventare take ESSERE in Passato Prossimo (and the participle agrees: -o/-a/-i/-e). Almost everything else takes AVERE.*
+
+🇸🇦 *تذكّر: essere، andare، venire، stare، uscire، entrare، partire، arrivare، tornare، nascere، rimanere، morire، diventare تأخذ ESSERE في الماضي القريب (واسم المفعول يطابق: ‎-o/-a/-i/-e‎). وكل الأفعال الأخرى تقريباً تأخذ AVERE.*
 
 ## Regular verbs from A2 exams — meaning + example
 <!-- src: A2 Part 2 · 2.2 -->

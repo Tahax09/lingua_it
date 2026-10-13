@@ -80,3 +80,4 @@ Scusi / mi scusi عفوا (رسمي) — scusa (ودي). Potrebbe aiutarmi? هل
 
 > [!warning] Corrections to the source (تصحيحات)
 > - Typo 'parlarei' → parlerei; the conditional is built on the future stem (parler-), not the bare infinitive.
+> - 🇸🇦 خطأ مطبعي: «parlarei» ← parlerei؛ الشرطي يُبنى على جذر المستقبل (parler-) لا على المصدر.

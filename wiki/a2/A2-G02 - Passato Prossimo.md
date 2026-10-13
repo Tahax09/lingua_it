@@ -145,3 +145,4 @@ fare → fatto, dire → detto, scrivere → scritto, leggere → letto, prender
 
 > [!warning] Corrections to the source (تصحيحات)
 > - 'Dr. & Mrs. Vandertramp' is a French mnemonic and does not map onto Italian; replaced with the Italian rule (movement / change of state / staying, plus all reflexives).
+> - 🇸🇦 «Dr. & Mrs. Vandertramp» وسيلة حفظ فرنسية لا تنطبق على الإيطالية؛ استُبدلت بالقاعدة الإيطالية (أفعال الحركة وتغيّر الحال والبقاء، وكل الأفعال الانعكاسية).

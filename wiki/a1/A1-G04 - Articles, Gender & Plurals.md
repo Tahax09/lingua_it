@@ -139,3 +139,4 @@ tags: [a1, grammar]
 
 > [!warning] Corrections to the source (تصحيحات)
 > - 'la gamba → le gambe' is regular, not irregular; replaced with la mano → le mani (feminine -o noun with -i plural).
+> - 🇸🇦 «la gamba ← le gambe» جمع منتظم وليس شاذاً؛ استُبدل بـ la mano ← le mani (اسم مؤنث ينتهي بـ ‎-o‎ وجمعه ‎-i‎).

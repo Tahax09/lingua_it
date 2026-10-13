@@ -72,3 +72,4 @@ tags: [b2, grammar]
 
 > [!warning] Corrections to the source (تصحيحات)
 > - In 'ce ne sono' ci means 'there', not 'to us'.
+> - 🇸🇦 في «ce ne sono» تعني ci «هناك» وليس «لنا».

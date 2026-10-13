@@ -24,13 +24,13 @@ tags: [a1, grammar]
 ## C'è / ci sono, essere vs stare, avere expressions
 <!-- src: A1 Part 4 · A1+.5 -->
 
-| **Italiano**      | **Meaning**     | **Esempio**                                                               |
-|-------------------|-----------------|---------------------------------------------------------------------------|
-| c'è + singular    | there is        | C'è una farmacia qui vicino? · Non c'è nessuno.                           |
-| ci sono + plural  | there are       | Ci sono molti turisti. · Ci sono due bagni.                               |
-| Dov'è / Dove sono | where is / are  | Dov'è la stazione? · Dove sono le chiavi?                                 |
-| avere + noun      | to be (hungry…) | ho fame · sete · sonno · caldo · freddo · paura · fretta · ragione · anni |
-| fare + weather    | weather         | Che tempo fa? · fa caldo · fa freddo · fa bel tempo · fa brutto tempo     |
+| **Italiano**      | **Meaning**     | **Esempio**                                                               | **العربية** |
+|-------------------|-----------------|---------------------------------------------------------------------------|---|
+| c'è + singular    | there is        | C'è una farmacia qui vicino? · Non c'è nessuno.                           | c'è + مفرد = يوجد: هل توجد صيدلية قريبة من هنا؟ · لا يوجد أحد. |
+| ci sono + plural  | there are       | Ci sono molti turisti. · Ci sono due bagni.                               | ci sono + جمع = توجد / يوجد (جمع): يوجد سيّاح كثيرون. · يوجد حمّامان. |
+| Dov'è / Dove sono | where is / are  | Dov'è la stazione? · Dove sono le chiavi?                                 | Dov'è / Dove sono = أين (مفرد / جمع): أين المحطة؟ · أين المفاتيح؟ |
+| avere + noun      | to be (hungry…) | ho fame · sete · sonno · caldo · freddo · paura · fretta · ragione · anni | avere + اسم = «أنا…» (حال): جائع · عطشان · نعسان · حرّان · بردان · خائف · مستعجل · محق · عمري… |
+| fare + weather    | weather         | Che tempo fa? · fa caldo · fa freddo · fa bel tempo · fa brutto tempo     | fare + الطقس: كيف الطقس؟ · الجو حار · الجو بارد · الطقس جميل · الطقس سيئ |
 
 بالعربية: العربية تحذف فعل الكينونة في المضارع («أنا طالب») أما الإيطالية فلا تحذفه: Sono studente. وC'è / Ci sono = يوجد.
 

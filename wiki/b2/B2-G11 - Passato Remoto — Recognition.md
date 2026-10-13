@@ -24,11 +24,11 @@ tags: [b2, grammar]
 ## Passato remoto — recognise
 <!-- src: B2 Part 4 · B2+.6 -->
 
-|      | **andare** | **nascere** | **fare** | **dire** | **vedere** |
-|------|------------|-------------|----------|----------|------------|
-| io   | andai      | nacqui      | feci     | dissi    | vidi       |
-| lui  | andò       | nacque      | fece     | disse    | vide       |
-| loro | andarono   | nacquero    | fecero   | dissero  | videro     |
+|      | **andare** | **nascere** | **fare** | **dire** | **vedere** | **العربية** |
+|------|------------|-------------|----------|----------|------------|---|
+| io   | andai      | nacqui      | feci     | dissi    | vidi       | أنا: ذهبتُ · وُلدتُ · فعلتُ · قلتُ · رأيتُ |
+| lui  | andò       | nacque      | fece     | disse    | vide       | هو: ذهب · وُلد · فعل · قال · رأى |
+| loro | andarono   | nacquero    | fecero   | dissero  | videro     | هم: ذهبوا · وُلدوا · فعلوا · قالوا · رأوا |
 
 ## 🇬🇧🇸🇦 Bilingual lesson — Passato remoto — recognising the literary past
 <!-- src: Bilingual Lessons · B2-G11 -->

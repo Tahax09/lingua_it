@@ -24,14 +24,16 @@ tags: [b1, grammar]
 ## Indirect (reported) speech
 <!-- src: B1 Part 4 · B1+.8 -->
 
-| **Direct**      | **After a PRESENT reporting verb** | **After a PAST reporting verb**             |
-|-----------------|------------------------------------|---------------------------------------------|
-| «Sono stanco.»  | Dice che è stanco.                 | Ha detto che era stanco.                    |
-| «Ho mangiato.»  | Dice che ha mangiato.              | Ha detto che aveva mangiato.                |
-| «Verrò domani.» | Dice che verrà domani.             | Ha detto che sarebbe venuto il giorno dopo. |
-| «Vieni!»        | Mi dice di venire.                 | Mi ha detto di venire.                      |
+| **Direct**      | **After a PRESENT reporting verb** | **After a PAST reporting verb**             | **العربية** |
+|-----------------|------------------------------------|---------------------------------------------|---|
+| «Sono stanco.»  | Dice che è stanco.                 | Ha detto che era stanco.                    | «أنا متعب» ← يقول إنه متعب ← قال إنه كان متعباً. |
+| «Ho mangiato.»  | Dice che ha mangiato.              | Ha detto che aveva mangiato.                | «أكلتُ» ← يقول إنه أكل ← قال إنه كان قد أكل. |
+| «Verrò domani.» | Dice che verrà domani.             | Ha detto che sarebbe venuto il giorno dopo. | «سآتي غداً» ← يقول إنه سيأتي غداً ← قال إنه سيأتي في اليوم التالي. |
+| «Vieni!»        | Mi dice di venire.                 | Mi ha detto di venire.                      | «تعال!» ← يقول لي أن آتي ← قال لي أن آتي. |
 
 *Also change time words: oggi → quel giorno · domani → il giorno dopo · ieri → il giorno prima · qui → lì · questo → quello.*
+
+🇸🇦 *غيّر أيضاً كلمات الزمان والمكان: oggi (اليوم) ← quel giorno (ذلك اليوم) · domani (غداً) ← il giorno dopo (اليوم التالي) · ieri (أمس) ← il giorno prima (اليوم السابق) · qui (هنا) ← lì (هناك) · questo (هذا) ← quello (ذلك).*
 
 ## 🇸🇦 Arabic lesson — Reported speech
 <!-- src: Arabic Lessons · L32 -->

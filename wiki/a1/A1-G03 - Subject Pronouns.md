@@ -23,6 +23,8 @@ tags: [a1, grammar]
 
 The basics underneath everything else. If these feel solid, skip ahead to [[A1-G04 - Articles, Gender & Plurals]].
 
+🇸🇦 الأساسيات التي يقوم عليها كل شيء. إذا كانت متينة عندك، انتقل إلى صفحة أدوات التعريف.
+
 ## Subject pronouns  *(moved here from A2 file)*
 <!-- src: A2 Part 1 · 1.1 -->
 
@@ -68,3 +70,4 @@ The basics underneath everything else. If these feel solid, skip ahead to [[A1-G
 
 > [!warning] Corrections to the source (تصحيحات)
 > - Lei takes the 3rd-person-singular verb form (same as lui/lei); the verb itself is not 'feminine'.
+> - 🇸🇦 مع Lei يأتي الفعل بصيغة الغائب المفرد (مثل lui/lei)؛ الفعل نفسه ليس «مؤنثاً».

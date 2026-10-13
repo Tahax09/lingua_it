@@ -24,16 +24,18 @@ tags: [a1, grammar]
 ## Reflexive verbs
 <!-- src: A1 Part 4 · A1+.6 -->
 
-|           | **svegliarsi (wake up)** | **lavarsi** | **vestirsi** |
-|-----------|--------------------------|-------------|--------------|
-| io        | mi sveglio               | mi lavo     | mi vesto     |
-| tu        | ti svegli                | ti lavi     | ti vesti     |
-| lui / lei | si sveglia               | si lava     | si veste     |
-| noi       | ci svegliamo             | ci laviamo  | ci vestiamo  |
-| voi       | vi svegliate             | vi lavate   | vi vestite   |
-| loro      | si svegliano             | si lavano   | si vestono   |
+|           | **svegliarsi (wake up)** | **lavarsi** | **vestirsi** | **العربية** |
+|-----------|--------------------------|-------------|--------------|---|
+| io        | mi sveglio               | mi lavo     | mi vesto     | أنا: أستيقظ · أغتسل · ألبس ملابسي |
+| tu        | ti svegli                | ti lavi     | ti vesti     | أنتَ: تستيقظ · تغتسل · تلبس ملابسك |
+| lui / lei | si sveglia               | si lava     | si veste     | هو/هي: يستيقظ · يغتسل · يلبس ملابسه |
+| noi       | ci svegliamo             | ci laviamo  | ci vestiamo  | نحن: نستيقظ · نغتسل · نلبس ملابسنا |
+| voi       | vi svegliate             | vi lavate   | vi vestite   | أنتم: تستيقظون · تغتسلون · تلبسون ملابسكم |
+| loro      | si svegliano             | si lavano   | si vestono   | هم: يستيقظون · يغتسلون · يلبسون ملابسهم |
 
 Common: alzarsi · lavarsi · vestirsi · prepararsi · sedersi · riposarsi · addormentarsi · chiamarsi (Mi chiamo…) · divertirsi · sentirsi (Mi sento bene). The reflexive pronoun goes BEFORE the conjugated verb: Mi sveglio alle sette. Infinitive: Voglio svegliarmi presto / Mi voglio svegliare presto.
+
+🇸🇦 الشائعة: ينهض · يغتسل · يلبس · يستعدّ · يجلس · يرتاح · يغفو · يُسمّى (Mi chiamo… = اسمي…) · يستمتع · يشعر (Mi sento bene = أشعر أنني بخير). الضمير الانعكاسي يأتي قبل الفعل المصرّف: أستيقظ في السابعة. ومع المصدر: Voglio svegliarmi presto / Mi voglio svegliare presto (أريد أن أستيقظ باكراً).
 
 ## 🇸🇦 Arabic lesson — Reflexive verbs
 <!-- src: Arabic Lessons · L14 -->

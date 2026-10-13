@@ -24,15 +24,15 @@ tags: [a1, grammar]
 ## Spelling & pronunciation rules
 <!-- src: A1 Part 4 · A1+.1 -->
 
-| **Rule**                  | **Examples**                                      | **Notes**                                                                            |
-|---------------------------|---------------------------------------------------|--------------------------------------------------------------------------------------|
-| **c, g + e / i = soft**   | cena (che-na) · città · gente · gelato            | ci = «chi» as in 'cheese'; gi = «ji» as in 'gym'                                     |
-| **ch, gh + e / i = hard** | che · chi · spaghetti · ghiaccio                  | the h keeps the hard sound                                                           |
-| **sc + e / i**            | scena (shay-na) · sci · pesce                     | sch + e/i = hard: schema, scherzo                                                    |
-| **gn · gli**              | gnocchi (ny) · famiglia (ly) · figlio             | like Spanish ñ and ll                                                                |
-| **Double consonants**     | pala/palla · caro/carro · nono/nonno · penna/pena | hold the sound twice as long — it changes the meaning                                |
-| **h is silent**           | ho · hai · ha · hanno                             | it only separates ho/o, hai/ai, ha/a, hanno/anno                                     |
-| **Stress**                | caffè · città · perché · università               | a written accent marks final stress; otherwise stress is on the penultimate syllable |
+| **Rule**                  | **Examples**                                      | **Notes**                                                                            | **العربية** |
+|---------------------------|---------------------------------------------------|--------------------------------------------------------------------------------------|---|
+| **c, g + e / i = soft**   | cena (che-na) · città · gente · gelato            | ci = «chi» as in 'cheese'; gi = «ji» as in 'gym'                                     | **c و g قبل e / i = لينان:** cena (تشينا) · città · gente · gelato ← ci = «تشي»، gi = «جي». |
+| **ch, gh + e / i = hard** | che · chi · spaghetti · ghiaccio                  | the h keeps the hard sound                                                           | **ch و gh قبل e / i = قاسيان:** che (كي) · chi (كي) · spaghetti · ghiaccio ← حرف h يحافظ على الصوت القاسي. |
+| **sc + e / i**            | scena (shay-na) · sci · pesce                     | sch + e/i = hard: schema, scherzo                                                    | **sc قبل e / i = «ش»:** scena · sci · pesce ← أما sch قبل e/i فقاسية «سك»: schema، scherzo. |
+| **gn · gli**              | gnocchi (ny) · famiglia (ly) · figlio             | like Spanish ñ and ll                                                                | **gn · gli:** gnocchi («نْي») · famiglia («لْي») · figlio ← مثل ñ و ll الإسبانيتين. |
+| **Double consonants**     | pala/palla · caro/carro · nono/nonno · penna/pena | hold the sound twice as long — it changes the meaning                                | **الحروف المضاعفة (كالشدّة):** pala/palla (مجرفة/كرة) · caro/carro (عزيز/عربة) · nono/nonno (تاسع/جدّ) · penna/pena (قلم/عقوبة) ← امدد الصوت ضعفاً — فهو يغيّر المعنى. |
+| **h is silent**           | ho · hai · ha · hanno                             | it only separates ho/o, hai/ai, ha/a, hanno/anno                                     | **h لا يُلفظ:** ho · hai · ha · hanno ← يميّز فقط بين ho/o، hai/ai، ha/a، hanno/anno. |
+| **Stress**                | caffè · città · perché · università               | a written accent marks final stress; otherwise stress is on the penultimate syllable | **النبر:** caffè · città · perché · università ← العلامة المكتوبة تعني أن النبر على الحرف الأخير؛ وإلا فالنبر على المقطع قبل الأخير. |
 
 بالعربية: العربية لا تحتوي على الصوت /p/ — تدرّب على الفرق بين pane و bane، وpizza و bizza. وكذلك الفرق بين e/i وo/u، والحروف المضاعفة (nonno ≠ nono).
 

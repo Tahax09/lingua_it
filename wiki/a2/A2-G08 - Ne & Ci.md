@@ -26,11 +26,15 @@ tags: [a2, grammar]
 
 NE replaces 'di + noun' — used for quantities and for referring back to a topic already mentioned ('of it/of them/about it').
 
+🇸🇦 NE تحلّ محلّ «di + اسم» — تُستعمل للكميات وللإشارة إلى موضوع ذُكر سابقاً («منه / منها / عنه»).
+
 > ***Es:** Quanti libri hai? Ne ho tre.* — How many books do you have? I have three (of them). — كم كتاباً لديك؟ لدي ثلاثة (منها)
 >
 > ***Es:** Parliamo del film? Sì, ne parliamo.* — Shall we talk about the film? Yes, let's talk about it. — هل نتحدث عن الفيلم؟ نعم، نتحدث عنه
 
 CI replaces 'a/in + place' — 'there' — and is also fused into certain fixed verbs (pensarci, crederci, metterci).
+
+🇸🇦 CI تحلّ محلّ «a / in + مكان» — «هناك» — وتلتصق أيضاً ببعض الأفعال الثابتة (pensarci = يفكّر في ذلك، crederci = يصدّق ذلك، metterci = يستغرق).
 
 > ***Es:** Vai a Roma? Sì, ci vado.* — Are you going to Rome? Yes, I'm going there. — هل تذهب إلى روما؟ نعم، أذهب إلى هناك
 >

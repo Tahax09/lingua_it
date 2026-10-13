@@ -119,6 +119,7 @@ Regular: -ARE and -ERE verbs share endings; -ARE verbs change the a → e before
 
 > [!warning] Corrections to the source (تصحيحات)
 > - All verbs drop the final -e of the infinitive; -are verbs also change a → e (parlare → parlerò). Nothing special happens to -ire.
+> - 🇸🇦 كل الأفعال تحذف ‎-e‎ الأخيرة من المصدر؛ وأفعال ‎-are‎ تغيّر a إلى e أيضاً (parlare ← parlerò). لا يحدث شيء خاص مع ‎-ire‎.
 
 > [!info] Arabic lesson (درس بالعربية)
 > «المستقبل التام والتخمين: avrò finito, sarà lui» — see [[B1-G04 - Compound Tenses#🇸🇦 Arabic lesson — Futuro anteriore & future of probability]]

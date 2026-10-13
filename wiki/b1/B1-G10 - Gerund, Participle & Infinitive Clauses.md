@@ -24,16 +24,18 @@ tags: [b1, grammar]
 ## Gerund, participle and infinitive clauses
 <!-- src: B1 Part 4 · B1+.6 -->
 
-| **Pattern**                             | **Esempio**                                                             |
-|-----------------------------------------|-------------------------------------------------------------------------|
-| stare + gerund (progressive)            | Sto studiando. · Stavo leggendo quando…                                 |
-| gerund = how / when / why               | Studiando, si impara. · Essendo stanco, sono andato a letto.            |
-| avendo / essendo + participle (earlier) | Avendo finito il lavoro, sono uscito.                                   |
-| pur + gerund (although)                 | Pur essendo stanco, ho finito.                                          |
-| dopo + infinitive passato               | Dopo aver mangiato, sono uscito. · Dopo essere arrivato, ha telefonato. |
-| prima di + infinitive                   | Prima di uscire, spegni la luce.                                        |
+| **Pattern**                             | **Esempio**                                                             | **العربية** |
+|-----------------------------------------|-------------------------------------------------------------------------|---|
+| stare + gerund (progressive)            | Sto studiando. · Stavo leggendo quando…                                 | stare + gerundio (الاستمرار): أنا أدرس الآن. · كنتُ أقرأ عندما… |
+| gerund = how / when / why               | Studiando, si impara. · Essendo stanco, sono andato a letto.            | الـ gerundio = كيف / متى / لماذا: بالدراسة يتعلّم المرء. · لأنني كنتُ متعباً ذهبتُ إلى النوم. |
+| avendo / essendo + participle (earlier) | Avendo finito il lavoro, sono uscito.                                   | avendo / essendo + اسم المفعول (حدث أسبق): بعد أن أنهيتُ العمل خرجتُ. |
+| pur + gerund (although)                 | Pur essendo stanco, ho finito.                                          | pur + gerundio (رغم): رغم أنني كنتُ متعباً أنهيت. |
+| dopo + infinitive passato               | Dopo aver mangiato, sono uscito. · Dopo essere arrivato, ha telefonato. | dopo + مصدر ماضٍ: بعد أن أكلتُ خرجتُ. · بعد أن وصل اتصل. |
+| prima di + infinitive                   | Prima di uscire, spegni la luce.                                        | prima di + مصدر: قبل أن تخرج أطفئ الضوء. |
 
 *Gerund forms: -are → -ando, -ere/-ire → -endo; irregular: fare → facendo, dire → dicendo, bere → bevendo, essere → essendo.*
+
+🇸🇦 *صيغ الـ gerundio: ‎-are ← -ando‎، ‎-ere/-ire ← -endo‎؛ شواذ: fare ← facendo، dire ← dicendo، bere ← bevendo، essere ← essendo.*
 
 ## 🇬🇧🇸🇦 Bilingual lesson — Gerund, participle & infinitive clauses
 <!-- src: Bilingual Lessons · B1-G10 -->

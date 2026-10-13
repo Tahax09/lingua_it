@@ -24,14 +24,14 @@ tags: [b2, grammar]
 ## Register: informal ↔ formal
 <!-- src: B2 Part 4 · B2+.8 -->
 
-| **Informal**             | **Formal**                        |
-|--------------------------|-----------------------------------|
-| Ti scrivo per chiederti… | La contatto per chiederLe…        |
-| Dimmi / Fammi sapere     | Mi dica / Mi faccia sapere        |
-| Grazie mille!            | La ringrazio sentitamente.        |
-| Ciao, a presto           | Cordiali saluti / Distinti saluti |
-| Ho bisogno di…           | Avrei bisogno di… / Necessito di… |
-| Che figata!              | Davvero notevole!                 |
+| **Informal**             | **Formal**                        | **العربية** |
+|--------------------------|-----------------------------------|---|
+| Ti scrivo per chiederti… | La contatto per chiederLe…        | أكتب لك لأسألك… (عادي) ← أتواصل معك لأسألك… (رسمي) |
+| Dimmi / Fammi sapere     | Mi dica / Mi faccia sapere        | قل لي / أخبرني (عادي) ← تفضّل قل / أعلمني (رسمي) |
+| Grazie mille!            | La ringrazio sentitamente.        | شكراً جزيلاً! (عادي) ← أشكرك من القلب. (رسمي) |
+| Ciao, a presto           | Cordiali saluti / Distinti saluti | مع السلامة، إلى اللقاء (عادي) ← مع التحية / تقبّلوا فائق الاحترام (رسمي) |
+| Ho bisogno di…           | Avrei bisogno di… / Necessito di… | أحتاج إلى… (عادي) ← سأحتاج إلى… / أحتاج إلى… (رسمي) |
+| Che figata!              | Davvero notevole!                 | رائع جداً! (عامي) ← لافت حقاً! (رسمي) |
 
 ## 🇬🇧🇸🇦 Bilingual lesson — Formal register for work and bureaucracy
 <!-- src: Bilingual Lessons · B2-G09 -->

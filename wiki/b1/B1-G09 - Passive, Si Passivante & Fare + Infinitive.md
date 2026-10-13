@@ -24,13 +24,13 @@ tags: [b1, grammar]
 ## Passive, si passivante, fare + infinitive
 <!-- src: B1 Part 4 · B1+.5 -->
 
-| **Pattern**                                | **Esempio**                                                                       |
-|--------------------------------------------|-----------------------------------------------------------------------------------|
-| essere + participle (+ da)                 | La Divina Commedia è stata scritta da Dante. · Il progetto sarà approvato domani. |
-| venire + participle (ongoing, formal)      | Il problema viene discusso. · I documenti vengono inviati ogni lunedì.            |
-| andare + participle (obligation)           | Il lavoro va finito entro venerdì. (= must be finished)                           |
-| si passivante                              | Si vendono libri. · Qui si parla italiano. · Si dice che…                         |
-| fare + infinitive (to have something done) | Faccio riparare la macchina. · Mi ha fatto ridere.                                |
+| **Pattern**                                | **Esempio**                                                                       | **العربية** |
+|--------------------------------------------|-----------------------------------------------------------------------------------|---|
+| essere + participle (+ da)                 | La Divina Commedia è stata scritta da Dante. · Il progetto sarà approvato domani. | essere + اسم المفعول (+ da): كُتبت الكوميديا الإلهية على يد دانتي. · سيُعتمد المشروع غداً. |
+| venire + participle (ongoing, formal)      | Il problema viene discusso. · I documenti vengono inviati ogni lunedì.            | venire + اسم المفعول (جارٍ، رسمي): المشكلة تُناقش. · الوثائق تُرسل كل يوم اثنين. |
+| andare + participle (obligation)           | Il lavoro va finito entro venerdì. (= must be finished)                           | andare + اسم المفعول (وجوب): يجب إنهاء العمل قبل يوم الجمعة. |
+| si passivante                              | Si vendono libri. · Qui si parla italiano. · Si dice che…                         | si passivante: تُباع كتب. · هنا يُتكلم بالإيطالية. · يُقال إنّ… |
+| fare + infinitive (to have something done) | Faccio riparare la macchina. · Mi ha fatto ridere.                                | fare + مصدر (جعل غيرك يفعل): أُصلِح السيارة عند أحد. · جعلني أضحك. |
 
 ## 🇸🇦 Arabic lesson — Passive & si passivante
 <!-- src: Arabic Lessons · L22 -->

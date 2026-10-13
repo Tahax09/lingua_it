@@ -24,18 +24,20 @@ tags: [a1, grammar]
 ## Adjectives: agreement, position, bello / buono / grande
 <!-- src: A1 Part 4 · A1+.3 -->
 
-| **Type**   | **m. sg**          | **f. sg** | **m. pl** | **f. pl** |
-|------------|--------------------|-----------|-----------|-----------|
-| -o / -a    | alto               | alta      | alti      | alte      |
-| -e         | grande             | grande    | grandi    | grandi    |
-| invariable | blu · rosa · viola | blu       | blu       | blu       |
+| **Type**   | **m. sg**          | **f. sg** | **m. pl** | **f. pl** | **العربية** |
+|------------|--------------------|-----------|-----------|-----------|---|
+| -o / -a    | alto               | alta      | alti      | alte      | ‎-o / -a‎: طويل (مذكر مفرد) · طويلة · طوال (مذكر جمع) · طويلات |
+| -e         | grande             | grande    | grandi    | grandi    | ‎-e‎: كبير / كبيرة · كبار (نفس الصيغة للمذكر والمؤنث) |
+| invariable | blu · rosa · viola | blu       | blu       | blu       | لا تتغيّر: أزرق · وردي · بنفسجي (blu، rosa، viola) |
 
 Adjectives normally follow the noun (una macchina rossa, un ragazzo simpatico). Common short ones may come before: bello, brutto, buono, grande, piccolo, giovane, vecchio, nuovo. Before the noun they shorten: un bel ragazzo, un buon caffè, un grande amico (un gran caffè), una bella casa.
 
-| **Rule**                                                      | **Esempio**                                                                                      |
-|---------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
-| buono before a noun = like the indefinite article (un → buon) | un buon caffè · una buona pizza · un buon amico · un buono studente (uno + s+consonant keeps -o) |
-| bello before a noun = like the definite article               | il bel libro · un bello zaino · un bell'amico · una bella casa · i bei libri · gli begli amici   |
+🇸🇦 الصفات تأتي عادةً بعد الاسم (una macchina rossa = سيارة حمراء، un ragazzo simpatico = شاب ظريف). بعض الصفات القصيرة الشائعة قد تأتي قبله: bello جميل، brutto قبيح، buono جيد، grande كبير، piccolo صغير، giovane شاب، vecchio قديم/عجوز، nuovo جديد. وقبل الاسم تُختصر: un bel ragazzo، un buon caffè، un grande amico (un gran caffè)، una bella casa.
+
+| **Rule**                                                      | **Esempio**                                                                                      | **العربية** |
+|---------------------------------------------------------------|--------------------------------------------------------------------------------------------------|---|
+| buono before a noun = like the indefinite article (un → buon) | un buon caffè · una buona pizza · un buon amico · un buono studente (uno + s+consonant keeps -o) | buono قبل الاسم يتصرّف مثل أداة التنكير (un ← buon): قهوة جيدة · بيتزا جيدة · صديق جيد · طالب جيد (buono يبقى قبل s+ساكن كما uno) |
+| bello before a noun = like the definite article               | il bel libro · un bello zaino · un bell'amico · una bella casa · i bei libri · gli begli amici   | bello قبل الاسم يتصرّف مثل أداة التعريف: الكتاب الجميل · حقيبة ظهر جميلة · صديق جميل · بيت جميل · الكتب الجميلة · الأصدقاء الجميلون (خطأ في المصدر: الصحيح «i begli amici» وليس «gli begli amici») |
 
 بالعربية: الصفة تأتي عادةً بعد الاسم وتتطابق معه في الجنس والعدد (una casa grande). أما bello/buono/grande فتأتي قبل الاسم وتتغيّر.
 

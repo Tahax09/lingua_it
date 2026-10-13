@@ -18,16 +18,20 @@ tags: [b1, grammar]
 ## Formal vs informal register
 <!-- src: B1 Part 1 · 1.7 -->
 
-| **Informal (tu)**                                                | **Formal (Lei)**                                                 |
-|------------------------------------------------------------------|------------------------------------------------------------------|
-| tu · ti · tuo / tua / tuoi / tue                                 | Lei · La / Le · Suo / Sua / Suoi / Sue                           |
-| Tu vieni? · Tu hai ragione. · Tu puoi aiutarmi?                  | Lei viene? · Lei ha ragione. · Lei può aiutarmi?                 |
-| Ti ringrazio. · Ti chiedo scusa. · Ti auguro una buona giornata. | La ringrazio. · Le chiedo scusa. · Le auguro una buona giornata. |
-| Ti posso essere utile?                                           | Le posso essere utile?                                           |
+| **Informal (tu)**                                                | **Formal (Lei)**                                                 | **العربية** |
+|------------------------------------------------------------------|------------------------------------------------------------------|---|
+| tu · ti · tuo / tua / tuoi / tue                                 | Lei · La / Le · Suo / Sua / Suoi / Sue                           | tu (أنتَ) · ti (ـك) · tuo / tua (لك) ← Lei (حضرتك) · La / Le (ـك رسمية) · Suo / Sua (لك رسمية) |
+| Tu vieni? · Tu hai ragione. · Tu puoi aiutarmi?                  | Lei viene? · Lei ha ragione. · Lei può aiutarmi?                 | هل تأتي؟ · أنت محق. · هل يمكنك مساعدتي؟ (عادي ← نفس الجمل بصيغة الاحترام مع Lei) |
+| Ti ringrazio. · Ti chiedo scusa. · Ti auguro una buona giornata. | La ringrazio. · Le chiedo scusa. · Le auguro una buona giornata. | أشكرك. · أعتذر منك. · أتمنى لك يوماً سعيداً. (عادي ← رسمي: La ringrazio · Le chiedo scusa · Le auguro…) |
+| Ti posso essere utile?                                           | Le posso essere utile?                                           | هل أستطيع أن أخدمك؟ (عادي ← رسمي) |
 
 Lei uses the 3rd person singular. Capitalise Lei / La / Le / Suo in writing for formal letters. Typical formulae: La prego di firmare qui. · Le dispiace se mi siedo qui? · Le sarei grato se potesse aiutarmi.
 
+🇸🇦 Lei تأخذ فعل الغائب المفرد. اكتب Lei / La / Le / Suo بحرف كبير في الرسائل الرسمية. عبارات معتادة: أرجو أن توقّع هنا. · هل تمانع إن جلستُ هنا؟ · سأكون ممتناً لو تفضّلتم بمساعدتي.
+
 *Correction: «La ringrazio» (direct object → La) but «Le chiedo» / «Le auguro» (indirect object → Le). «Le chiedo se può aiutarmi» is more natural than «se possa aiutarmi».*
+
+🇸🇦 *تصحيح: «La ringrazio» (مفعول مباشر ← La) لكن «Le chiedo» / «Le auguro» (مفعول غير مباشر ← Le). و«Le chiedo se può aiutarmi» أكثر طبيعية من «se possa aiutarmi».*
 
 بالعربية: صيغة الاحترام Lei تأخذ صيغة المفرد الغائب. نقول La ringrazio (أشكرك) لكن Le chiedo / Le auguro (أسألك / أتمنى لك).
 

@@ -24,14 +24,16 @@ tags: [b1, grammar]
 ## Compound tenses you need at B1
 <!-- src: B1 Part 4 · B1+.2 -->
 
-| **Tense**                      | **Formation**                             | **Esempio**                                         | **Use**                                     |
-|--------------------------------|-------------------------------------------|-----------------------------------------------------|---------------------------------------------|
-| **Trapassato prossimo**        | imperfetto of avere / essere + participle | Avevo già mangiato. · Era già partita.              | earlier past                                |
-| **Condizionale passato**       | avrei / sarei + participle                | Avrei voluto venire. · Saremmo andati.              | regret · unreal past                        |
-| **Futuro anteriore**           | avrò / sarò + participle                  | Quando avrò finito, ti chiamerò. · Sarà già uscito. | future-before-future · guess about the past |
-| **Passato remoto (recognise)** | andai, andasti, andò…                     | Dante nacque nel 1265.                              | literary/regional; read, don't produce      |
+| **Tense**                      | **Formation**                             | **Esempio**                                         | **Use**                                     | **العربية** |
+|--------------------------------|-------------------------------------------|-----------------------------------------------------|---------------------------------------------|---|
+| **Trapassato prossimo**        | imperfetto of avere / essere + participle | Avevo già mangiato. · Era già partita.              | earlier past                                | **الماضي الأسبق (trapassato prossimo):** الناقص من avere / essere + اسم المفعول ← كنتُ قد أكلتُ. · كانت قد سافرت. (ماضٍ أسبق) |
+| **Condizionale passato**       | avrei / sarei + participle                | Avrei voluto venire. · Saremmo andati.              | regret · unreal past                        | **الشرطي الماضي:** avrei / sarei + اسم المفعول ← كنتُ أودّ أن آتي. · كنّا سنذهب. (ندم · ماضٍ غير متحقّق) |
+| **Futuro anteriore**           | avrò / sarò + participle                  | Quando avrò finito, ti chiamerò. · Sarà già uscito. | future-before-future · guess about the past | **المستقبل التام:** avrò / sarò + اسم المفعول ← عندما أكون قد انتهيت سأتصل بك. · على الأرجح قد خرج. (مستقبل قبل مستقبل · تخمين عن الماضي) |
+| **Passato remoto (recognise)** | andai, andasti, andò…                     | Dante nacque nel 1265.                              | literary/regional; read, don't produce      | **الماضي البعيد (للتعرّف):** andai، andasti، andò… ← وُلد دانتي عام ١٢٦٥. (أدبي/إقليمي؛ اقرأه ولا تستعمله) |
 
 *Quick check on the sequence: main verb in the past + earlier action → trapassato prossimo (indicative) or trapassato congiuntivo (subjunctive): Sapevo che era partito / Pensavo che fosse partito.*
+
+🇸🇦 *تحقّق سريع من التسلسل: فعل رئيسي ماضٍ + حدث أسبق ← trapassato prossimo (إخباري) أو congiuntivo trapassato: Sapevo che era partito (كنتُ أعرف أنه سافر) / Pensavo che fosse partito (ظننتُ أنه سافر).*
 
 ## 🇸🇦 Arabic lesson — Condizionale passato
 <!-- src: Arabic Lessons · L26 -->
