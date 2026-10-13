@@ -24,29 +24,31 @@ tags: [b2, grammar]
 ## Elevated register and advanced conditionals
 <!-- src: B2 Part 1 · 1.8 -->
 
-| **Pattern**                      | **Esempio**                                                  | **Notes**                    |
-|----------------------------------|--------------------------------------------------------------|------------------------------|
-| qualora + congiuntivo imperfetto | Qualora fosse necessario…                                    | = if / in case; formal       |
-| nel caso in cui + congiuntivo    | Nel caso in cui venga…                                       | = in the event that          |
-| ove + congiuntivo                | Ove fosse possibile…                                         | = where / if; legal, written |
-| laddove                          | Laddove necessario…                                          | = where / in cases where     |
-| avendo + participio (gerund)     | Avendo riflettuto a lungo, sono giunto alla conclusione che… | Having… — written            |
-| posto che / ammesso che          | Posto che le premesse siano corrette…                        | Given that / assuming that   |
+| **Pattern**                      | **Esempio**                                                  | **Notes**                    | **العربية** |
+|----------------------------------|--------------------------------------------------------------|------------------------------|---|
+| qualora + congiuntivo imperfetto | Qualora fosse necessario…                                    | = if / in case; formal       | qualora + congiuntivo imperfetto: إذا اقتضى الأمر… (= إذا / في حال؛ رسمي) |
+| nel caso in cui + congiuntivo    | Nel caso in cui venga…                                       | = in the event that          | nel caso in cui + كونجونتيفو: في حال أتى… (= في حالة أن) |
+| ove + congiuntivo                | Ove fosse possibile…                                         | = where / if; legal, written | ove + كونجونتيفو: حيثما كان ممكناً… (= حيث / إذا؛ قانوني ومكتوب) |
+| laddove                          | Laddove necessario…                                          | = where / in cases where     | laddove: حيث يلزم… (= حيث / في الحالات التي) |
+| avendo + participio (gerund)     | Avendo riflettuto a lungo, sono giunto alla conclusione che… | Having… — written            | avendo + اسم المفعول (gerundio): بعد أن تأمّلتُ طويلاً توصّلتُ إلى أن… (مكتوب) |
+| posto che / ammesso che          | Posto che le premesse siano corrette…                        | Given that / assuming that   | posto che / ammesso che: إذا سلّمنا بأن المقدّمات صحيحة… (= بافتراض أن) |
 
 *Note: the «non» in «a meno che non piova» — the «non» is expletive (it does not make the sentence negative); you may omit it. «Ove» is rare in speech but common in legal Italian.*
+
+🇸🇦 *ملاحظة: «non» في «a meno che non piova» زائدة (لا تجعل الجملة منفية)؛ يمكنك حذفها. و«Ove» نادرة في الكلام لكنها شائعة في الإيطالية القانونية.*
 
 ## Conditionals and wishes — advanced
 <!-- src: B2 Part 4 · B2+.3 -->
 
-| **Pattern**                         | **Esempio**                                            |
-|-------------------------------------|--------------------------------------------------------|
-| Mixed (past cause, present result)  | Se avessi studiato, ora sarei laureato.                |
-| Mixed (present cause, past result)  | Se fossi più prudente, non avresti avuto l'incidente.  |
-| Wish about present                  | Magari fossi qui! · Vorrei che tu fossi qui.           |
-| Wish about past                     | Magari avessi studiato! · Vorrei aver studiato.        |
-| Polite / reported                   | Potrebbe aiutarmi? · Ha detto che sarebbe venuto.      |
-| Hypothesis with gerund / participle | Volendo, potresti venire. · Visto così, sembra facile. |
-| a patto che / purché / nel caso che | Ti presto la macchina purché tu sia prudente.          |
+| **Pattern**                         | **Esempio**                                            | **العربية** |
+|-------------------------------------|--------------------------------------------------------|---|
+| Mixed (past cause, present result)  | Se avessi studiato, ora sarei laureato.                | مختلط (سبب ماضٍ، نتيجة حاضرة): لو درستُ لكنتُ الآن متخرّجاً. |
+| Mixed (present cause, past result)  | Se fossi più prudente, non avresti avuto l'incidente.  | مختلط (سبب حاضر، نتيجة ماضية): لو كنتَ أكثر حذراً لما وقع لك الحادث. |
+| Wish about present                  | Magari fossi qui! · Vorrei che tu fossi qui.           | أمنية عن الحاضر: ليتك هنا! · أتمنى لو كنتَ هنا. |
+| Wish about past                     | Magari avessi studiato! · Vorrei aver studiato.        | أمنية عن الماضي: ليتني درستُ! · كنتُ أودّ لو درستُ. |
+| Polite / reported                   | Potrebbe aiutarmi? · Ha detto che sarebbe venuto.      | مهذّب / منقول: هل يمكنك مساعدتي؟ · قال إنه سيأتي. |
+| Hypothesis with gerund / participle | Volendo, potresti venire. · Visto così, sembra facile. | افتراض بالـ gerundio أو اسم المفعول: إن أردت يمكنك أن تأتي. · إذا نظرنا إليه هكذا يبدو سهلاً. |
+| a patto che / purché / nel caso che | Ti presto la macchina purché tu sia prudente.          | a patto che / purché / nel caso che: أعيرك السيارة بشرط أن تكون حذراً. |
 
 ## 🇬🇧🇸🇦 Bilingual lesson — Advanced conditionals & wishes
 <!-- src: Bilingual Lessons · B2-G07 -->

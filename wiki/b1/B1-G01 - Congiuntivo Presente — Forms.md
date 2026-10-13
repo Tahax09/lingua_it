@@ -17,50 +17,64 @@ tags: [b1, grammar]
 
 Built from your B1 grammar pack, with the mistakes in the pack corrected (see the “Correction” notes in each section). Sections 1.1 to 1.3 are the heart of B1.
 
+🇸🇦 مبني على كتاب قواعد B1 في المصدر، مع تصحيح أخطائه (انظر ملاحظات «Correction» في كل قسم). الأقسام الأولى هي قلب مستوى B1.
+
 ## Congiuntivo presente — regular verbs
 <!-- src: B1 Part 1 · 1.1 -->
 
 The subjunctive is used for opinions, wishes, doubts and emotions, after «che». Pattern: Penso che + congiuntivo.
 
-| **Pronome** | **-ARE (parlare)** | **-ERE (scrivere)** | **-IRE (dormire)** | **-IRE -isc- (capire)** |
-|-------------|--------------------|---------------------|--------------------|-------------------------|
-| io          | parli              | scriva              | dorma              | capisca                 |
-| tu          | parli              | scriva              | dorma              | capisca                 |
-| lui / lei   | parli              | scriva              | dorma              | capisca                 |
-| noi         | parliamo           | scriviamo           | dormiamo           | capiamo                 |
-| voi         | parliate           | scriviate           | dormiate           | capiate                 |
-| loro        | parlino            | scrivano            | dormano            | capiscano               |
+🇸🇦 الكونجونتيفو يُستعمل للآراء والأمنيات والشكوك والمشاعر بعد «che». النمط: Penso che + كونجونتيفو.
+
+| **Pronome** | **-ARE (parlare)** | **-ERE (scrivere)** | **-IRE (dormire)** | **-IRE -isc- (capire)** | **العربية** |
+|-------------|--------------------|---------------------|--------------------|-------------------------|---|
+| io          | parli              | scriva              | dorma              | capisca                 | (أن) أتكلم · أكتب · أنام · أفهم |
+| tu          | parli              | scriva              | dorma              | capisca                 | (أن) تتكلم · تكتب · تنام · تفهم |
+| lui / lei   | parli              | scriva              | dorma              | capisca                 | (أن) يتكلم · يكتب · ينام · يفهم |
+| noi         | parliamo           | scriviamo           | dormiamo           | capiamo                 | (أن) نتكلم · نكتب · ننام · نفهم |
+| voi         | parliate           | scriviate           | dormiate           | capiate                 | (أن) تتكلموا · تكتبوا · تناموا · تفهموا |
+| loro        | parlino            | scrivano            | dormano            | capiscano               | (أن) يتكلموا · يكتبوا · يناموا · يفهموا |
 
 *Trick: io, tu and lui/lei are ALL the same, so you often need the pronoun to avoid confusion (Penso che tu parli… / che lui parli…). The noi form equals the present indicative.*
 
+🇸🇦 *حيلة: صيغ io و tu و lui/lei كلها متطابقة، لذلك تحتاج غالباً إلى الضمير لتجنّب الالتباس (Penso che tu parli… / che lui parli…). وصيغة noi = المضارع الإخباري.*
+
 Penso che io parli bene. · Credo che tu scriva spesso. · Spero che lei dorma bene. · È importante che voi scriviate chiaro. · Credo che loro partano domani.
 
+🇸🇦 أظن أنني أتكلم جيداً. · أعتقد أنك تكتب كثيراً. · أرجو أن تنام جيداً. · من المهم أن تكتبوا بوضوح. · أعتقد أنهم يسافرون غداً.
+
 *Same subject → use di + infinitive instead: «Penso di parlare bene» (not «Penso che io parli bene») sounds more natural. Use che + subjunctive when the subject changes: Penso che tu parli bene.*
+
+🇸🇦 *نفس الفاعل ← استعمل di + مصدر: «Penso di parlare bene» (أظن أنني أتكلم جيداً) أكثر طبيعية من «Penso che io parli bene». استعمل che + كونجونتيفو عندما يتغيّر الفاعل: Penso che tu parli bene.*
 
 بالعربية: صيغة الشرط (congiuntivo) تُستعمل بعد che للتعبير عن الرأي والرغبة والشك. في المفرد (io/tu/lui) الصيغة واحدة، وفي noi تساوي المضارع.
 
 ## Congiuntivo presente — irregular verbs
 <!-- src: B1 Part 1 · 1.2 -->
 
-|           | **essere** | **avere** | **andare** | **fare** | **dire** | **stare** |
-|-----------|------------|-----------|------------|----------|----------|-----------|
-| io/tu/lui | sia        | abbia     | vada       | faccia   | dica     | stia      |
-| noi       | siamo      | abbiamo   | andiamo    | facciamo | diciamo  | stiamo    |
-| voi       | siate      | abbiate   | andiate    | facciate | diciate  | stiate    |
-| loro      | siano      | abbiano   | vadano     | facciano | dicano   | stiano    |
+|           | **essere** | **avere** | **andare** | **fare** | **dire** | **stare** | **العربية** |
+|-----------|------------|-----------|------------|----------|----------|-----------|---|
+| io/tu/lui | sia        | abbia     | vada       | faccia   | dica     | stia      | (أن) أكون · يكون عندي · أذهب · أفعل · أقول · أبقى |
+| noi       | siamo      | abbiamo   | andiamo    | facciamo | diciamo  | stiamo    | (أن) نكون · يكون عندنا · نذهب · نفعل · نقول · نبقى |
+| voi       | siate      | abbiate   | andiate    | facciate | diciate  | stiate    | (أن) تكونوا · يكون عندكم · تذهبوا · تفعلوا · تقولوا · تبقوا |
+| loro      | siano      | abbiano   | vadano     | facciano | dicano   | stiano    | (أن) يكونوا · يكون عندهم · يذهبوا · يفعلوا · يقولوا · يبقوا |
 
-|           | **sapere** | **potere** | **volere** | **dovere** | **venire** | **uscire** |
-|-----------|------------|------------|------------|------------|------------|------------|
-| io/tu/lui | sappia     | possa      | voglia     | debba      | venga      | esca       |
-| noi       | sappiamo   | possiamo   | vogliamo   | dobbiamo   | veniamo    | usciamo    |
-| voi       | sappiate   | possiate   | vogliate   | dobbiate   | veniate    | usciate    |
-| loro      | sappiano   | possano    | vogliano   | debbano    | vengano    | escano     |
+|           | **sapere** | **potere** | **volere** | **dovere** | **venire** | **uscire** | **العربية** |
+|-----------|------------|------------|------------|------------|------------|------------|---|
+| io/tu/lui | sappia     | possa      | voglia     | debba      | venga      | esca       | (أن) أعرف · أستطيع · أريد · يجب عليّ · آتي · أخرج |
+| noi       | sappiamo   | possiamo   | vogliamo   | dobbiamo   | veniamo    | usciamo    | (أن) نعرف · نستطيع · نريد · يجب علينا · نأتي · نخرج |
+| voi       | sappiate   | possiate   | vogliate   | dobbiate   | veniate    | usciate    | (أن) تعرفوا · تستطيعوا · تريدوا · يجب عليكم · تأتوا · تخرجوا |
+| loro      | sappiano   | possano    | vogliano   | debbano    | vengano    | escano     | (أن) يعرفوا · يستطيعوا · يريدوا · يجب عليهم · يأتوا · يخرجوا |
 
 *Extra (not in your pack but you will need them): venire → venga, uscire → esca, dare → dia, bere → beva.*
 
+🇸🇦 *إضافة (غير موجودة في المصدر لكنك ستحتاجها): venire ← venga، uscire ← esca، dare ← dia، bere ← beva.*
+
 Penso che io sappia la risposta. · Spero che io possa aiutare. · Penso che io debba studiare. · Credo che lui stia bene. · Voglio che tu faccia attenzione.
 
-**Quiz: «Penso che lui \_\_\_\_\_ ragione» → abbia (avere, 3rd person subjunctive). «ha» = indicative; «avere» = infinitive; «abbi» = imperative (tu), not subjunctive.**
+🇸🇦 أظن أنني أعرف الجواب. · أرجو أن أستطيع المساعدة. · أظن أنه يجب أن أدرس. · أعتقد أنه بخير. · أريد أن تنتبه. (مع نفس الفاعل الأفضل: Penso di sapere / Spero di poter / Penso di dover)
+
+**Quiz: «Penso che lui \_\_\_\_\_ ragione» → abbia (avere, 3rd person subjunctive). «ha» = indicative; «avere» = infinitive; «abbi» = imperative (tu), not subjunctive.** · **سؤال: «Penso che lui _____ ragione» ← abbia (كونجونتيفو avere للغائب). «ha» إخباري؛ «avere» مصدر؛ «abbi» أمر للمخاطب، وليست كونجونتيفو.**
 
 بالعربية: الأفعال الشاذة يجب حفظها: sia, abbia, vada, faccia, sappia, possa, voglia, debba, dica, stia. وللتذكير: abbi هو أمر (imperativo) وليس congiuntivo.
 

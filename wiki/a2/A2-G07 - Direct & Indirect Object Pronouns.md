@@ -26,7 +26,9 @@ tags: [a2, grammar]
 
 Direct object answers 'cosa?/chi?' (what/whom) — it receives the action directly, no preposition in the full sentence. Indirect object answers 'a chi?/a cosa?' (to whom/to what) — the full sentence has 'a' before it.
 
-**Diretti (replace 'cosa/chi' — no preposition):**
+🇸🇦 المفعول المباشر يجيب عن «ماذا؟ / مَن؟» — يتلقّى الفعل مباشرة بدون حرف جر. والمفعول غير المباشر يجيب عن «لِمن؟ / لِماذا؟» — وفي الجملة الكاملة يسبقه حرف a.
+
+**Diretti (replace 'cosa/chi' — no preposition):** · **المباشر (يحلّ محلّ «ماذا / مَن» — بدون حرف جر):**
 
 | **Pronome** | **English**  | **العربية** |
 |-------------|--------------|-------------|
@@ -39,7 +41,7 @@ Direct object answers 'cosa?/chi?' (what/whom) — it receives the action direct
 | li          | them (m)     | هم          |
 | le          | them (f)     | هنّ          |
 
-**Indiretti (replace 'a + persona/cosa'):**
+**Indiretti (replace 'a + persona/cosa'):** · **غير المباشر (يحلّ محلّ «a + شخص / شيء»):**
 
 | **Pronome** | **English** | **العربية** |
 |-------------|-------------|-------------|
@@ -59,26 +61,30 @@ Direct object answers 'cosa?/chi?' (what/whom) — it receives the action direct
 
 *Position: before a conjugated verb (Lo vedo); attached to the end of an infinitive with the final -e dropped (voglio vederlo); attached to a gerund (vedendolo); attached to an informal imperative (guardalo!).*
 
+🇸🇦 *الموقع: قبل الفعل المصرّف (Lo vedo = أراه)؛ يلتصق بآخر المصدر مع حذف e (voglio vederlo = أريد أن أراه)؛ يلتصق بالـ gerundio (vedendolo)؛ يلتصق بالأمر غير الرسمي (guardalo! = انظر إليه!).*
+
 ## Object pronouns
 <!-- src: A2 Part 12 · A2+.6 -->
 
-|              | **Direct (whom? what?)** | **Indirect (to whom?)** | **Esempio**                        |
-|--------------|--------------------------|-------------------------|------------------------------------|
-| I            | mi                       | mi                      | Mi vedi? · Mi dai il libro?        |
-| you (tu)     | ti                       | ti                      | Ti chiamo. · Ti scrivo domani.     |
-| he / it (m)  | lo                       | gli                     | Lo vedo. · Gli telefono.           |
-| she / it (f) | la                       | le                      | La vedo. · Le telefono.            |
-| we           | ci                       | ci                      | Ci chiami?                         |
-| you (voi)    | vi                       | vi                      | Vi aspetto.                        |
-| they         | li (m) / le (f)          | gli (or: a loro)        | Li vedo. · Le compro. · Gli parlo. |
-| you (Lei)    | La                       | Le                      | La ringrazio. · Le telefono.       |
+|              | **Direct (whom? what?)** | **Indirect (to whom?)** | **Esempio**                        | **العربية** |
+|--------------|--------------------------|-------------------------|------------------------------------|---|
+| I            | mi                       | mi                      | Mi vedi? · Mi dai il libro?        | أنا: ـني / لي ← هل تراني؟ · هل تعطيني الكتاب؟ |
+| you (tu)     | ti                       | ti                      | Ti chiamo. · Ti scrivo domani.     | أنتَ: ـك / لك ← أتصل بك. · أكتب لك غداً. |
+| he / it (m)  | lo                       | gli                     | Lo vedo. · Gli telefono.           | هو (مذكر): ـه / له ← أراه. · أتصل به. |
+| she / it (f) | la                       | le                      | La vedo. · Le telefono.            | هي (مؤنث): ـها / لها ← أراها. · أتصل بها. |
+| we           | ci                       | ci                      | Ci chiami?                         | نحن: ـنا / لنا ← هل تتصل بنا؟ |
+| you (voi)    | vi                       | vi                      | Vi aspetto.                        | أنتم: ـكم / لكم ← أنتظركم. |
+| they         | li (m) / le (f)          | gli (or: a loro)        | Li vedo. · Le compro. · Gli parlo. | هم: ـهم / ـهنّ / لهم ← أراهم. · أشتريها (جمع مؤنث). · أكلّمهم. |
+| you (Lei)    | La                       | Le                      | La ringrazio. · Le telefono.       | حضرتك (Lei): ـك / لك (رسمي) ← أشكرك. · أتصل بك. |
 
 Position: before the conjugated verb (Lo compro. · L'ho comprato.), or attached to the infinitive (Voglio comprarlo = Lo voglio comprare). Negative: Non lo compro. Lo / la drop to l' before a vowel or with avere: L'ho visto · L'ho vista. Two pronouns together: me lo, te lo, glielo, ce lo… (Me lo dai? · Glielo dico.)
 
-| **ne and ci**               | **Esempio**                                                      |
-|-----------------------------|------------------------------------------------------------------|
-| ne = of it / of them / some | Vuoi del caffè? — Sì, ne voglio. · Quanti ne hai? — Ne ho due.   |
-| ci = there                  | Vai a Roma? — Sì, ci vado domani. · Ci sono stato l'anno scorso. |
+🇸🇦 الموقع: قبل الفعل المصرّف (Lo compro = أشتريه · L'ho comprato = اشتريته)، أو ملتصق بالمصدر (Voglio comprarlo = Lo voglio comprare). النفي: Non lo compro. و lo / la تصبح l' قبل حرف متحرك أو مع avere: L'ho visto · L'ho vista. ضميران معاً: me lo، te lo، glielo، ce lo… (Me lo dai? = هل تعطيني إياه؟ · Glielo dico = أقوله له.)
+
+| **ne and ci**               | **Esempio**                                                      | **العربية** |
+|-----------------------------|------------------------------------------------------------------|---|
+| ne = of it / of them / some | Vuoi del caffè? — Sì, ne voglio. · Quanti ne hai? — Ne ho due.   | ne = منه / منها / بعض ← هل تريد قهوة؟ — نعم، أريد منها. · كم عندك منها؟ — عندي اثنان. |
+| ci = there                  | Vai a Roma? — Sì, ci vado domani. · Ci sono stato l'anno scorso. | ci = هناك ← هل تذهب إلى روما؟ — نعم، أذهب إلى هناك غداً. · كنتُ هناك السنة الماضية. |
 
 بالعربية: الضمائر المباشرة (lo/la/li/le) تأتي قبل الفعل، ومع passato prossimo يتطابق اسم المفعول معها: L'ho vista (رأيتها)، Li ho letti (قرأتها).
 

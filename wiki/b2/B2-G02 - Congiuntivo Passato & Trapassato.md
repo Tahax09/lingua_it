@@ -24,37 +24,43 @@ tags: [b2, grammar]
 ## Congiuntivo passato — your pack's §2
 <!-- src: B2 Part 1 · 1.4 -->
 
-| **Pronome**   | **con ESSERE** | **con AVERE** |
-|---------------|----------------|---------------|
-| io / tu / lui | sia stato/a    | abbia fatto   |
-| noi           | siamo stati/e  | abbiamo fatto |
-| voi           | siate stati/e  | abbiate fatto |
-| loro          | siano stati/e  | abbiano fatto |
+| **Pronome**   | **con ESSERE** | **con AVERE** | **العربية** |
+|---------------|----------------|---------------|---|
+| io / tu / lui | sia stato/a    | abbia fatto   | (أن) أكون قد كنتُ · فعلتُ (io / tu / lui) |
+| noi           | siamo stati/e  | abbiamo fatto | (أن) نكون قد كنّا · فعلنا |
+| voi           | siate stati/e  | abbiate fatto | (أن) تكونوا قد كنتم · فعلتم |
+| loro          | siano stati/e  | abbiano fatto | (أن) يكونوا قد كانوا · فعلوا |
 
 Penso che abbia fatto bene. · Credo che sia arrivato ieri. · Dubito che abbia finito in tempo. · Spero che abbiano visto il messaggio. · Penso che voi siate stati bravi.
 
+🇸🇦 أظن أنه أحسن صنعاً. · أعتقد أنه وصل أمس. · أشك أنه انتهى في الوقت. · أرجو أنهم رأوا الرسالة. · أظن أنكم كنتم رائعين.
+
 *Correction: «Prima che fosse arrivato, avevo già finito» ✗ — «prima che» takes the SIMPLE subjunctive: «Prima che arrivasse, avevo già finito» ✓. «Dopo che» takes the INDICATIVE, never the subjunctive: «Dopo che ha capito, ha cambiato idea» / «Dopo che ebbe capito…» ✓ (not «dopo che avesse capito»).*
+
+🇸🇦 *تصحيح: «Prima che fosse arrivato, avevo già finito» ✗ — «prima che» تأخذ الكونجونتيفو البسيط: «Prima che arrivasse…» ✓. و«Dopo che» تأخذ الإخباري دائماً: «Dopo che ha capito, ha cambiato idea» ✓ (وليس «dopo che avesse capito»).*
 
 ## Congiuntivo trapassato — your pack's §1
 <!-- src: B2 Part 1 · 1.2 -->
 
-| **Pronome** | **con ESSERE**    | **con AVERE**      |
-|-------------|-------------------|--------------------|
-| io          | fossi venuto/a    | avessi studiato    |
-| tu          | fossi partito/a   | avessi capito      |
-| lui / lei   | fosse arrivato/a  | avesse finito      |
-| noi         | fossimo stati/e   | avessimo avuto     |
-| voi         | foste venuti/e    | aveste partecipato |
-| loro        | fossero partiti/e | avessero fatto     |
+| **Pronome** | **con ESSERE**    | **con AVERE**      | **العربية** |
+|-------------|-------------------|--------------------|---|
+| io          | fossi venuto/a    | avessi studiato    | أنا: لو كنتُ أتيتُ · لو كنتُ درستُ |
+| tu          | fossi partito/a   | avessi capito      | أنتَ: لو كنتَ سافرتَ · لو كنتَ فهمتَ |
+| lui / lei   | fosse arrivato/a  | avesse finito      | هو/هي: لو كان وصل · لو كان أنهى |
+| noi         | fossimo stati/e   | avessimo avuto     | نحن: لو كنّا كنّا · لو كان عندنا |
+| voi         | foste venuti/e    | aveste partecipato | أنتم: لو كنتم أتيتم · لو كنتم شاركتم |
+| loro        | fossero partiti/e | avessero fatto     | هم: لو كانوا سافروا · لو كانوا فعلوا |
 
-| **Uso**                                      | **Esempio**                                                                     |
-|----------------------------------------------|---------------------------------------------------------------------------------|
-| Wish about a past that did not happen        | Avrei voluto che fossi stato qui. · Vorrei che tu fossi venuto ieri.            |
-| Regret                                       | Sarebbe stato meglio che avessi aspettato. · Mi dispiace che tu non sia venuto. |
-| Past doubt / thought about an earlier action | Credevo che tu fossi già partito. · Non ero sicuro che avesse capito.           |
-| Type 3 conditional                           | Se fossi venuto, avrei visto tutto.                                             |
+| **Uso**                                      | **Esempio**                                                                     | **العربية** |
+|----------------------------------------------|---------------------------------------------------------------------------------|---|
+| Wish about a past that did not happen        | Avrei voluto che fossi stato qui. · Vorrei che tu fossi venuto ieri.            | أمنية عن ماضٍ لم يحدث: كنتُ أودّ لو كنتَ هنا. · ليتك أتيتَ أمس. |
+| Regret                                       | Sarebbe stato meglio che avessi aspettato. · Mi dispiace che tu non sia venuto. | الندم: كان من الأفضل لو انتظرتُ. · يؤسفني أنك لم تأتِ. |
+| Past doubt / thought about an earlier action | Credevo che tu fossi già partito. · Non ero sicuro che avesse capito.           | شك أو فكرة ماضية عن حدث أسبق: ظننتُ أنك كنتَ قد سافرت. · لم أكن متأكداً أنه فهم. |
+| Type 3 conditional                           | Se fossi venuto, avrei visto tutto.                                             | الشرط من النوع ٣: لو كنتَ أتيتَ لرأيتَ كل شيء. |
 
 *Corrections to your pack: (1) «Vorrei che io fossi venuto» — same subject, so use the infinitive: «Vorrei essere venuto» / «Avrei voluto venire». Use che + subjunctive when the subject changes. (2) «Speravo che noi fossimo insieme» is imperfetto, not trapassato (no participle). (3) «Mi dispiace che non fossi venuto» → natural: «non sia venuto» (present main verb). (4) «Peccato che non avessi potuto partecipare» → «Peccato che tu non abbia potuto partecipare».*
+
+🇸🇦 *تصحيحات للمصدر: (١) «Vorrei che io fossi venuto» — نفس الفاعل، فاستعمل المصدر: «Vorrei essere venuto» / «Avrei voluto venire». (٢) «Speravo che noi fossimo insieme» = ناقص وليس أسبق (لا يوجد اسم مفعول). (٣) «Mi dispiace che non fossi venuto» ← الطبيعي: «non sia venuto» (فعل رئيسي حاضر). (٤) «Peccato che non avessi potuto partecipare» ← «Peccato che tu non abbia potuto partecipare».*
 
 ## 🇬🇧🇸🇦 Bilingual lesson — Congiuntivo passato & trapassato
 <!-- src: Bilingual Lessons · B2-G02 -->

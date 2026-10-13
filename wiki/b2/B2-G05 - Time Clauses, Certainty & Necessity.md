@@ -18,36 +18,40 @@ tags: [b2, grammar]
 ## Time clauses — mood
 <!-- src: B2 Part 1 · 1.9 -->
 
-| **Expression**                                   | **Mood**                                                       | **Esempio**                                     |
-|--------------------------------------------------|----------------------------------------------------------------|-------------------------------------------------|
-| prima che                                        | subjunctive                                                    | Prima che arrivasse, avevo già finito.          |
-| dopo che · appena · non appena · quando · mentre | indicative                                                     | Non appena è partito, ho chiamato.              |
-| finché non · fino a quando non                   | indicative (real) / subjunctive (hypothetical, future-in-past) | Finché non avesse finito, non poteva uscire.    |
-| nel momento in cui · nel frattempo               | indicative                                                     | Nel momento in cui ha capito, ha cambiato idea. |
+| **Expression**                                   | **Mood**                                                       | **Esempio**                                     | **العربية** |
+|--------------------------------------------------|----------------------------------------------------------------|-------------------------------------------------|---|
+| prima che                                        | subjunctive                                                    | Prima che arrivasse, avevo già finito.          | prima che (قبل أن) ← كونجونتيفو: قبل أن يصل كنتُ قد انتهيت. |
+| dopo che · appena · non appena · quando · mentre | indicative                                                     | Non appena è partito, ho chiamato.              | بعد أن · فور أن · عندما · بينما ← إخباري: فور أن سافر اتصلتُ. |
+| finché non · fino a quando non                   | indicative (real) / subjunctive (hypothetical, future-in-past) | Finché non avesse finito, non poteva uscire.    | حتى (لا) ← إخباري (حقيقي) / كونجونتيفو (افتراضي أو مستقبل في الماضي): حتى ينتهي لم يكن يستطيع الخروج. |
+| nel momento in cui · nel frattempo               | indicative                                                     | Nel momento in cui ha capito, ha cambiato idea. | في اللحظة التي · في هذه الأثناء ← إخباري: في اللحظة التي فهم فيها غيّر رأيه. |
 
 *Correction: your pack gives «Non appena fosse partito, ho chiamato» and «Dopo che avesse capito, ha cambiato idea». Neither works as written: «appena / non appena / dopo che» take the indicative (siamo partiti, ha capito). The subjunctive after «finché non» is possible only for hypothetical or repeated situations.*
+
+🇸🇦 *تصحيح: المصدر يعطي «Non appena fosse partito, ho chiamato» و«Dopo che avesse capito, ha cambiato idea». كلاهما خطأ: «appena / non appena / dopo che» تأخذ الإخباري (siamo partiti، ha capito). والكونجونتيفو بعد «finché non» ممكن فقط للمواقف الافتراضية أو المتكرّرة.*
 
 ## Degrees of certainty and necessity
 <!-- src: B2 Part 1 · 1.10 -->
 
-| **Certainty**            | **Mood**    | **Esempio**              |
-|--------------------------|-------------|--------------------------|
-| È certo che (≈100%)      | indicative  | È certo che viene.       |
-| È probabile che (≈80%)   | subjunctive | È probabile che venga.   |
-| È possibile che (≈50%)   | subjunctive | È possibile che venga.   |
-| È dubbio che (≈30%)      | subjunctive | È dubbio che venga.      |
-| È improbabile che (≈20%) | subjunctive | È improbabile che venga. |
-| È impossibile che (0%)   | subjunctive | È impossibile che venga. |
+| **Certainty**            | **Mood**    | **Esempio**              | **العربية** |
+|--------------------------|-------------|--------------------------|---|
+| È certo che (≈100%)      | indicative  | È certo che viene.       | من المؤكد (١٠٠٪) ← إخباري: من المؤكد أنه سيأتي. |
+| È probabile che (≈80%)   | subjunctive | È probabile che venga.   | من المحتمل (٨٠٪) ← كونجونتيفو: من المحتمل أن يأتي. |
+| È possibile che (≈50%)   | subjunctive | È possibile che venga.   | من الممكن (٥٠٪) ← كونجونتيفو: من الممكن أن يأتي. |
+| È dubbio che (≈30%)      | subjunctive | È dubbio che venga.      | من المشكوك فيه (٣٠٪) ← كونجونتيفو: من المشكوك فيه أن يأتي. |
+| È improbabile che (≈20%) | subjunctive | È improbabile che venga. | من غير المحتمل (٢٠٪) ← كونجونتيفو: من غير المحتمل أن يأتي. |
+| È impossibile che (0%)   | subjunctive | È impossibile che venga. | من المستحيل (٠٪) ← كونجونتيفو: من المستحيل أن يأتي. |
 
-| **Necessity**                     | **Esempio**                      |
-|-----------------------------------|----------------------------------|
-| È necessario che (strongest)      | È necessario che venga.          |
-| È importante che                  | È importante che venga.          |
-| Sarebbe meglio che                | Sarebbe meglio che venisse.      |
-| Sarebbe opportuno che             | Sarebbe opportuno che venisse.   |
-| Sarebbe auspicabile che (weakest) | Sarebbe auspicabile che venisse. |
+| **Necessity**                     | **Esempio**                      | **العربية** |
+|-----------------------------------|----------------------------------|---|
+| È necessario che (strongest)      | È necessario che venga.          | من الضروري (الأقوى): من الضروري أن يأتي. |
+| È importante che                  | È importante che venga.          | من المهم: من المهم أن يأتي. |
+| Sarebbe meglio che                | Sarebbe meglio che venisse.      | سيكون من الأفضل: سيكون من الأفضل أن يأتي. |
+| Sarebbe opportuno che             | Sarebbe opportuno che venisse.   | سيكون من المناسب: سيكون من المناسب أن يأتي. |
+| Sarebbe auspicabile che (weakest) | Sarebbe auspicabile che venisse. | سيكون من المرغوب فيه (الأضعف): سيكون من المرغوب فيه أن يأتي. |
 
 *The percentages are only a memory aid; real usage varies. After «È certo che» use the indicative.*
+
+🇸🇦 *النِّسب مجرد وسيلة للحفظ؛ الاستعمال الحقيقي يختلف. بعد «È certo che» استعمل الإخباري.*
 
 بالعربية: درجات اليقين: È certo (يقين، indicativo) ← È probabile ← È possibile ← È dubbio ← È impossibile (كلها congiuntivo). ودرجات الضرورة: necessario ← importante ← sarebbe meglio ← opportuno ← auspicabile.
 

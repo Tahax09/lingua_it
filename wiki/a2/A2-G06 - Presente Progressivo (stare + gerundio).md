@@ -26,26 +26,28 @@ tags: [a2, grammar]
 
 Used for an action happening right now, in this exact moment — not a habit. Compare: Studio italiano (I study Italian — in general, a habit) vs Sto studiando italiano (I am studying Italian — right now, this moment).
 
-**Formation: STARE (presente) + gerundio.**
+🇸🇦 يُستعمل لفعل يحدث الآن في هذه اللحظة بالذات — لا لعادة. قارن: Studio italiano (أدرس الإيطالية — عموماً، عادة) مقابل Sto studiando italiano (أنا أدرس الإيطالية الآن، في هذه اللحظة).
 
-| **Persona** | **stare** |
-|-------------|-----------|
-| io          | sto       |
-| tu          | stai      |
-| lui/lei/Lei | sta       |
-| noi         | stiamo    |
-| voi         | state     |
-| loro        | stanno    |
+**Formation: STARE (presente) + gerundio.** · **التكوين: STARE (مضارع) + gerundio.**
 
-**Gerundio endings:**
+| **Persona** | **stare** | **العربية** |
+|-------------|-----------|---|
+| io          | sto       | أنا |
+| tu          | stai      | أنتَ |
+| lui/lei/Lei | sta       | هو/هي/حضرتك |
+| noi         | stiamo    | نحن |
+| voi         | state     | أنتم |
+| loro        | stanno    | هم |
 
-| **Terminazione** | **Gerundio** | **Esempio**          |
-|------------------|--------------|----------------------|
-| -ARE             | -ando        | studiare → studiando |
-| -ERE             | -endo        | leggere → leggendo   |
-| -IRE             | -endo        | dormire → dormendo   |
+**Gerundio endings:** · **نهايات الـ gerundio:**
 
-**Irregular gerunds:**
+| **Terminazione** | **Gerundio** | **Esempio**          | **العربية** |
+|------------------|--------------|----------------------|---|
+| -ARE             | -ando        | studiare → studiando | يدرس ← دارساً (studiando) |
+| -ERE             | -endo        | leggere → leggendo   | يقرأ ← قارئاً (leggendo) |
+| -IRE             | -endo        | dormire → dormendo   | ينام ← نائماً (dormendo) |
+
+**Irregular gerunds:** · **gerundio شاذ:**
 
 | **Verbo** | **Gerundio** | **English**    | **العربية**         |
 |-----------|--------------|----------------|---------------------|
@@ -62,9 +64,15 @@ Used for an action happening right now, in this exact moment — not a habit. Co
 
 *Bonus use: the gerund alone (without stare) links two simultaneous actions.*
 
+🇸🇦 *استعمال إضافي: الـ gerundio وحده (بدون stare) يربط بين فعلين متزامنين.*
+
 > ***Es:** Camminando, ho incontrato Maria.* — While walking, I met Maria.
 >
+> 🇸🇦 وأنا أمشي التقيتُ بماريا.
+>
 > ***Es:** Mangio guardando la TV.* — I eat while watching TV.
+>
+> 🇸🇦 آكل وأنا أشاهد التلفاز.
 
 ## 🇸🇦 Arabic lesson — Stare + gerundio
 <!-- src: Arabic Lessons · L15 -->

@@ -24,43 +24,47 @@ tags: [a1, grammar]
 ## Prepositions + articles
 <!-- src: A1 Part 1 · 1.8 -->
 
-|     | **il** | **lo** | **la** | **l'** | **i** | **gli** | **le** |
-|-----|--------|--------|--------|--------|-------|---------|--------|
-| a   | al     | allo   | alla   | all'   | ai    | agli    | alle   |
-| da  | dal    | dallo  | dalla  | dall'  | dai   | dagli   | dalle  |
-| di  | del    | dello  | della  | dell'  | dei   | degli   | delle  |
-| in  | nel    | nello  | nella  | nell'  | nei   | negli   | nelle  |
-| su  | sul    | sullo  | sulla  | sull'  | sui   | sugli   | sulle  |
+|     | **il** | **lo** | **la** | **l'** | **i** | **gli** | **le** | **العربية** |
+|-----|--------|--------|--------|--------|-------|---------|--------|---|
+| a   | al     | allo   | alla   | all'   | ai    | agli    | alle   | a (إلى/في) + الأداة |
+| da  | dal    | dallo  | dalla  | dall'  | dai   | dagli   | dalle  | da (من/عند) + الأداة |
+| di  | del    | dello  | della  | dell'  | dei   | degli   | delle  | di (من/لـ) + الأداة |
+| in  | nel    | nello  | nella  | nell'  | nei   | negli   | nelle  | in (في) + الأداة |
+| su  | sul    | sullo  | sulla  | sull'  | sui   | sugli   | sulle  | su (على) + الأداة |
 
 Vado al cinema. · Il libro è sul tavolo. · Vengo dalla Francia. · Lavoro dalle 9 alle 5. · Arriviamo alle otto.
 
+🇸🇦 أذهب إلى السينما. · الكتاب على الطاولة. · آتي من فرنسا. · أعمل من التاسعة إلى الخامسة. · نصل في الثامنة.
+
 *Cities and most countries: «a»/«in» without article — Abito a Roma, Vado in Italia. «In» does not contract in fixed expressions like in macchina, in treno.*
+
+🇸🇦 *المدن وأغلب الدول: «a» / «in» بدون أداة — Abito a Roma (أسكن في روما)، Vado in Italia (أذهب إلى إيطاليا). و«in» لا تندمج في تعابير ثابتة مثل in macchina (بالسيارة)، in treno (بالقطار).*
 
 بالعربية: حروف الجر a / da / di / in / su تندمج مع أداة التعريف (a + il = al). هذا الاندماج إجباري.
 
 ## Articulated prepositions (preposizioni articolate)  *(moved here from A2 file)*
 <!-- src: A2 Part 4 · 4.9 -->
 
-| **Prep.** | **+ il**  | **+ lo**      | **+ la**      | **+ i**   | **+ gli**     | **+ le**      |
-|-----------|-----------|---------------|---------------|-----------|---------------|---------------|
-| di / da   | del / dal | dello / dallo | della / dalla | dei / dai | degli / dagli | delle / dalle |
-| a         | al        | allo          | alla          | ai        | agli          | alle          |
-| in        | nel       | nello         | nella         | nei       | negli         | nelle         |
-| su        | sul       | sullo         | sulla         | sui       | sugli         | sulle         |
+| **Prep.** | **+ il**  | **+ lo**      | **+ la**      | **+ i**   | **+ gli**     | **+ le**      | **العربية** |
+|-----------|-----------|---------------|---------------|-----------|---------------|---------------|---|
+| di / da   | del / dal | dello / dallo | della / dalla | dei / dai | degli / dagli | delle / dalle | di / da + الأداة (من / عند) |
+| a         | al        | allo          | alla          | ai        | agli          | alle          | a + الأداة (إلى / في) |
+| in        | nel       | nello         | nella         | nei       | negli         | nelle         | in + الأداة (في) |
+| su        | sul       | sullo         | sulla         | sui       | sugli         | sulle         | su + الأداة (على) |
 
 ## Prepositions in use
 <!-- src: A1 Part 4 · A1+.8 -->
 
-| **Preposition** | **Use**                               | **Esempio**                                                |
-|-----------------|---------------------------------------|------------------------------------------------------------|
-| a               | city, time, to someone                | Vado a Roma · alle otto · Parlo a Maria                    |
-| in              | countries, regions, transport, months | Vivo in Italia · in treno · in agosto                      |
-| da              | from, at someone's place, since       | Vengo da Milano · Vado dal dottore · Abito qui da due anni |
-| di              | of, from (origin), about              | Sono di Roma · il libro di Marco · parlo di lavoro         |
-| per             | for, to (purpose), through            | Questo è per te · Studio per l'esame                       |
-| con             | with                                  | Esco con gli amici                                         |
-| su              | on, about                             | sul tavolo · un libro sull'Italia                          |
-| tra / fra       | between, in (time)                    | Torno tra due ore · tra Roma e Milano                      |
+| **Preposition** | **Use**                               | **Esempio**                                                | **العربية** |
+|-----------------|---------------------------------------|------------------------------------------------------------|---|
+| a               | city, time, to someone                | Vado a Roma · alle otto · Parlo a Maria                    | a: المدينة، الوقت، إلى شخص ← أذهب إلى روما · في الثامنة · أكلّم ماريا |
+| in              | countries, regions, transport, months | Vivo in Italia · in treno · in agosto                      | in: الدول، المناطق، وسائل النقل، الشهور ← أعيش في إيطاليا · بالقطار · في أغسطس |
+| da              | from, at someone's place, since       | Vengo da Milano · Vado dal dottore · Abito qui da due anni | da: من، عند شخص، منذ ← آتي من ميلانو · أذهب إلى الطبيب · أسكن هنا منذ سنتين |
+| di              | of, from (origin), about              | Sono di Roma · il libro di Marco · parlo di lavoro         | di: لـ (ملكية)، من (أصل)، عن ← أنا من روما · كتاب ماركو · أتكلم عن العمل |
+| per             | for, to (purpose), through            | Questo è per te · Studio per l'esame                       | per: لـ، من أجل، عبر ← هذا لك · أدرس من أجل الامتحان |
+| con             | with                                  | Esco con gli amici                                         | con: مع ← أخرج مع الأصدقاء |
+| su              | on, about                             | sul tavolo · un libro sull'Italia                          | su: على، عن ← على الطاولة · كتاب عن إيطاليا |
+| tra / fra       | between, in (time)                    | Torno tra due ore · tra Roma e Milano                      | tra / fra: بين، بعد (زمن) ← أعود بعد ساعتين · بين روما وميلانو |
 
 ## 🇸🇦 Arabic lesson — Prepositions — di, a, da, in
 <!-- src: Arabic Lessons · L02 -->

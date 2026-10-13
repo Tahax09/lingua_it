@@ -26,36 +26,45 @@ tags: [a2, grammar]
 
 Regular: -ARE and -ERE verbs share endings; -ARE verbs change the a → e before adding them (parlare → parler-). -IRE keeps the i.
 
+🇸🇦 المنتظم: أفعال ‎-ARE‎ و ‎-ERE‎ تشترك في النهايات؛ وأفعال ‎-ARE‎ تغيّر a إلى e قبل إضافتها (parlare ← parler-). و ‎-IRE‎ تحتفظ بـ i.
+
 -erò / -erai / -erà / -eremo / -erete / -eranno (-IRE: -irò / -irai / -irà ...)
 
+🇸🇦 النهايات: ‎-erò / -erai / -erà / -eremo / -erete / -eranno‎ (و ‎-IRE‎: ‎-irò / -irai / -irà…‎)
+
 - Irregular stems (same stem is reused in Condizionale): essere→sar-, avere→avr-, andare→andr-, fare→far-, dire→dir-, dovere→dovr-, potere→potr-, volere→vorr-, venire→verr-, vedere→vedr-, sapere→sapr-, rimanere→rimarr-, tenere→terr-, bere→berr-.
+  🇸🇦 جذور شاذة (يُعاد استعمال الجذر نفسه في الشرطي): essere←sar-، avere←avr-، andare←andr-، fare←far-، dire←dir-، dovere←dovr-، potere←potr-، volere←vorr-، venire←verr-، vedere←vedr-، sapere←sapr-، rimanere←rimarr-، tenere←terr-، bere←berr-.
 
 > ***Es:** Domani pioverà tutto il giorno.* — Tomorrow it will rain all day.
 >
+> 🇸🇦 غداً ستمطر طوال اليوم.
+>
 > ***Es:** Il prossimo mese inizierò un nuovo lavoro.* — Next month I will start a new job.
+>
+> 🇸🇦 الشهر القادم سأبدأ عملاً جديداً.
 
 ## Futuro semplice — regular and irregular
 <!-- src: A2 Part 12 · A2+.4 -->
 
-|         | **parlare** | **scrivere** | **dormire** | **essere** | **avere** | **andare** | **fare** |
-|---------|-------------|--------------|-------------|------------|-----------|------------|----------|
-| io      | parlerò     | scriverò     | dormirò     | sarò       | avrò      | andrò      | farò     |
-| tu      | parlerai    | scriverai    | dormirai    | sarai      | avrai     | andrai     | farai    |
-| lui/lei | parlerà     | scriverà     | dormirà     | sarà       | avrà      | andrà      | farà     |
-| noi     | parleremo   | scriveremo   | dormiremo   | saremo     | avremo    | andremo    | faremo   |
-| voi     | parlerete   | scriverete   | dormirete   | sarete     | avrete    | andrete    | farete   |
-| loro    | parleranno  | scriveranno  | dormiranno  | saranno    | avranno   | andranno   | faranno  |
+|         | **parlare** | **scrivere** | **dormire** | **essere** | **avere** | **andare** | **fare** | **العربية** |
+|---------|-------------|--------------|-------------|------------|-----------|------------|----------|---|
+| io      | parlerò     | scriverò     | dormirò     | sarò       | avrò      | andrò      | farò     | أنا: سأتكلم · سأكتب · سأنام · سأكون · سيكون عندي · سأذهب · سأفعل |
+| tu      | parlerai    | scriverai    | dormirai    | sarai      | avrai     | andrai     | farai    | أنتَ: ستتكلم · ستكتب · ستنام · ستكون · سيكون عندك · ستذهب · ستفعل |
+| lui/lei | parlerà     | scriverà     | dormirà     | sarà       | avrà      | andrà      | farà     | هو/هي: سيتكلم · سيكتب · سينام · سيكون · سيكون عنده · سيذهب · سيفعل |
+| noi     | parleremo   | scriveremo   | dormiremo   | saremo     | avremo    | andremo    | faremo   | نحن: سنتكلم · سنكتب · سننام · سنكون · سيكون عندنا · سنذهب · سنفعل |
+| voi     | parlerete   | scriverete   | dormirete   | sarete     | avrete    | andrete    | farete   | أنتم: ستتكلمون · ستكتبون · ستنامون · ستكونون · سيكون عندكم · ستذهبون · ستفعلون |
+| loro    | parleranno  | scriveranno  | dormiranno  | saranno    | avranno   | andranno   | faranno  | هم: سيتكلمون · سيكتبون · سينامون · سيكونون · سيكون عندهم · سيذهبون · سيفعلون |
 
-| **Irregular stems**                                                                                                                                                                                     | **Spelling changes**                                                                                                                                                                                                             |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| venire → verr- · vedere → vedr- · potere → potr- · volere → vorr- · dovere → dovr- · sapere → sapr- · vivere → vivr- · dare → dar- · stare → star- · bere → berr- · rimanere → rimarr- · tenere → terr- | -care / -gare keep the hard sound: cercare → cercherò · pagare → pagherò · dimenticare → dimenticherò. -ciare / -giare drop the i: mangiare → mangerò · cominciare → comincerò. -are verbs change -a- to -e-: parlare → parlerò. |
+| **Irregular stems**                                                                                                                                                                                     | **Spelling changes**                                                                                                                                                                                                             | **العربية** |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|
+| venire → verr- · vedere → vedr- · potere → potr- · volere → vorr- · dovere → dovr- · sapere → sapr- · vivere → vivr- · dare → dar- · stare → star- · bere → berr- · rimanere → rimarr- · tenere → terr- | -care / -gare keep the hard sound: cercare → cercherò · pagare → pagherò · dimenticare → dimenticherò. -ciare / -giare drop the i: mangiare → mangerò · cominciare → comincerò. -are verbs change -a- to -e-: parlare → parlerò. | جذور شاذة أخرى (verr-، vedr-، potr-…). ‎-care / -gare‎ تحافظ على الصوت القاسي بإضافة h: cercherò، pagherò. ‎-ciare / -giare‎ تحذف i: mangerò، comincerò. أفعال ‎-are‎ تغيّر a إلى e: parlerò. |
 
-| **Use of the future**                | **Esempio**                                            |
-|--------------------------------------|--------------------------------------------------------|
-| Plans and predictions                | Domani pioverà. · L'anno prossimo finirò l'università. |
-| Probability about the present        | Dov'è Marco? — Sarà a casa. (He's probably at home.)   |
-| After se / quando (future real)      | Se avrò tempo, verrò. · Quando arriverò, ti chiamerò.  |
-| Present for the near, planned future | Domani vado al cinema. (very common)                   |
+| **Use of the future**                | **Esempio**                                            | **العربية** |
+|--------------------------------------|--------------------------------------------------------|---|
+| Plans and predictions                | Domani pioverà. · L'anno prossimo finirò l'università. | الخطط والتوقّعات: غداً ستمطر. · السنة القادمة سأنهي الجامعة. |
+| Probability about the present        | Dov'è Marco? — Sarà a casa. (He's probably at home.)   | احتمال عن الحاضر: أين ماركو؟ — على الأرجح في البيت. |
+| After se / quando (future real)      | Se avrò tempo, verrò. · Quando arriverò, ti chiamerò.  | بعد se / quando (مستقبل حقيقي): إن كان عندي وقت سآتي. · عندما أصل سأتصل بك. |
+| Present for the near, planned future | Domani vado al cinema. (very common)                   | المضارع للمستقبل القريب المخطّط: غداً أذهب إلى السينما. (شائع جداً) |
 
 بالعربية: المستقبل يُصاغ بتغيير النهاية: -erò, -erai, -erà, -eremo, -erete, -eranno. ويُستعمل أيضاً للاحتمال في الحاضر (Sarà a casa = غالباً هو في البيت). والأفعال الشاذة: sarò, avrò, andrò, farò, verrò, vedrò, potrò.
 

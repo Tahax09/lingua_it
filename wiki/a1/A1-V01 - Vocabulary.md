@@ -17,12 +17,16 @@ tags: [a1, vocabulary]
 
 2.1 holds all 144 words of your A1 vocabulary pack with Arabic. 2.2 is your sentence bank, and 2.3 is the speaking practice with a model answer for every prompt.
 
+🇸🇦 هذه الصفحة تضمّ كل كلمات مفردات A1 (١٤٤ كلمة) مع العربية. وبنك الجمل وتمارين المحادثة في صفحات منفصلة.
+
 ## Vocabulary (with Arabic)
 <!-- src: A1 Part 2 · 2.1 -->
 
-**1. Numbers & Money**
+**1. Numbers & Money** · **١. الأرقام والمال**
 
 *Count out loud. Prices: €3,50 = tre euro e cinquanta · €15,99 = quindici euro e novantanove.*
+
+🇸🇦 *عدّ بصوت عالٍ. الأسعار: ٣٫٥٠ يورو = tre euro e cinquanta · ١٥٫٩٩ يورو = quindici euro e novantanove.*
 
 | **Italiano**                   | **English**            | **العربية**               | **Esempio**                                                         |
 |--------------------------------|------------------------|--------------------------------------------------|---------------------------------------------------------------------|
@@ -46,9 +50,11 @@ tags: [a1, vocabulary]
 | **Il resto, per favore.**      | The change, please.    | الباقي من فضلك.           |                                                                     |
 | **Tenga pure il resto.**       | Keep the change.       | احتفظ بالباقي.            |                                                                     |
 
-**2. Food & Drinks**
+**2. Food & Drinks** · **٢. الطعام والمشروبات**
 
 *For the café role-play (Day 3) and restaurant role-play (Day 10).*
+
+🇸🇦 *لتمثيل دور المقهى (اليوم ٣) والمطعم (اليوم ١٠).*
 
 | **Italiano**             | **English**    | **العربية**          | **Esempio**                                                                             |
 |--------------------------|----------------|---------------------------------------------|-----------------------------------------------------------------------------------------|
@@ -73,9 +79,11 @@ tags: [a1, vocabulary]
 | **salato**               | salty          | مالح                 | *La zuppa è troppo salata.* / The soup is too salty.                                    |
 | **buono**                | good           | جيد / لذيذ           | *Questo piatto è molto buono!* / This dish is very good!                                |
 
-**3. Family**
+**3. Family** · **٣. العائلة**
 
 *Singular family members drop the article: mia madre, mio fratello (see [[A1-G07 - Possessives]]).*
+
+🇸🇦 *فرد العائلة المفرد يحذف أداة التعريف: mia madre (أمي)، mio fratello (أخي).*
 
 | **Italiano**              | **English**  | **العربية**              | **Esempio**                                                                  |
 |---------------------------|--------------|-------------------------------------------------|------------------------------------------------------------------------------|
@@ -96,9 +104,11 @@ tags: [a1, vocabulary]
 | **sposato/a**             | married      | متزوج/ة                  | *Sei sposato o single?* / Are you married or single?                         |
 | **divorziato/a**          | divorced     | مطلّق/ة                   | *I miei genitori sono divorziati.* / My parents are divorced.                |
 
-**4. Time & Weather**
+**4. Time & Weather** · **٤. الوقت والطقس**
 
 *Weather uses fare (Fa caldo) or special verbs (Piove, Nevica).*
+
+🇸🇦 *الطقس يُقال بـ fare (Fa caldo = الجو حار) أو بأفعال خاصة (Piove = تمطر، Nevica = تثلج).*
 
 | **Italiano**      | **English**              | **العربية**     | **Esempio**                                                    |
 |-------------------|--------------------------|----------------------------------------|----------------------------------------------------------------|
@@ -119,9 +129,11 @@ tags: [a1, vocabulary]
 | **Piove.**        | It's raining.            | إنها تمطر.      |                                                                |
 | **Nevica.**       | It's snowing.            | إنها تثلج.      |                                                                |
 
-**5. Places in the City**
+**5. Places in the City** · **٥. أماكن في المدينة**
 
 *Pair with directions: Scusi, dov'è la stazione?*
+
+🇸🇦 *استعملها مع سؤال الطريق: Scusi, dov'è la stazione? (عفواً، أين المحطة؟)*
 
 | **Italiano**        | **English** | **العربية**    | **Esempio**                                                                |
 |---------------------|-------------|---------------------------------------|----------------------------------------------------------------------------|
@@ -142,9 +154,11 @@ tags: [a1, vocabulary]
 | **il treno**        | train       | القطار         | *Il treno è in ritardo.* / The train is delayed.                           |
 | **il biglietto**    | ticket      | التذكرة        | *Devo comprare un biglietto.* / I need to buy a ticket.                    |
 
-**6. Colors**
+**6. Colors** · **٦. الألوان**
 
 *Adjectives ending in -o change: rosso/rossa/rossi/rosse. blu, rosa, viola, arancione don't change (blu, rosa, viola are invariable).*
+
+🇸🇦 *الصفات المنتهية بـ ‎-o‎ تتغيّر: rosso/rossa/rossi/rosse. أما blu و rosa و viola فلا تتغيّر.*
 
 | **Italiano**  | **English** | **العربية** | **Esempio**                                                     |
 |---------------|-------------|------------------------------------|-----------------------------------------------------------------|
@@ -160,9 +174,11 @@ tags: [a1, vocabulary]
 | **marrone**   | brown       | بني         | *Ho gli occhi marroni.* / I have brown eyes.                    |
 | **grigio/a**  | grey        | رمادي       | *Oggi il cielo è grigio.* / Today the sky is gray.              |
 
-**7. Common Adjectives**
+**7. Common Adjectives** · **٧. صفات شائعة**
 
 *Adjectives agree with the noun: un ragazzo alto, una ragazza alta.*
+
+🇸🇦 *الصفات تطابق الاسم: un ragazzo alto (شاب طويل)، una ragazza alta (فتاة طويلة).*
 
 | **Italiano**     | **English**   | **العربية** | **Esempio**                                                            |
 |------------------|---------------|------------------------------------|------------------------------------------------------------------------|
@@ -182,9 +198,11 @@ tags: [a1, vocabulary]
 | **facile**       | easy          | سهل         | *L'italiano non è difficile.* / Italian is not difficult.              |
 | **difficile**    | difficult     | صعب         | *L'esame era difficile.* / The exam was difficult.                     |
 
-**8. Common Verbs**
+**8. Common Verbs** · **٨. أفعال شائعة**
 
 *Infinitives — conjugate them with 1.1 and 1.2. andare, venire, uscire are irregular.*
+
+🇸🇦 *مصادر — صرّفها حسب جداول المضارع. andare و venire و uscire شاذة.*
 
 | **Italiano**  | **English** | **العربية** | **Esempio**                                                     |
 |---------------|-------------|------------------------------------|-----------------------------------------------------------------|
@@ -204,9 +222,11 @@ tags: [a1, vocabulary]
 | **uscire**    | to go out   | يخرج        | *Esco con gli amici.* / I go out with friends.                  |
 | **cercare**   | to look for | يبحث عن     | *Cerco lavoro.* / I am looking for a job.                       |
 
-**9. Useful Expressions**
+**9. Useful Expressions** · **٩. عبارات مفيدة**
 
 *Everyday politeness and reactions.*
+
+🇸🇦 *تهذيب وردود فعل يومية.*
 
 | **Italiano**                 | **English**         | **العربية**        | **Esempio** |
 |------------------------------|---------------------|-------------------------------------------|-------------|

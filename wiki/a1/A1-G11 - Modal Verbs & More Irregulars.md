@@ -23,30 +23,36 @@ tags: [a1, grammar]
 
 This is the enhancement for level A1. It adds what the A1 pack leaves out: spelling and pronunciation, plurals, modal verbs, reflexives, numbers and time, the imperative for directions, and the mistakes Arabic speakers make most often. Then 80 new exercise items with a full key, and a one-page revision sheet.
 
+🇸🇦 هذا ملحق المستوى A1. يضيف ما ينقص كتاب A1: الإملاء والنطق، والجمع، وأفعال القدرة والإرادة، والأفعال الانعكاسية، والأرقام والوقت، والأمر لإعطاء الاتجاهات، وأكثر الأخطاء شيوعاً عند المتكلمين بالعربية. ثم ٨٠ تمريناً جديداً مع الحلول الكاملة، وورقة مراجعة من صفحة واحدة.
+
 ## Modal verbs: potere, volere, dovere + sapere, venire, uscire, dare, stare, bere, dire
 <!-- src: A1 Part 4 · A1+.4 -->
 
-|           | **potere (can)** | **volere (want)** | **dovere (must)** | **sapere (know how)** |
-|-----------|------------------|-------------------|-------------------|-----------------------|
-| io        | posso            | voglio            | devo              | so                    |
-| tu        | puoi             | vuoi              | devi              | sai                   |
-| lui / lei | può              | vuole             | deve              | sa                    |
-| noi       | possiamo         | vogliamo          | dobbiamo          | sappiamo              |
-| voi       | potete           | volete            | dovete            | sapete                |
-| loro      | possono          | vogliono          | devono            | sanno                 |
+|           | **potere (can)** | **volere (want)** | **dovere (must)** | **sapere (know how)** | **العربية** |
+|-----------|------------------|-------------------|-------------------|-----------------------|---|
+| io        | posso            | voglio            | devo              | so                    | أنا: أستطيع · أريد · يجب عليّ · أعرف |
+| tu        | puoi             | vuoi              | devi              | sai                   | أنتَ: تستطيع · تريد · يجب عليك · تعرف |
+| lui / lei | può              | vuole             | deve              | sa                    | هو/هي: يستطيع · يريد · يجب عليه · يعرف |
+| noi       | possiamo         | vogliamo          | dobbiamo          | sappiamo              | نحن: نستطيع · نريد · يجب علينا · نعرف |
+| voi       | potete           | volete            | dovete            | sapete                | أنتم: تستطيعون · تريدون · يجب عليكم · تعرفون |
+| loro      | possono          | vogliono          | devono            | sanno                 | هم: يستطيعون · يريدون · يجب عليهم · يعرفون |
 
-|         | **venire** | **uscire** | **dare** | **stare** | **bere** | **dire** |
-|---------|------------|------------|----------|-----------|----------|----------|
-| io      | vengo      | esco       | do       | sto       | bevo     | dico     |
-| tu      | vieni      | esci       | dai      | stai      | bevi     | dici     |
-| lui/lei | viene      | esce       | dà       | sta       | beve     | dice     |
-| noi     | veniamo    | usciamo    | diamo    | stiamo    | beviamo  | diciamo  |
-| voi     | venite     | uscite     | date     | state     | bevete   | dite     |
-| loro    | vengono    | escono     | danno    | stanno    | bevono   | dicono   |
+|         | **venire** | **uscire** | **dare** | **stare** | **bere** | **dire** | **العربية** |
+|---------|------------|------------|----------|-----------|----------|----------|---|
+| io      | vengo      | esco       | do       | sto       | bevo     | dico     | أنا: آتي · أخرج · أعطي · أكون (بخير) · أشرب · أقول |
+| tu      | vieni      | esci       | dai      | stai      | bevi     | dici     | أنتَ: تأتي · تخرج · تعطي · تكون · تشرب · تقول |
+| lui/lei | viene      | esce       | dà       | sta       | beve     | dice     | هو/هي: يأتي · يخرج · يعطي · يكون · يشرب · يقول |
+| noi     | veniamo    | usciamo    | diamo    | stiamo    | beviamo  | diciamo  | نحن: نأتي · نخرج · نعطي · نكون · نشرب · نقول |
+| voi     | venite     | uscite     | date     | state     | bevete   | dite     | أنتم: تأتون · تخرجون · تعطون · تكونون · تشربون · تقولون |
+| loro    | vengono    | escono     | danno    | stanno    | bevono   | dicono   | هم: يأتون · يخرجون · يعطون · يكونون · يشربون · يقولون |
 
 Modal + infinitive: Posso entrare? · Voglio imparare l'italiano. · Devo studiare. Politeness: Vorrei un caffè (I'd like) is softer than Voglio un caffè. Sapere (know a fact / know how to) vs conoscere (be acquainted with a person or place): So nuotare. · Conosco tuo fratello. · Non so dov'è la stazione. · Conosci Roma?
 
+🇸🇦 فعل قدرة/إرادة + مصدر: هل أستطيع الدخول؟ · أريد أن أتعلّم الإيطالية. · يجب أن أدرس. التهذيب: Vorrei un caffè (أودّ قهوة) ألطف من Voglio un caffè (أريد قهوة). sapere (يعرف معلومة / يعرف كيف) مقابل conoscere (يعرف شخصاً أو مكاناً): أعرف السباحة. · أعرف أخاك. · لا أعرف أين المحطة. · هل تعرف روما؟
+
 *«Stare» is used for how you are: Come stai? Sto bene. And «stare + gerund» for 'am doing': sto mangiando.*
+
+🇸🇦 *«Stare» يُستعمل للحال: Come stai? (كيف حالك؟) Sto bene (أنا بخير). و«stare + gerundio» لـ «أنا أفعل الآن»: sto mangiando (أنا آكل الآن).*
 
 ## 🇬🇧🇸🇦 Bilingual lesson — Modal verbs & the everyday irregulars
 <!-- src: Bilingual Lessons · A1-G11 -->
