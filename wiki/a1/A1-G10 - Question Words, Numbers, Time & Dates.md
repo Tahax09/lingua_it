@@ -37,12 +37,18 @@ tags: [a1, grammar]
 
 *Perché means both 'why?' and 'because' — Perché studi? Perché mi piace.*
 
+🇸🇦 *Perché تعني «لماذا؟» و«لأنّ» معاً — Perché studi? (لماذا تدرس؟) Perché mi piace (لأنه يعجبني).*
+
 ## Numbers, days, question words  *(moved here from A2 file)*
 <!-- src: A2 Part 1 · 1.5 -->
 
 0 zero · 1 uno · 2 due · 3 tre · 4 quattro · 5 cinque · 6 sei · 7 sette · 8 otto · 9 nove · 10 dieci · 11 undici · 12 dodici · 13 tredici · 14 quattordici · 15 quindici · 16 sedici · 17 diciassette · 18 diciotto · 19 diciannove · 20 venti · 30 trenta · 40 quaranta · 50 cinquanta · 100 cento
 
+🇸🇦 ٠ · ١ · ٢ · ٣ · ٤ · ٥ · ٦ · ٧ · ٨ · ٩ · ١٠ · ١١ · ١٢ · ١٣ · ١٤ · ١٥ · ١٦ · ١٧ · ١٨ · ١٩ · ٢٠ · ٣٠ · ٤٠ · ٥٠ · ١٠٠
+
 lunedì (Mon) · martedì (Tue) · mercoledì (Wed) · giovedì (Thu) · venerdì (Fri) · sabato (Sat) · domenica (Sun)
+
+🇸🇦 الاثنين · الثلاثاء · الأربعاء · الخميس · الجمعة · السبت · الأحد
 
 | **Italiano** | **English**    | **العربية** |
 |--------------|----------------|-------------|
@@ -57,18 +63,20 @@ lunedì (Mon) · martedì (Tue) · mercoledì (Wed) · giovedì (Thu) · venerd�
 ## Numbers, time, days, months, dates
 <!-- src: A1 Part 4 · A1+.7 -->
 
-|                   | **Italiano**                                                                                                                                                                              |
-|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **11–20**         | undici · dodici · tredici · quattordici · quindici · sedici · diciassette · diciotto · diciannove · venti                                                                                 |
-| **21–99**         | ventuno · ventidue · ventitré · ventotto (drop the vowel before uno/otto) · trenta · quaranta · cinquanta · sessanta · settanta · ottanta · novanta                                       |
-| **100+**          | cento · duecento · mille · duemila · un milione (centouno, centotré…)                                                                                                                     |
-| **Ordinal**       | primo · secondo · terzo · quarto · quinto · sesto · settimo · ottavo · nono · decimo                                                                                                      |
-| **Time**          | Che ore sono? Che ora è? → È l'una · È mezzogiorno · È mezzanotte · Sono le due · Sono le tre e mezza · Sono le quattro e un quarto · Sono le cinque meno un quarto · Sono le sei e dieci |
-| **Official time** | Il treno parte alle 14:30 = alle quattordici e trenta · Sono le diciotto                                                                                                                  |
-| **Months**        | gennaio · febbraio · marzo · aprile · maggio · giugno · luglio · agosto · settembre · ottobre · novembre · dicembre (lowercase)                                                           |
-| **Date**          | Oggi è il 9 ottobre. · Il primo maggio (only the 1st is ordinal) · il 12 giugno 2026 = il dodici giugno duemilaventisei                                                                   |
+|                   | **Italiano**                                                                                                                                                                              | **العربية** |
+|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|
+| **11–20**         | undici · dodici · tredici · quattordici · quindici · sedici · diciassette · diciotto · diciannove · venti                                                                                 | من ١١ إلى ٢٠ |
+| **21–99**         | ventuno · ventidue · ventitré · ventotto (drop the vowel before uno/otto) · trenta · quaranta · cinquanta · sessanta · settanta · ottanta · novanta                                       | من ٢١ إلى ٩٩ (احذف الحرف المتحرك قبل uno و otto: ventuno، ventotto) |
+| **100+**          | cento · duecento · mille · duemila · un milione (centouno, centotré…)                                                                                                                     | ١٠٠ فما فوق: مئة · مئتان · ألف · ألفان · مليون |
+| **Ordinal**       | primo · secondo · terzo · quarto · quinto · sesto · settimo · ottavo · nono · decimo                                                                                                      | الترتيبية: الأول · الثاني · الثالث · الرابع · الخامس · السادس · السابع · الثامن · التاسع · العاشر |
+| **Time**          | Che ore sono? Che ora è? → È l'una · È mezzogiorno · È mezzanotte · Sono le due · Sono le tre e mezza · Sono le quattro e un quarto · Sono le cinque meno un quarto · Sono le sei e dieci | الوقت: كم الساعة؟ ← الواحدة · الظهر · منتصف الليل · الثانية · الثالثة والنصف · الرابعة والربع · الخامسة إلا ربعاً · السادسة وعشر دقائق |
+| **Official time** | Il treno parte alle 14:30 = alle quattordici e trenta · Sono le diciotto                                                                                                                  | الوقت الرسمي (نظام ٢٤ ساعة): القطار يغادر في ١٤:٣٠ · الساعة الثامنة عشرة |
+| **Months**        | gennaio · febbraio · marzo · aprile · maggio · giugno · luglio · agosto · settembre · ottobre · novembre · dicembre (lowercase)                                                           | الشهور: يناير · فبراير · مارس · أبريل · مايو · يونيو · يوليو · أغسطس · سبتمبر · أكتوبر · نوفمبر · ديسمبر (بحرف صغير) |
+| **Date**          | Oggi è il 9 ottobre. · Il primo maggio (only the 1st is ordinal) · il 12 giugno 2026 = il dodici giugno duemilaventisei                                                                   | التاريخ: اليوم ٩ أكتوبر. · الأول من مايو (فقط اليوم الأول بالعدد الترتيبي) · ١٢ يونيو ٢٠٢٦ |
 
 *Days of the week are masculine and lowercase except domenica (f.): il lunedì. «Il lunedì» = every Monday; «lunedì» alone = this Monday.*
+
+🇸🇦 *أيام الأسبوع مذكّرة وبحرف صغير إلا domenica (مؤنث). «Il lunedì» = كل يوم اثنين؛ و«lunedì» وحدها = هذا الاثنين.*
 
 > [!info] Arabic lesson (درس بالعربية)
 > «النفي والأسئلة: non واحدة تكفي» — see [[A1-G09 - Negation#🇸🇦 Arabic lesson — Negation & questions]]

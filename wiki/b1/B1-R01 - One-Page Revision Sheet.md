@@ -15,26 +15,26 @@ tags: [b1, revision]
 
 > Level **B1** · revision
 
-| **Subjunctive** | **-ARE** | **-ERE**  | **-IRE**        | **essere** | **avere** | **andare** | **fare** |
-|-----------------|----------|-----------|-----------------|------------|-----------|------------|----------|
-| io/tu/lui       | parli    | scriva    | dorma / capisca | sia        | abbia     | vada       | faccia   |
-| noi             | parliamo | scriviamo | dormiamo        | siamo      | abbiamo   | andiamo    | facciamo |
-| voi             | parliate | scriviate | dormiate        | siate      | abbiate   | andiate    | facciate |
-| loro            | parlino  | scrivano  | dormano         | siano      | abbiano   | vadano     | facciano |
+| **Subjunctive** | **-ARE** | **-ERE**  | **-IRE**        | **essere** | **avere** | **andare** | **fare** | **العربية** |
+|-----------------|----------|-----------|-----------------|------------|-----------|------------|----------|---|
+| io/tu/lui       | parli    | scriva    | dorma / capisca | sia        | abbia     | vada       | faccia   | (أن) أتكلم · أكتب · أنام / أفهم · أكون · يكون عندي · أذهب · أفعل (io/tu/lui) |
+| noi             | parliamo | scriviamo | dormiamo        | siamo      | abbiamo   | andiamo    | facciamo | (أن) نتكلم · نكتب · ننام · نكون · يكون عندنا · نذهب · نفعل |
+| voi             | parliate | scriviate | dormiate        | siate      | abbiate   | andiate    | facciate | (أن) تتكلموا · تكتبوا · تناموا · تكونوا · يكون عندكم · تذهبوا · تفعلوا |
+| loro            | parlino  | scrivano  | dormano         | siano      | abbiano   | vadano     | facciano | (أن) يتكلموا · يكتبوا · يناموا · يكونوا · يكون عندهم · يذهبوا · يفعلوا |
 
-| **Also irregular**             | **Forms (io/tu/lui · noi · voi · loro)**                                                   |
-|--------------------------------|--------------------------------------------------------------------------------------------|
-| sapere · potere                | sappia · possa \| noi/voi/loro: sappiamo, sappiate, sappiano · possiamo, possiate, possano |
-| volere · dovere                | voglia · debba \| noi/voi/loro: vogliamo, vogliate, vogliano · dobbiamo, dobbiate, debbano |
-| dire / stare / venire / uscire | dica · stia · venga · esca (noi: diciamo, stiamo, veniamo, usciamo)                        |
+| **Also irregular**             | **Forms (io/tu/lui · noi · voi · loro)**                                                   | **العربية** |
+|--------------------------------|--------------------------------------------------------------------------------------------|---|
+| sapere · potere                | sappia · possa \| noi/voi/loro: sappiamo, sappiate, sappiano · possiamo, possiate, possano | يعرف · يستطيع: (أن) أعرف · أستطيع |
+| volere · dovere                | voglia · debba \| noi/voi/loro: vogliamo, vogliate, vogliano · dobbiamo, dobbiate, debbano | يريد · يجب: (أن) أريد · يجب عليّ |
+| dire / stare / venire / uscire | dica · stia · venga · esca (noi: diciamo, stiamo, veniamo, usciamo)                        | يقول / يبقى / يأتي / يخرج: (أن) أقول · أبقى · آتي · أخرج |
 
-| **Imperfect subjunctive** | **essere** | **avere** | **fare**  | **-are**   | **-ere**    | **-ire**   |
-|---------------------------|------------|-----------|-----------|------------|-------------|------------|
-| io/tu                     | fossi      | avessi    | facessi   | parlassi   | scrivessi   | dormissi   |
-| lui/lei                   | fosse      | avesse    | facesse   | parlasse   | scrivesse   | dormisse   |
-| noi                       | fossimo    | avessimo  | facessimo | parlassimo | scrivessimo | dormissimo |
-| voi                       | foste      | aveste    | faceste   | parlaste   | scriveste   | dormiste   |
-| loro                      | fossero    | avessero  | facessero | parlassero | scrivessero | dormissero |
+| **Imperfect subjunctive** | **essere** | **avere** | **fare**  | **-are**   | **-ere**    | **-ire**   | **العربية** |
+|---------------------------|------------|-----------|-----------|------------|-------------|------------|---|
+| io/tu                     | fossi      | avessi    | facessi   | parlassi   | scrivessi   | dormissi   | (لو) كنتُ · كان عندي · فعلتُ · تكلّمتُ · كتبتُ · نمتُ (io/tu) |
+| lui/lei                   | fosse      | avesse    | facesse   | parlasse   | scrivesse   | dormisse   | (لو) كان · كان عنده · فعل · تكلّم · كتب · نام |
+| noi                       | fossimo    | avessimo  | facessimo | parlassimo | scrivessimo | dormissimo | (لو) كنّا · كان عندنا · فعلنا · تكلّمنا · كتبنا · نمنا |
+| voi                       | foste      | aveste    | faceste   | parlaste   | scriveste   | dormiste   | (لو) كنتم · كان عندكم · فعلتم · تكلّمتم · كتبتم · نمتم |
+| loro                      | fossero    | avessero  | facessero | parlassero | scrivessero | dormissero | (لو) كانوا · كان عندهم · فعلوا · تكلّموا · كتبوا · ناموا |
 
 | **Conditionals** | **Pattern**                                       | **Esempio**                   | **العربية** |
 |------------------|---------------------------------------------------|-------------------------------|---|

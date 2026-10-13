@@ -15,23 +15,23 @@ tags: [a1, revision]
 
 > Level **A1** · revision
 
-| **Present tense** | **-ARE parlare** | **-ERE scrivere** | **-IRE dormire / capire** |
-|-------------------|------------------|-------------------|---------------------------|
-| io                | parlo            | scrivo            | dormo / capisco           |
-| tu                | parli            | scrivi            | dormi / capisci           |
-| lui/lei           | parla            | scrive            | dorme / capisce           |
-| noi               | parliamo         | scriviamo         | dormiamo / capiamo        |
-| voi               | parlate          | scrivete          | dormite / capite          |
-| loro              | parlano          | scrivono          | dormono / capiscono       |
+| **Present tense** | **-ARE parlare** | **-ERE scrivere** | **-IRE dormire / capire** | **العربية** |
+|-------------------|------------------|-------------------|---------------------------|---|
+| io                | parlo            | scrivo            | dormo / capisco           | أنا: أتكلم · أكتب · أنام / أفهم |
+| tu                | parli            | scrivi            | dormi / capisci           | أنتَ: تتكلم · تكتب · تنام / تفهم |
+| lui/lei           | parla            | scrive            | dorme / capisce           | هو/هي: يتكلم · يكتب · ينام / يفهم |
+| noi               | parliamo         | scriviamo         | dormiamo / capiamo        | نحن: نتكلم · نكتب · ننام / نفهم |
+| voi               | parlate          | scrivete          | dormite / capite          | أنتم: تتكلمون · تكتبون · تنامون / تفهمون |
+| loro              | parlano          | scrivono          | dormono / capiscono       | هم: يتكلمون · يكتبون · ينامون / يفهمون |
 
-|         | **essere** | **avere** | **fare** | **andare** | **potere** | **volere** | **dovere** |
-|---------|------------|-----------|----------|------------|------------|------------|------------|
-| io      | sono       | ho        | faccio   | vado       | posso      | voglio     | devo       |
-| tu      | sei        | hai       | fai      | vai        | puoi       | vuoi       | devi       |
-| lui/lei | è          | ha        | fa       | va         | può        | vuole      | deve       |
-| noi     | siamo      | abbiamo   | facciamo | andiamo    | possiamo   | vogliamo   | dobbiamo   |
-| voi     | siete      | avete     | fate     | andate     | potete     | volete     | dovete     |
-| loro    | sono       | hanno     | fanno    | vanno      | possono    | vogliono   | devono     |
+|         | **essere** | **avere** | **fare** | **andare** | **potere** | **volere** | **dovere** | **العربية** |
+|---------|------------|-----------|----------|------------|------------|------------|------------|---|
+| io      | sono       | ho        | faccio   | vado       | posso      | voglio     | devo       | أنا: أكون · عندي · أفعل · أذهب · أستطيع · أريد · يجب عليّ |
+| tu      | sei        | hai       | fai      | vai        | puoi       | vuoi       | devi       | أنتَ: تكون · عندك · تفعل · تذهب · تستطيع · تريد · يجب عليك |
+| lui/lei | è          | ha        | fa       | va         | può        | vuole      | deve       | هو/هي: يكون · عنده · يفعل · يذهب · يستطيع · يريد · يجب عليه |
+| noi     | siamo      | abbiamo   | facciamo | andiamo    | possiamo   | vogliamo   | dobbiamo   | نحن: نكون · عندنا · نفعل · نذهب · نستطيع · نريد · يجب علينا |
+| voi     | siete      | avete     | fate     | andate     | potete     | volete     | dovete     | أنتم: تكونون · عندكم · تفعلون · تذهبون · تستطيعون · تريدون · يجب عليكم |
+| loro    | sono       | hanno     | fanno    | vanno      | possono    | vogliono   | devono     | هم: يكونون · عندهم · يفعلون · يذهبون · يستطيعون · يريدون · يجب عليهم |
 
 | **Must-know**      | **Esempio**                                                                               | **العربية** |
 |--------------------|-------------------------------------------------------------------------------------------|---|

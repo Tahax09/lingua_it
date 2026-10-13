@@ -26,30 +26,38 @@ tags: [a2, grammar]
 
 Same irregular stem as Futuro + these endings: -ei / -esti / -ebbe / -emmo / -este / -ebbero.
 
+🇸🇦 نفس جذر المستقبل الشاذ + هذه النهايات: ‎-ei / -esti / -ebbe / -emmo / -este / -ebbero‎.
+
 > ***Es:** Se potessi, direi al mio amico di non comprare quel computer.* — If I could, I would tell my friend not to buy that computer.
+>
+> 🇸🇦 لو استطعتُ لقلتُ لصديقي ألّا يشتري ذلك الحاسوب.
 >
 > ***Es:** Vorrei parlare con il direttore.* — I would like to speak with the manager. (polite request)
 >
+> 🇸🇦 أودّ أن أتحدث مع المدير. (طلب مهذّب)
+>
 > ***Es:** Se avessi tempo, studierei di più.* — If I had time, I would study more.
+>
+> 🇸🇦 لو كان عندي وقت لدرستُ أكثر.
 
 ## Condizionale presente
 <!-- src: A2 Part 12 · A2+.5 -->
 
-|         | **parlare**  | **avere** | **essere** | **andare** | **potere** | **volere** | **dovere** |
-|---------|--------------|-----------|------------|------------|------------|------------|------------|
-| io      | parlerei     | avrei     | sarei      | andrei     | potrei     | vorrei     | dovrei     |
-| tu      | parleresti   | avresti   | saresti    | andresti   | potresti   | vorresti   | dovresti   |
-| lui/lei | parlerebbe   | avrebbe   | sarebbe    | andrebbe   | potrebbe   | vorrebbe   | dovrebbe   |
-| noi     | parleremmo   | avremmo   | saremmo    | andremmo   | potremmo   | vorremmo   | dovremmo   |
-| voi     | parlereste   | avreste   | sareste    | andreste   | potreste   | vorreste   | dovreste   |
-| loro    | parlerebbero | avrebbero | sarebbero  | andrebbero | potrebbero | vorrebbero | dovrebbero |
+|         | **parlare**  | **avere** | **essere** | **andare** | **potere** | **volere** | **dovere** | **العربية** |
+|---------|--------------|-----------|------------|------------|------------|------------|------------|---|
+| io      | parlerei     | avrei     | sarei      | andrei     | potrei     | vorrei     | dovrei     | أنا: كنتُ سأتكلم · سيكون عندي · سأكون · سأذهب · أستطيع · أودّ · ينبغي أن |
+| tu      | parleresti   | avresti   | saresti    | andresti   | potresti   | vorresti   | dovresti   | أنتَ: كنتَ ستتكلم · سيكون عندك · ستكون · ستذهب · تستطيع · تودّ · ينبغي أن |
+| lui/lei | parlerebbe   | avrebbe   | sarebbe    | andrebbe   | potrebbe   | vorrebbe   | dovrebbe   | هو/هي: كان سيتكلم · سيكون عنده · سيكون · سيذهب · يستطيع · يودّ · ينبغي أن |
+| noi     | parleremmo   | avremmo   | saremmo    | andremmo   | potremmo   | vorremmo   | dovremmo   | نحن: كنّا سنتكلم · سيكون عندنا · سنكون · سنذهب · نستطيع · نودّ · ينبغي أن |
+| voi     | parlereste   | avreste   | sareste    | andreste   | potreste   | vorreste   | dovreste   | أنتم: كنتم ستتكلمون · سيكون عندكم · ستكونون · ستذهبون · تستطيعون · تودّون · ينبغي أن |
+| loro    | parlerebbero | avrebbero | sarebbero  | andrebbero | potrebbero | vorrebbero | dovrebbero | هم: كانوا سيتكلمون · سيكون عندهم · سيكونون · سيذهبون · يستطيعون · يودّون · ينبغي أن |
 
-| **Use**                                  | **Esempio**                                                            |
-|------------------------------------------|------------------------------------------------------------------------|
-| Polite request                           | Potresti aiutarmi? · Potrebbe ripetere, per favore? · Vorrei un caffè. |
-| Advice                                   | Dovresti dormire di più. · Dovreste prenotare.                         |
-| Wish / suggestion                        | Mi piacerebbe viaggiare. · Potremmo andare al mare.                    |
-| Hypothesis (you will see it again at B1) | Se avessi tempo, andrei. (B1)                                          |
+| **Use**                                  | **Esempio**                                                            | **العربية** |
+|------------------------------------------|------------------------------------------------------------------------|---|
+| Polite request                           | Potresti aiutarmi? · Potrebbe ripetere, per favore? · Vorrei un caffè. | طلب مهذّب: هل يمكنك مساعدتي؟ · هل يمكنك أن تعيد من فضلك؟ (رسمي) · أودّ قهوة. |
+| Advice                                   | Dovresti dormire di più. · Dovreste prenotare.                         | نصيحة: ينبغي أن تنام أكثر. · ينبغي أن تحجزوا. |
+| Wish / suggestion                        | Mi piacerebbe viaggiare. · Potremmo andare al mare.                    | أمنية / اقتراح: يسعدني أن أسافر. · يمكننا أن نذهب إلى البحر. |
+| Hypothesis (you will see it again at B1) | Se avessi tempo, andrei. (B1)                                          | افتراض (ستراه مجدداً في B1): لو كان عندي وقت لذهبتُ. |
 
 ## 🇸🇦 Arabic lesson — Politeness — vorrei, potrei, dovrei
 <!-- src: Arabic Lessons · L11 -->

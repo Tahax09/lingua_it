@@ -26,22 +26,26 @@ tags: [a1, grammar]
 
 Logic: the thing you like is the SUBJECT. «La pizza mi piace» = pizza pleases me. Singular noun or infinitive → piace; plural noun → piacciono.
 
-| **Cosa ti piace** | **Struttura**       | **Esempio**           |
-|-------------------|---------------------|-----------------------|
-| Singular noun     | mi piace + noun     | Mi piace il caffè.    |
-| Plural noun       | mi piacciono + noun | Mi piacciono i dolci. |
-| Infinitive        | mi piace + verb     | Mi piace viaggiare.   |
+🇸🇦 المنطق: الشيء المحبوب هو الفاعل. «La pizza mi piace» = البيتزا تُعجبني. اسم مفرد أو مصدر ← piace؛ اسم جمع ← piacciono.
 
-| **English**         | **Italiano**               | **Esempio**                       |
-|---------------------|----------------------------|-----------------------------------|
-| I like              | mi piace / piacciono       | Mi piace Roma.                    |
-| You like (informal) | ti piace / piacciono       | Ti piace la pizza?                |
-| He / she likes      | gli / le piace / piacciono | Le piace cucinare.                |
-| We like             | ci piace / piacciono       | Ci piacciono i film italiani.     |
-| You (pl.) like      | vi piace / piacciono       | Vi piace questo ristorante?       |
-| They like           | gli piace / piacciono      | Gli piacciono le macchine veloci. |
+| **Cosa ti piace** | **Struttura**       | **Esempio**           | **العربية** |
+|-------------------|---------------------|-----------------------|---|
+| Singular noun     | mi piace + noun     | Mi piace il caffè.    | اسم مفرد: mi piace + اسم ← تعجبني القهوة. |
+| Plural noun       | mi piacciono + noun | Mi piacciono i dolci. | اسم جمع: mi piacciono + اسم ← تعجبني الحلويات. |
+| Infinitive        | mi piace + verb     | Mi piace viaggiare.   | مصدر: mi piace + فعل ← أحب السفر. |
+
+| **English**         | **Italiano**               | **Esempio**                       | **العربية** |
+|---------------------|----------------------------|-----------------------------------|---|
+| I like              | mi piace / piacciono       | Mi piace Roma.                    | يعجبني: تعجبني روما. |
+| You like (informal) | ti piace / piacciono       | Ti piace la pizza?                | يعجبك (غير رسمي): هل تعجبك البيتزا؟ |
+| He / she likes      | gli / le piace / piacciono | Le piace cucinare.                | يعجبه / يعجبها: هي تحب الطبخ. |
+| We like             | ci piace / piacciono       | Ci piacciono i film italiani.     | يعجبنا: تعجبنا الأفلام الإيطالية. |
+| You (pl.) like      | vi piace / piacciono       | Vi piace questo ristorante?       | يعجبكم: هل يعجبكم هذا المطعم؟ |
+| They like           | gli piace / piacciono      | Gli piacciono le macchine veloci. | يعجبهم: تعجبهم السيارات السريعة. |
 
 *With a name: A Maria piace il caffè forte. · A Marco piace giocare a calcio. Negative: Non mi piace il pesce. · Non mi piacciono le verdure.*
+
+🇸🇦 *مع اسم: A Maria piace il caffè forte (ماريا تحب القهوة القوية). · A Marco piace giocare a calcio (ماركو يحب لعب كرة القدم). النفي: Non mi piace il pesce (لا يعجبني السمك). · Non mi piacciono le verdure (لا تعجبني الخضار).*
 
 بالعربية: في piacere الشيء المحبوب هو الفاعل: «Mi piace il caffè» = القهوة تعجبني. مفرد أو فعل → piace، جمع → piacciono.
 

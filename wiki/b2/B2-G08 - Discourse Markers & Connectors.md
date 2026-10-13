@@ -24,29 +24,29 @@ tags: [b2, grammar]
 ## Advanced discourse markers
 <!-- src: B2 Part 1 · 1.7 -->
 
-| **Function**    | **Markers**                                                                                                                                       | **Esempio**                                         |
-|-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|
-| **Transitions** | a tal proposito · a questo riguardo · in merito a · per quanto concerne · relativamente a · quanto a                                              | In merito a quanto detto, vorrei aggiungere…        |
-| **Emphasis**    | è doveroso (sottolineare) · non si può prescindere (dal considerare) · è fondamentale (tenere presente) · va ribadito che · è imprescindibile che | Va ribadito che…                                    |
-| **Concluding**  | alla luce di (quanto esposto) · da quanto emerge · ne consegue che · pertanto, è lecito ritenere che · in definitiva                              | Alla luce di quanto esposto, si può concludere che… |
+| **Function**    | **Markers**                                                                                                                                       | **Esempio**                                         | **العربية** |
+|-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|---|
+| **Transitions** | a tal proposito · a questo riguardo · in merito a · per quanto concerne · relativamente a · quanto a                                              | In merito a quanto detto, vorrei aggiungere…        | **الانتقال:** في هذا الصدد · في هذا الشأن · بخصوص · فيما يتعلّق بـ · بالنسبة إلى · أما ← بخصوص ما قيل، أودّ أن أضيف… |
+| **Emphasis**    | è doveroso (sottolineare) · non si può prescindere (dal considerare) · è fondamentale (tenere presente) · va ribadito che · è imprescindibile che | Va ribadito che…                                    | **التأكيد:** من الواجب (التأكيد) · لا يمكن إغفال (أن نأخذ بالاعتبار) · من الأساسي (أن نتذكّر) · يجب التأكيد مجدداً أنّ · لا غنى عن أنّ ← يجب التأكيد مجدداً أنّ… |
+| **Concluding**  | alla luce di (quanto esposto) · da quanto emerge · ne consegue che · pertanto, è lecito ritenere che · in definitiva                              | Alla luce di quanto esposto, si può concludere che… | **الختام:** في ضوء (ما عُرض) · ممّا يتبيّن · يترتّب على ذلك أنّ · لذلك من المشروع أن نرى أنّ · في نهاية المطاف ← في ضوء ما عُرض، يمكن أن نستنتج أنّ… |
 
-| **Italiano**                                              | **English**                                                    |
-|-----------------------------------------------------------|----------------------------------------------------------------|
-| Non si può non considerare… · Non è possibile non notare… | One cannot fail to consider… · It is impossible not to notice… |
-| Non si può che constatare che…                            | One can only note that…                                        |
+| **Italiano**                                              | **English**                                                    | **العربية** |
+|-----------------------------------------------------------|----------------------------------------------------------------|---|
+| Non si può non considerare… · Non è possibile non notare… | One cannot fail to consider… · It is impossible not to notice… | لا يمكن ألّا نأخذ بالاعتبار… · لا يمكن ألّا نلاحظ… |
+| Non si può che constatare che…                            | One can only note that…                                        | لا يسعنا إلا أن نلاحظ أنّ… |
 
 ## Connectors for speaking and writing
 <!-- src: B2 Part 4 · B2+.7 -->
 
-| **Function** | **Connectors**                                                      |
-|--------------|---------------------------------------------------------------------|
-| Contrast     | tuttavia · però · eppure · comunque · mentre · d'altra parte · anzi |
-| Cause        | poiché · dato che · visto che · in quanto · a causa di · grazie a   |
-| Consequence  | quindi · perciò · di conseguenza · pertanto · dunque                |
-| Addition     | inoltre · per di più · oltre a · altresì                            |
-| Concession   | benché · sebbene · nonostante · pur + gerund                        |
-| Conclusion   | in conclusione · insomma · tutto sommato · in definitiva            |
-| Opinion      | a mio avviso · secondo me · a mio parere · dal mio punto di vista   |
+| **Function** | **Connectors**                                                      | **العربية** |
+|--------------|---------------------------------------------------------------------|---|
+| Contrast     | tuttavia · però · eppure · comunque · mentre · d'altra parte · anzi | التعارض: ومع ذلك · لكن · ورغم ذلك · على كل حال · بينما · من ناحية أخرى · بل |
+| Cause        | poiché · dato che · visto che · in quanto · a causa di · grazie a   | السبب: لأنّ · بما أنّ · بما أنّ · من حيث إنّ · بسبب · بفضل |
+| Consequence  | quindi · perciò · di conseguenza · pertanto · dunque                | النتيجة: لذلك · إذن · ونتيجة لذلك · وبالتالي · إذن |
+| Addition     | inoltre · per di più · oltre a · altresì                            | الإضافة: علاوة على ذلك · فضلاً عن ذلك · بالإضافة إلى · كذلك |
+| Concession   | benché · sebbene · nonostante · pur + gerund                        | التنازل: رغم أنّ · مع أنّ · رغم · pur + gerundio |
+| Conclusion   | in conclusione · insomma · tutto sommato · in definitiva            | الخاتمة: في الختام · باختصار · في المحصّلة · في نهاية المطاف |
+| Opinion      | a mio avviso · secondo me · a mio parere · dal mio punto di vista   | الرأي: في رأيي · حسب رأيي · برأيي · من وجهة نظري |
 
 ## 🇬🇧🇸🇦 Bilingual lesson — Discourse markers & connectors
 <!-- src: Bilingual Lessons · B2-G08 -->

@@ -24,32 +24,36 @@ tags: [a1, grammar]
 ## The essential four irregular verbs
 <!-- src: A1 Part 1 · 1.4 -->
 
-|           | **ESSERE (to be)** | **AVERE (to have)** | **FARE (to do/make)** | **ANDARE (to go)** |
-|-----------|--------------------|---------------------|-----------------------|--------------------|
-| io        | sono               | ho                  | faccio                | vado               |
-| tu        | sei                | hai                 | fai                   | vai                |
-| lui / lei | è                  | ha                  | fa                    | va                 |
-| noi       | siamo              | abbiamo             | facciamo              | andiamo            |
-| voi       | siete              | avete               | fate                  | andate             |
-| loro      | sono               | hanno               | fanno                 | vanno              |
+|           | **ESSERE (to be)** | **AVERE (to have)** | **FARE (to do/make)** | **ANDARE (to go)** | **العربية** |
+|-----------|--------------------|---------------------|-----------------------|--------------------|---|
+| io        | sono               | ho                  | faccio                | vado               | أنا: أكون · عندي · أفعل · أذهب |
+| tu        | sei                | hai                 | fai                   | vai                | أنتَ: تكون · عندك · تفعل · تذهب |
+| lui / lei | è                  | ha                  | fa                    | va                 | هو/هي: يكون · عنده · يفعل · يذهب |
+| noi       | siamo              | abbiamo             | facciamo              | andiamo            | نحن: نكون · عندنا · نفعل · نذهب |
+| voi       | siete              | avete               | fate                  | andate             | أنتم: تكونون · عندكم · تفعلون · تذهبون |
+| loro      | sono               | hanno               | fanno                 | vanno              | هم: يكونون · عندهم · يفعلون · يذهبون |
 
 AVERE for age and physical states: Ho venticinque anni · Ho fame / sete / freddo / caldo / paura / fretta. FARE for weather and activities: Che tempo fa? · Fa freddo · Faccio colazione · Faccio la spesa. ANDARE + transport: Vado a piedi / in macchina / in treno / in aereo.
 
+🇸🇦 AVERE للعمر والأحوال الجسدية: عمري ٢٥ سنة · أنا جائع / عطشان / بردان / حرّان / خائف / مستعجل. FARE للطقس والنشاطات: كيف الطقس؟ · الجو بارد · أتناول الفطور · أتسوّق. ANDARE + وسيلة نقل: أذهب مشياً / بالسيارة / بالقطار / بالطائرة.
+
 *Careful: «è» (verb, is) vs «e» (and); «ha» (has) vs «a» (to); «hanno» vs «anno». The accent and the h matter.*
+
+🇸🇦 *انتبه: «è» (فعل: يكون) مقابل «e» (و)؛ «ha» (عنده) مقابل «a» (إلى)؛ «hanno» (عندهم) مقابل «anno» (سنة). النبرة وحرف h مهمّان.*
 
 بالعربية: هذه الأفعال الأربعة شاذة ويجب حفظها. العمر والجوع والبرد مع avere (Ho fame = عندي جوع)، والطقس مع fare (Fa freddo).
 
 ## Essere & Avere — Presente (the two verbs everything else leans on)  *(moved here from A2 file)*
 <!-- src: A2 Part 1 · 1.2 -->
 
-| **Persona** | **essere (to be)** | **avere (to have)** |
-|-------------|--------------------|---------------------|
-| io          | sono               | ho                  |
-| tu          | sei                | hai                 |
-| lui/lei/Lei | è                  | ha                  |
-| noi         | siamo              | abbiamo             |
-| voi         | siete              | avete               |
-| loro        | sono               | hanno               |
+| **Persona** | **essere (to be)** | **avere (to have)** | **العربية** |
+|-------------|--------------------|---------------------|---|
+| io          | sono               | ho                  | أنا: أكون · عندي |
+| tu          | sei                | hai                 | أنتَ: تكون · عندك |
+| lui/lei/Lei | è                  | ha                  | هو/هي/حضرتك: يكون · عنده |
+| noi         | siamo              | abbiamo             | نحن: نكون · عندنا |
+| voi         | siete              | avete               | أنتم: تكونون · عندكم |
+| loro        | sono               | hanno               | هم: يكونون · عندهم |
 
 ## 🇸🇦 Arabic lesson — Essere & avere (and stare)
 <!-- src: Arabic Lessons · L03 -->

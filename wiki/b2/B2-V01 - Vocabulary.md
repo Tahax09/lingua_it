@@ -17,10 +17,12 @@ tags: [b2, vocabulary]
 
 2.1 has the 104 entries of your B2 vocabulary pack with Arabic, 2.2 your sentence bank (234 sentences) and 2.3 the speaking practice (Day 64 → 83) with a model answer for each.
 
+🇸🇦 هذه الصفحة تضمّ ١٠٤ مداخل من مفردات B2 مع العربية. وبنك الجمل وتمارين المحادثة (الأيام ٦٤ ← ٨٣) في صفحات منفصلة.
+
 ## Vocabulary (with Arabic)
 <!-- src: B2 Part 2 · 2.1 -->
 
-**1. Business Operations**
+**1. Business Operations** · **١. عمليات الشركة**
 
 | **Italiano**                     | **English**          | **العربية**            | **Esempio**                                                                     |
 |----------------------------------|----------------------|-----------------------------------------------|---------------------------------------------------------------------------------|
@@ -35,7 +37,7 @@ tags: [b2, vocabulary]
 | **consiglio di amministrazione** | board of directors   | مجلس الإدارة           | *Il consiglio si riunirà domani.* / The board will meet tomorrow.               |
 | **stakeholder**                  | stakeholder          | أصحاب المصلحة          | *Gli stakeholder sono soddisfatti.* / The stakeholders are satisfied.           |
 
-**2. Business Processes**
+**2. Business Processes** · **٢. إجراءات العمل**
 
 | **Italiano**        | **English**    | **العربية**    | **Esempio**                                                       |
 |---------------------|----------------|---------------------------------------|-------------------------------------------------------------------|
@@ -49,7 +51,7 @@ tags: [b2, vocabulary]
 | **monitoraggio**    | monitoring     | متابعة ومراقبة | *Il monitoraggio è continuo.* / The monitoring is continuous.     |
 | **valutazione**     | evaluation     | تقييم          | *La valutazione è positiva.* / The evaluation is positive.        |
 
-**3. Financial Terms**
+**3. Financial Terms** · **٣. مصطلحات مالية**
 
 | **Italiano**      | **English**   | **العربية**        | **Esempio**                                                             |
 |-------------------|---------------|-------------------------------------------|-------------------------------------------------------------------------|
@@ -64,7 +66,7 @@ tags: [b2, vocabulary]
 | **rendimento**    | return        | عائد               | *Il rendimento è soddisfacente.* / The return is satisfactory.          |
 | **liquidità**     | liquidity     | سيولة              | *La liquidità è adeguata.* / The liquidity is adequate.                 |
 
-**4. Research & Analysis**
+**4. Research & Analysis** · **٤. البحث والتحليل**
 
 | **Italiano**            | **English**         | **العربية**             | **Esempio**                                                                |
 |-------------------------|---------------------|------------------------------------------------|----------------------------------------------------------------------------|
@@ -77,7 +79,7 @@ tags: [b2, vocabulary]
 | **sintesi**             | synthesis           | تلخيص / توليف           | *La sintesi è chiara.* / The synthesis is clear.                           |
 | **elaborazione**        | elaboration         | معالجة / صياغة          | *L'elaborazione è sofisticata.* / The elaboration is sophisticated.        |
 
-**5. Academic Writing**
+**5. Academic Writing** · **٥. الكتابة الأكاديمية**
 
 | **Italiano**       | **English**   | **العربية**    | **Esempio**                                                          |
 |--------------------|---------------|---------------------------------------|----------------------------------------------------------------------|
@@ -89,7 +91,7 @@ tags: [b2, vocabulary]
 | **bibliografia**   | bibliography  | قائمة المراجع  | *La bibliografia è completa.* / The bibliography is complete.        |
 | **citazione**      | citation      | اقتباس         | *La citazione è appropriata.* / The citation is appropriate.         |
 
-**6. Idiomatic Expressions**
+**6. Idiomatic Expressions** · **٦. تعابير اصطلاحية**
 
 | **Italiano**                           | **English**                                              | **العربية**                    | **Esempio**                                                                                          |
 |----------------------------------------|----------------------------------------------------------|-------------------------------------------------------|------------------------------------------------------------------------------------------------------|
@@ -106,7 +108,7 @@ tags: [b2, vocabulary]
 | **Avere il cuore in gola**             | To be very nervous (lit. To have heart in throat)        | متوتر جداً                      | *Avevo il cuore in gola prima del colloquio.* / I was very nervous before the interview.             |
 | **Essere al settimo cielo**            | To be very happy (lit. To be in seventh heaven)          | في قمة السعادة                 | *Quando ha saputo la notizia, era al settimo cielo.* / When he heard the news, he was over the moon. |
 
-**7. Cultural & Nuanced Terms**
+**7. Cultural & Nuanced Terms** · **٧. مصطلحات ثقافية ودقيقة**
 
 | **Italiano**           | **English**       | **العربية**     | **Esempio**                                                            |
 |------------------------|-------------------|----------------------------------------|------------------------------------------------------------------------|
@@ -121,7 +123,7 @@ tags: [b2, vocabulary]
 | **percezione**         | perception        | إدراك           | *La percezione è diversa.* / The perception is different.              |
 | **sensibilità**        | sensitivity       | حساسية          | *La sensibilità è alta.* / The sensitivity is high.                    |
 
-**8. Formal & Professional Expressions**
+**8. Formal & Professional Expressions** · **٨. تعابير رسمية ومهنية**
 
 | **Italiano**                      | **English**                | **العربية**           | **Esempio**                                                                                                       |
 |-----------------------------------|----------------------------|----------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
@@ -134,7 +136,7 @@ tags: [b2, vocabulary]
 | **RingraziandoLa per**            | Thanking you for (formal)  | شاكراً لكم على         | *RingraziandoLa per l'attenzione, Le porgo i miei saluti.* / Thanking you for your attention, I send my regards.  |
 | **In attesa di un Suo riscontro** | Awaiting your response     | بانتظار ردكم الكريم   | *In attesa di un Suo cortese riscontro, porgo distinti saluti.* / Awaiting your kind response, I send my regards. |
 
-**9. Negotiation & Agreement Terms**
+**9. Negotiation & Agreement Terms** · **٩. مصطلحات التفاوض والاتفاق**
 
 | **Italiano**                 | **English**                  | **العربية** | **Esempio**                                                                        |
 |------------------------------|------------------------------|------------------------------------|------------------------------------------------------------------------------------|
@@ -149,7 +151,7 @@ tags: [b2, vocabulary]
 | **Condivido pienamente**     | I fully share                | أتفق تماماً  | *Condivido pienamente quanto affermato.* / I fully share what was stated.          |
 | **Sottoscrivo quanto detto** | I subscribe to what was said | أؤيد ما قيل | *Sottoscrivo quanto da Lei sostenuto.* / I subscribe to what you maintained.       |
 
-**10. Literary & Elevated Vocabulary**
+**10. Literary & Elevated Vocabulary** · **١٠. مفردات أدبية وراقية**
 
 | **Italiano**        | **English**       | **العربية**        | **Esempio**                                                             |
 |---------------------|-------------------|-------------------------------------------|-------------------------------------------------------------------------|
@@ -166,7 +168,7 @@ tags: [b2, vocabulary]
 | **evidenziare**     | to highlight      | يُبرز               | *È importante evidenziare che...* / It's important to highlight that... |
 | **sostenere**       | to maintain/argue | يرى / يؤكد         | *Si può sostenere che...* / One can argue that...                       |
 
-**11. Advanced Abstract Concepts**
+**11. Advanced Abstract Concepts** · **١١. مفاهيم مجرّدة متقدّمة**
 
 | **Italiano**        | **English**     | **العربية**  | **Esempio**                                                        |
 |---------------------|-----------------|-------------------------------------|--------------------------------------------------------------------|
