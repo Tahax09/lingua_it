@@ -26,16 +26,20 @@ tags: [a1, grammar]
 
 Put NON before the verb: Non parlo italiano. · Non ho fame. Double negatives are REQUIRED in Italian:
 
-| **Italiano**      | **English** | **Esempio**                  |
-|-------------------|-------------|------------------------------|
-| niente / nulla    | nothing     | Non voglio niente.           |
-| nessuno           | nobody      | Non c'è nessuno.             |
-| mai               | never       | Non fumo mai.                |
-| più               | anymore     | Non bevo più.                |
-| ancora            | yet         | Non è ancora arrivato.       |
-| neanche / nemmeno | not even    | Non voglio neanche parlarne. |
+🇸🇦 ضع NON قبل الفعل: لا أتكلم الإيطالية. · لستُ جائعاً. النفي المزدوج إلزامي في الإيطالية:
+
+| **Italiano**      | **English** | **Esempio**                  | **العربية** |
+|-------------------|-------------|------------------------------|---|
+| niente / nulla    | nothing     | Non voglio niente.           | niente / nulla = لا شيء ← لا أريد شيئاً. |
+| nessuno           | nobody      | Non c'è nessuno.             | nessuno = لا أحد ← لا يوجد أحد. |
+| mai               | never       | Non fumo mai.                | mai = أبداً ← لا أدخّن أبداً. |
+| più               | anymore     | Non bevo più.                | più = لم يعد ← لم أعد أشرب. |
+| ancora            | yet         | Non è ancora arrivato.       | ancora = بعد ← لم يصل بعد. |
+| neanche / nemmeno | not even    | Non voglio neanche parlarne. | neanche / nemmeno = ولا حتى ← لا أريد حتى أن أتحدث عن ذلك. |
 
 *Word order trap: the negative word goes AFTER the verb when NON is present (Non vedo nessuno). Without non, it goes first: Nessuno parla.*
+
+🇸🇦 *فخ ترتيب الكلمات: كلمة النفي تأتي بعد الفعل عندما توجد NON (Non vedo nessuno = لا أرى أحداً). وبدون non تأتي أولاً: Nessuno parla (لا أحد يتكلم).*
 
 بالعربية: النفي بـ non قبل الفعل. والنفي المزدوج مطلوب في الإيطالية: Non ho niente = ليس عندي شيء.
 

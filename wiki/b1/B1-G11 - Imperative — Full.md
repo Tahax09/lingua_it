@@ -24,20 +24,20 @@ tags: [b1, grammar]
 ## Imperative: affirmative, negative, formal, with pronouns
 <!-- src: B1 Part 4 · B1+.7 -->
 
-|                                     | **tu**                       | **Lei**                           | **noi**             | **voi**        |
-|-------------------------------------|------------------------------|-----------------------------------|---------------------|----------------|
-| parlare                             | parla!                       | parli!                            | parliamo!           | parlate!       |
-| prendere                            | prendi!                      | prenda!                           | prendiamo!          | prendete!      |
-| finire                              | finisci!                     | finisca!                          | finiamo!            | finite!        |
-| essere                              | sii                          | sia                               | siamo               | siate          |
-| avere                               | abbi                         | abbia                             | abbiamo             | abbiate        |
-| andare / fare / dare / dire / stare | va' · fa' · da' · di' · sta' | vada · faccia · dia · dica · stia | andiamo · facciamo… | andate · fate… |
+|                                     | **tu**                       | **Lei**                           | **noi**             | **voi**        | **العربية** |
+|-------------------------------------|------------------------------|-----------------------------------|---------------------|----------------|---|
+| parlare                             | parla!                       | parli!                            | parliamo!           | parlate!       | يتكلم: تكلّم! (أنت) · تكلّم! (حضرتك) · لنتكلم! · تكلّموا! |
+| prendere                            | prendi!                      | prenda!                           | prendiamo!          | prendete!      | يأخذ: خذ! · خذ! (رسمي) · لنأخذ! · خذوا! |
+| finire                              | finisci!                     | finisca!                          | finiamo!            | finite!        | ينهي: أنهِ! · أنهِ! (رسمي) · لننهِ! · أنهوا! |
+| essere                              | sii                          | sia                               | siamo               | siate          | يكون: كن · كن (رسمي) · لنكن · كونوا |
+| avere                               | abbi                         | abbia                             | abbiamo             | abbiate        | يملك: ليكن عندك · (رسمي) · لنملك · ليكن عندكم |
+| andare / fare / dare / dire / stare | va' · fa' · da' · di' · sta' | vada · faccia · dia · dica · stia | andiamo · facciamo… | andate · fate… | يذهب / يفعل / يعطي / يقول / يبقى: الصيغ القصيرة للمخاطب va'، fa'، da'، di'، sta' · الرسمي vada، faccia، dia، dica، stia |
 
-| **Rule**                                                                       | **Esempio**                                   |
-|--------------------------------------------------------------------------------|-----------------------------------------------|
-| Negative tu = non + infinitive                                                 | Non parlare! · Non fumare qui.                |
-| Pronouns attach to tu / noi / voi (and double the consonant after short forms) | Dimmi! · Dammelo! · Fammi vedere · Andiamoci! |
-| Pronouns go BEFORE Lei imperatives                                             | Mi dica. · Si accomodi. · Me lo dia.          |
+| **Rule**                                                                       | **Esempio**                                   | **العربية** |
+|--------------------------------------------------------------------------------|-----------------------------------------------|---|
+| Negative tu = non + infinitive                                                 | Non parlare! · Non fumare qui.                | النهي للمخاطب = non + مصدر: لا تتكلم! · لا تدخّن هنا. |
+| Pronouns attach to tu / noi / voi (and double the consonant after short forms) | Dimmi! · Dammelo! · Fammi vedere · Andiamoci! | الضمائر تلتصق بـ tu / noi / voi (ويتضاعف الحرف بعد الصيغ القصيرة): قل لي! · أعطني إياه! · دعني أرى · لنذهب إلى هناك! |
+| Pronouns go BEFORE Lei imperatives                                             | Mi dica. · Si accomodi. · Me lo dia.          | الضمائر تأتي قبل أمر Lei: تفضّل قل (Mi dica). · تفضّل اجلس. · أعطني إياه (رسمي). |
 
 ## 🇸🇦 Arabic lesson — Imperative
 <!-- src: Arabic Lessons · L21 -->

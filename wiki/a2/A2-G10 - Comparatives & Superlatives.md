@@ -24,22 +24,24 @@ tags: [a2, grammar]
 ## Comparatives and superlatives
 <!-- src: A2 Part 12 · A2+.7 -->
 
-| **Type**                                   | **Pattern**                              | **Esempio**                                                            |
-|--------------------------------------------|------------------------------------------|------------------------------------------------------------------------|
-| More / less than (nouns)                   | più / meno … di                          | Marco è più alto di Luca. · Roma è meno cara di Milano.                |
-| More / less than (two adjectives or verbs) | più / meno … che                         | È più simpatico che intelligente. · Mi piace più leggere che scrivere. |
-| As … as                                    | (così) … come · (tanto) … quanto         | Sei alto come me. · Ho tanti libri quanto te.                          |
-| Relative superlative                       | il / la / i / le + più / meno + adj + di | È il più bello di tutti. · La città più grande d'Italia.               |
-| Absolute superlative                       | -issimo / molto / estremamente           | bellissimo · buonissimo · ricchissimo (richissimo ✗)                   |
+| **Type**                                   | **Pattern**                              | **Esempio**                                                            | **العربية** |
+|--------------------------------------------|------------------------------------------|------------------------------------------------------------------------|---|
+| More / less than (nouns)                   | più / meno … di                          | Marco è più alto di Luca. · Roma è meno cara di Milano.                | أكثر / أقل من (مع الأسماء): più / meno … di ← ماركو أطول من لوكا. · روما أقل غلاءً من ميلانو. |
+| More / less than (two adjectives or verbs) | più / meno … che                         | È più simpatico che intelligente. · Mi piace più leggere che scrivere. | أكثر / أقل من (بين صفتين أو فعلين): più / meno … che ← هو ظريف أكثر منه ذكياً. · أحب القراءة أكثر من الكتابة. |
+| As … as                                    | (così) … come · (tanto) … quanto         | Sei alto come me. · Ho tanti libri quanto te.                          | مثل / بقدر: (così) … come · (tanto) … quanto ← أنت طويل مثلي. · عندي كتب بقدر ما عندك. |
+| Relative superlative                       | il / la / i / le + più / meno + adj + di | È il più bello di tutti. · La città più grande d'Italia.               | التفضيل النسبي: il / la / i / le + più / meno + صفة + di ← إنه الأجمل بين الجميع. · أكبر مدينة في إيطاليا. |
+| Absolute superlative                       | -issimo / molto / estremamente           | bellissimo · buonissimo · ricchissimo (richissimo ✗)                   | التفضيل المطلق: ‎-issimo‎ / molto / estremamente ← جميل جداً · لذيذ جداً · غني جداً (richissimo ✗) |
 
-| **Adjective** | **Comparative**       | **Superlative**       | **Adverb**    |
-|---------------|-----------------------|-----------------------|---------------|
-| buono         | migliore (più buono)  | ottimo · il migliore  | bene → meglio |
-| cattivo       | peggiore              | pessimo · il peggiore | male → peggio |
-| grande        | maggiore (più grande) | massimo               | —             |
-| piccolo       | minore (più piccolo)  | minimo                | —             |
+| **Adjective** | **Comparative**       | **Superlative**       | **Adverb**    | **العربية** |
+|---------------|-----------------------|-----------------------|---------------|---|
+| buono         | migliore (più buono)  | ottimo · il migliore  | bene → meglio | جيد ← أفضل (migliore) · ممتاز (ottimo) · الأفضل · وللظرف: bene ← meglio |
+| cattivo       | peggiore              | pessimo · il peggiore | male → peggio | سيئ ← أسوأ (peggiore) · سيئ جداً (pessimo) · الأسوأ · وللظرف: male ← peggio |
+| grande        | maggiore (più grande) | massimo               | —             | كبير ← أكبر (maggiore) · الأقصى (massimo) |
+| piccolo       | minore (più piccolo)  | minimo                | —             | صغير ← أصغر (minore) · الأدنى (minimo) |
 
 *Take care: «migliore» is an adjective (il migliore amico), «meglio» an adverb (Sto meglio. Parli meglio di me.). Before a noun, il più bel film… = il film più bello.*
+
+🇸🇦 *انتبه: «migliore» صفة (il migliore amico = أفضل صديق)، و«meglio» ظرف (Sto meglio = أنا أفضل حالاً. Parli meglio di me = تتكلم أفضل مني). وقبل الاسم: il più bel film = il film più bello.*
 
 ## 🇸🇦 Arabic lesson — Comparatives & superlatives
 <!-- src: Arabic Lessons · L16 -->

@@ -45,18 +45,20 @@ tags: [a2, grammar]
 ## Time expressions and useful structures
 <!-- src: A2 Part 12 · A2+.8 -->
 
-| **Structure**               | **Esempio**                                                                                  | **Meaning**                         |
-|-----------------------------|----------------------------------------------------------------------------------------------|-------------------------------------|
-| da + present                | Abito qui da due anni. · Studio italiano da settembre.                                       | still going on                      |
-| … fa (ago)                  | Due anni fa sono arrivato. · Tre giorni fa ho visto Marco.                                   | ago                                 |
-| per + duration              | Ho studiato per tre ore. · Siamo stati a Roma per una settimana.                             | for (finished)                      |
-| già · ancora · appena · mai | Ho già mangiato. · Non ho ancora finito. · Ho appena sentito. · Non sono mai stato a Parigi. | adverbs inside the passato prossimo |
-| stare per + inf.            | Sto per uscire. · Stava per piovere.                                                         | about to                            |
-| andare a / venire a + inf.  | Vado a mangiare. · Vieni a vedere!                                                           | going to / come to                  |
-| stare + gerund              | Sto studiando. · Stavo guardando la TV quando…                                               | am / was doing (right now)          |
-| quando / mentre / appena    | Quando arrivi, chiamami. · Appena posso, ti scrivo.                                          | time clauses                        |
+| **Structure**               | **Esempio**                                                                                  | **Meaning**                         | **العربية** |
+|-----------------------------|----------------------------------------------------------------------------------------------|-------------------------------------|---|
+| da + present                | Abito qui da due anni. · Studio italiano da settembre.                                       | still going on                      | da + مضارع = منذ (ما زال مستمراً): أسكن هنا منذ سنتين. · أدرس الإيطالية منذ سبتمبر. |
+| … fa (ago)                  | Due anni fa sono arrivato. · Tre giorni fa ho visto Marco.                                   | ago                                 | … fa = قبل (مضى): وصلتُ قبل سنتين. · رأيتُ ماركو قبل ثلاثة أيام. |
+| per + duration              | Ho studiato per tre ore. · Siamo stati a Roma per una settimana.                             | for (finished)                      | per + مدة = لمدة (انتهت): درستُ ثلاث ساعات. · بقينا في روما أسبوعاً. |
+| già · ancora · appena · mai | Ho già mangiato. · Non ho ancora finito. · Ho appena sentito. · Non sono mai stato a Parigi. | adverbs inside the passato prossimo | già · ancora · appena · mai (ظروف داخل الماضي القريب): أكلتُ بالفعل. · لم أنتهِ بعد. · سمعتُ للتو. · لم أزر باريس أبداً. |
+| stare per + inf.            | Sto per uscire. · Stava per piovere.                                                         | about to                            | stare per + مصدر = على وشك: أنا على وشك الخروج. · كانت على وشك أن تمطر. |
+| andare a / venire a + inf.  | Vado a mangiare. · Vieni a vedere!                                                           | going to / come to                  | andare a / venire a + مصدر = يذهب لـ / يأتي لـ: أذهب لآكل. · تعال لترى! |
+| stare + gerund              | Sto studiando. · Stavo guardando la TV quando…                                               | am / was doing (right now)          | stare + gerundio = أنا أفعل الآن / كنتُ أفعل: أنا أدرس الآن. · كنتُ أشاهد التلفاز عندما… |
+| quando / mentre / appena    | Quando arrivi, chiamami. · Appena posso, ti scrivo.                                          | time clauses                        | quando / mentre / appena (جمل الزمن): عندما تصل اتصل بي. · فور أن أستطيع سأكتب لك. |
 
 *Careful: «da» + present, not passato prossimo: «Abito qui da due anni» ✓ — not «Ho abitato qui da due anni» ✗.*
+
+🇸🇦 *انتبه: «da» مع المضارع وليس مع الماضي القريب: «Abito qui da due anni» ✓ — وليس «Ho abitato qui da due anni» ✗.*
 
 ## 🇬🇧🇸🇦 Bilingual lesson — Tense clue words
 <!-- src: Bilingual Lessons · A2-G11 -->

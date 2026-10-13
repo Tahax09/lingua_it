@@ -24,20 +24,22 @@ tags: [b2, grammar]
 ## Combined pronouns
 <!-- src: B2 Part 4 · B2+.4 -->
 
-|          | **+ lo** | **+ la** | **+ li** | **+ le** | **+ ne** |
-|----------|----------|----------|----------|----------|----------|
-| mi       | me lo    | me la    | me li    | me le    | me ne    |
-| ti       | te lo    | te la    | te li    | te le    | te ne    |
-| gli / le | glielo   | gliela   | glieli   | gliele   | gliene   |
-| ci       | ce lo    | ce la    | ce li    | ce le    | ce ne    |
-| vi       | ve lo    | ve la    | ve li    | ve le    | ve ne    |
+|          | **+ lo** | **+ la** | **+ li** | **+ le** | **+ ne** | **العربية** |
+|----------|----------|----------|----------|----------|----------|---|
+| mi       | me lo    | me la    | me li    | me le    | me ne    | لي + إياه / إياها / إياهم / إياهنّ / منه |
+| ti       | te lo    | te la    | te li    | te le    | te ne    | لك + إياه / إياها / إياهم / إياهنّ / منه |
+| gli / le | glielo   | gliela   | glieli   | gliele   | gliene   | له أو لها + إياه / إياها / إياهم / إياهنّ / منه |
+| ci       | ce lo    | ce la    | ce li    | ce le    | ce ne    | لنا + إياه / إياها / إياهم / إياهنّ / منه |
+| vi       | ve lo    | ve la    | ve li    | ve le    | ve ne    | لكم + إياه / إياها / إياهم / إياهنّ / منه |
 
 *The participle agrees with lo / la / li / le / ne: Le chiavi? Me le ha date. · Ne ho mangiate tre (mele). Attach to the infinitive: Voglio dirtelo.*
 
-| **ne**                               | **ci**                           |
-|--------------------------------------|----------------------------------|
-| of it / them · quantity · from there | there · about / to it            |
-| Ne parlo. · Ne ho due. · Me ne vado. | Ci vado. · Ci penso. · Ci credo. |
+🇸🇦 *اسم المفعول يطابق lo / la / li / le / ne: المفاتيح؟ أعطاني إياها (Me le ha date). · أكلتُ منها ثلاثاً (تفاحات). ويلتصق بالمصدر: Voglio dirtelo (أريد أن أقوله لك).*
+
+| **ne**                               | **ci**                           | **العربية** |
+|--------------------------------------|----------------------------------|---|
+| of it / them · quantity · from there | there · about / to it            | ne = منه / منها · كمية · من هناك — ci = هناك · به / فيه (بعد pensare a) |
+| Ne parlo. · Ne ho due. · Me ne vado. | Ci vado. · Ci penso. · Ci credo. | أتحدث عنه. · عندي اثنان منها. · سأرحل (Me ne vado). — أذهب إلى هناك. · أفكّر في ذلك. · أصدّق ذلك. |
 
 ## 🇸🇦 Arabic lesson — Combined pronouns
 <!-- src: Arabic Lessons · L19 -->

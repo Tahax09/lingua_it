@@ -24,16 +24,18 @@ tags: [a1, grammar]
 ## Possessives
 <!-- src: A1 Part 1 · 1.7 -->
 
-|             | **m. sing.** | **f. sing.** | **m. pl.** | **f. pl.** |
-|-------------|--------------|--------------|------------|------------|
-| my          | il mio       | la mia       | i miei     | le mie     |
-| your (inf.) | il tuo       | la tua       | i tuoi     | le tue     |
-| his / her   | il suo       | la sua       | i suoi     | le sue     |
-| our         | il nostro    | la nostra    | i nostri   | le nostre  |
-| your (pl.)  | il vostro    | la vostra    | i vostri   | le vostre  |
-| their       | il loro      | la loro      | i loro     | le loro    |
+|             | **m. sing.** | **f. sing.** | **m. pl.** | **f. pl.** | **العربية** |
+|-------------|--------------|--------------|------------|------------|---|
+| my          | il mio       | la mia       | i miei     | le mie     | ـي (لي): مذكر مفرد · مؤنث مفرد · مذكر جمع · مؤنث جمع |
+| your (inf.) | il tuo       | la tua       | i tuoi     | le tue     | ـك (لك، غير رسمي): مذكر مفرد · مؤنث مفرد · مذكر جمع · مؤنث جمع |
+| his / her   | il suo       | la sua       | i suoi     | le sue     | ـه / ـها: مذكر مفرد · مؤنث مفرد · مذكر جمع · مؤنث جمع |
+| our         | il nostro    | la nostra    | i nostri   | le nostre  | ـنا: مذكر مفرد · مؤنث مفرد · مذكر جمع · مؤنث جمع |
+| your (pl.)  | il vostro    | la vostra    | i vostri   | le vostre  | ـكم: مذكر مفرد · مؤنث مفرد · مذكر جمع · مؤنث جمع |
+| their       | il loro      | la loro      | i loro     | le loro    | ـهم (لا يتغيّر): مذكر مفرد · مؤنث مفرد · مذكر جمع · مؤنث جمع |
 
 Pattern: article + possessive + noun → Il mio telefono è nuovo. The possessive agrees with the THING owned, not the owner. Singular family members drop the article: mio padre, mia madre, but i miei fratelli, le mie sorelle. «loro» never changes: la loro casa.
+
+🇸🇦 النمط: أداة + صفة ملكية + اسم ← هاتفي جديد. صفة الملكية تطابق الشيء المملوك لا المالك. فرد العائلة المفرد يحذف الأداة: mio padre (أبي)، mia madre (أمي)، لكن i miei fratelli (إخوتي)، le mie sorelle (أخواتي). و«loro» لا تتغيّر أبداً: la loro casa (بيتهم).
 
 بالعربية: المُلكية تتبع الشيء المملوك لا المالك. مع الأقارب بالمفرد نحذف الأداة (mio padre)، ومع الجمع نضيفها (i miei fratelli).
 

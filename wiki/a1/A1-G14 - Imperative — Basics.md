@@ -24,16 +24,18 @@ tags: [a1, grammar]
 ## The imperative (for directions and instructions)
 <!-- src: A1 Part 4 · A1+.9 -->
 
-|              | **tu (informal)**    | **Lei (formal)**     | **voi**      |
-|--------------|----------------------|----------------------|--------------|
-| girare       | gira a destra        | giri a destra        | girate       |
-| andare       | vai dritto           | vada dritto          | andate       |
-| prendere     | prendi l'autobus     | prenda l'autobus     | prendete     |
-| attraversare | attraversa la piazza | attraversi la piazza | attraversate |
-| continuare   | continua             | continui             | continuate   |
-| scusare      | scusa                | scusi                | scusate      |
+|              | **tu (informal)**    | **Lei (formal)**     | **voi**      | **العربية** |
+|--------------|----------------------|----------------------|--------------|---|
+| girare       | gira a destra        | giri a destra        | girate       | ينعطف: انعطف يميناً (tu) · انعطف يميناً (Lei) · انعطفوا |
+| andare       | vai dritto           | vada dritto          | andate       | يذهب: امشِ على طول (tu) · امشِ على طول (Lei) · امشوا |
+| prendere     | prendi l'autobus     | prenda l'autobus     | prendete     | يأخذ: خذ الحافلة (tu) · خذ الحافلة (Lei) · خذوا |
+| attraversare | attraversa la piazza | attraversi la piazza | attraversate | يعبر: اعبر الساحة (tu) · اعبر الساحة (Lei) · اعبروا |
+| continuare   | continua             | continui             | continuate   | يواصل: واصل (tu) · واصل (Lei) · واصلوا |
+| scusare      | scusa                | scusi                | scusate      | يعتذر: عفواً (tu) · عفواً (Lei) · عفواً (voi) |
 
 Place words: a destra · a sinistra · sempre dritto · all'angolo · di fronte a · accanto a · vicino a · lontano da · il primo / secondo incrocio · il semaforo. Negative tu imperative = non + infinitive: Non girare qui!
+
+🇸🇦 كلمات المكان: يميناً · يساراً · على طول · عند الزاوية · مقابل · بجانب · قرب · بعيداً عن · التقاطع الأول / الثاني · الإشارة الضوئية. النهي للمخاطب = non + مصدر: Non girare qui! (لا تنعطف هنا!)
 
 > [!info] Arabic lesson (درس بالعربية)
 > «صيغة الأمر: اطلب، اكتب، اذهب!» — see [[B1-G11 - Imperative — Full#🇸🇦 Arabic lesson — Imperative]]

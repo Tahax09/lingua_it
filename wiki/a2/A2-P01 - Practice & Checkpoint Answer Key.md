@@ -47,12 +47,12 @@ Do the exercises in your pack first, then check here. Under every answer you hav
 ## Week 4 Checkpoint — Past tenses
 <!-- src: A2 Part 11 · 11.2 -->
 
-| **Section**                          | **Answers**                                                                                                                                                                       |
-|--------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Passato Prossimo con AVERE (10)**  | 1 ho mangiato · 2 hai visto · 3 ha comprato · 4 abbiamo scritto · 5 avete letto · 6 hanno fatto · 7 fatto · 8 detto · 9 scritto · 10 letto                                        |
-| **Passato Prossimo con ESSERE (10)** | 1 sono andata · 2 sei venuto · 3 è arrivata · 4 siamo partiti · 5 siete tornate · 6 sono usciti · 7 mi sono svegliata · 8 ti sei alzato · 9 si è vestita · 10 ci siamo incontrati |
-| **Imperfetto (10)**                  | 1 parlavo · 2 andavi · 3 faceva · 4 eravamo · 5 avevate · 6 Era · 7 Faceva · 8 C'era · 9 aveva · 10 giocavo                                                                       |
-| **Combined past tenses (5)**         | 1 guardavo / ha suonato · 2 Era / siamo tornati · 3 Faceva / siamo entrati · 4 Camminavo / ha iniziato · 5 giocavo / sono rimasto                                                 |
+| **Section**                          | **Answers**                                                                                                                                                                       | **العربية** |
+|--------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|
+| **Passato Prossimo con AVERE (10)**  | 1 ho mangiato · 2 hai visto · 3 ha comprato · 4 abbiamo scritto · 5 avete letto · 6 hanno fatto · 7 fatto · 8 detto · 9 scritto · 10 letto                                        | الماضي القريب مع AVERE: أكلتُ · رأيتَ · اشترى · كتبنا · قرأتم · فعلوا · (أسماء مفعول: فعل · قال · كتب · قرأ) |
+| **Passato Prossimo con ESSERE (10)** | 1 sono andata · 2 sei venuto · 3 è arrivata · 4 siamo partiti · 5 siete tornate · 6 sono usciti · 7 mi sono svegliata · 8 ti sei alzato · 9 si è vestita · 10 ci siamo incontrati | الماضي القريب مع ESSERE: ذهبتُ (مؤنث) · أتيتَ · وصلت · سافرنا · عدتنّ · خرجوا · استيقظتُ (مؤنث) · نهضتَ · ارتدت ملابسها · التقينا |
+| **Imperfetto (10)**                  | 1 parlavo · 2 andavi · 3 faceva · 4 eravamo · 5 avevate · 6 Era · 7 Faceva · 8 C'era · 9 aveva · 10 giocavo                                                                       | الماضي الناقص: كنتُ أتكلم · كنتَ تذهب · كان يفعل · كنّا · كان عندكم · كان · كان الجو · كان يوجد · كان عنده · كنتُ ألعب |
+| **Combined past tenses (5)**         | 1 guardavo / ha suonato · 2 Era / siamo tornati · 3 Faceva / siamo entrati · 4 Camminavo / ha iniziato · 5 giocavo / sono rimasto                                                 | الزمنان معاً: كنتُ أشاهد / رنّ · كان / عدنا · كان الجو / دخلنا · كنتُ أمشي / بدأ · كنتُ ألعب / بقيتُ |
 
 ## Week 5 Checkpoint — Opinions & comparisons
 <!-- src: A2 Part 11 · 11.3 -->
@@ -60,7 +60,7 @@ Do the exercises in your pack first, then check here. Under every answer you hav
 | **Section**                  | **Answers**                                                                                                                                                                                                                                     | **العربية** |
 |------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|
 | **Expressing opinions (10)** | 1 Secondo me, questo è troppo caro (or A mio parere…) · 2 Penso che tu abbia ragione · 3 Credo che sia una buona idea · 4 Per me va bene così · 5 Cosa ne pensi? · 6 Secondo · 7 Penso (or Credo) · 8 parere · 9 Per · 10 pensi                 | التعبير عن الرأي: Secondo me (في رأيي) · Penso che tu abbia ragione (أظن أنك محق) · Credo che sia una buona idea (أعتقد أنها فكرة جيدة) · Per me va bene (بالنسبة لي لا بأس) · Cosa ne pensi? (ما رأيك؟) |
-| **Comparisons (10)**         | 1 più / di · 2 più (or meno) / di · 3 tanto / quanto · 4 meno / di · 5 più / dell' (di + l') · 6 il più bel (or il film più bello) · 7 la più grande · 8 buonissimo · 9 migliore · 10 peggiore                                                  |  |
+| **Comparisons (10)**         | 1 più / di · 2 più (or meno) / di · 3 tanto / quanto · 4 meno / di · 5 più / dell' (di + l') · 6 il più bel (or il film più bello) · 7 la più grande · 8 buonissimo · 9 migliore · 10 peggiore                                                  | · المقارنة: أكثر من · أكثر (أو أقل) من · بقدر · أقل من · أكثر من الـ · الأجمل · الأكبر · لذيذ جداً · أفضل · أسوأ |
 | **Translation (5)**          | 1 Ieri sono andato al cinema con i miei amici. · 2 Mentre studiavo, il telefono ha suonato. · 3 Era una bella giornata quando siamo arrivati. · 4 Da bambino giocavo fuori ogni giorno. · 5 Secondo me, questo ristorante è migliore di quello. | ترجمة: ١ أمس ذهبتُ إلى السينما مع أصدقائي. ٢ بينما كنتُ أدرس رنّ الهاتف. ٣ كان يوماً جميلاً عندما وصلنا. ٤ في صغري كنتُ ألعب في الخارج كل يوم. ٥ في رأيي هذا المطعم أفضل من ذلك. |
 
 **Writing task (80 words) — model answer** · **مهمة الكتابة (٨٠ كلمة) — جواب نموذجي**
@@ -78,8 +78,8 @@ Do the exercises in your pack first, then check here. Under every answer you hav
 
 | **Section**                    | **Answers**                                                                                                                                                                                                                                      | **العربية** |
 |--------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|
-| **Future tense (10)**          | 1 andrò · 2 studierai · 3 vivremo · 4 imparerete · 5 visiteranno · 6 sarò · 7 avrai · 8 faremo · 9 potrete · 10 dovranno                                                                                                                         |  |
-| **Conditional (10)**           | 1 vorrei · 2 potresti · 3 dovremmo · 4 andreste · 5 sarebbero · 6 viaggerei · 7 dovresti · 8 andare (Sarebbe bello andare al mare) · 9 Potrei · 10 Vorreste                                                                                      |  |
+| **Future tense (10)**          | 1 andrò · 2 studierai · 3 vivremo · 4 imparerete · 5 visiteranno · 6 sarò · 7 avrai · 8 faremo · 9 potrete · 10 dovranno                                                                                                                         | · المستقبل: سأذهب · ستدرس · سنعيش · ستتعلّمون · سيزورون · سأكون · سيكون عندك · سنفعل · ستستطيعون · سيجب عليهم |
+| **Conditional (10)**           | 1 vorrei · 2 potresti · 3 dovremmo · 4 andreste · 5 sarebbero · 6 viaggerei · 7 dovresti · 8 andare (Sarebbe bello andare al mare) · 9 Potrei · 10 Vorreste                                                                                      | · الشرطي: أودّ · هل يمكنك · ينبغي أن نـ · كنتم ستذهبون · كانوا سيكونون · كنتُ سأسافر · ينبغي أن تـ · الذهاب · أستطيع · هل تودّون |
 | **Complete the story (15)**    | 1 è stata · 2 C'era / faceva · 3 camminavo / ho visto · 4 Abbiamo parlato · 5 ha invitato · 6 Siamo andati / abbiamo bevuto · 7 È stato · 8 ci incontreremo · 9 avrò / andrò (alternative, hypothetical: avessi / andrei)                        | أكمل القصة: لاحظ الماضي الناقص للمشهد (C'era / faceva / camminavo) والماضي القريب للأحداث، والمستقبل لما سيأتي (ci incontreremo = سنلتقي). |
 | **Translation both ways (10)** | 1 Yesterday I ate a fantastic pizza with my friends. · 2 While I was watching TV, a friend arrived. · 3 In my opinion, this restaurant is better than that one. · 4 Da bambino giocavo fuori ogni giorno. · 5 Se avessi tempo, viaggerei di più. | ترجمة: ١ أمس أكلتُ بيتزا رائعة مع أصدقائي. ٢ بينما كنتُ أشاهد التلفاز وصل صديق. ٣ في رأيي هذا المطعم أفضل من ذلك. ٤ في صغري كنتُ ألعب في الخارج كل يوم. ٥ لو كان عندي وقت لسافرتُ أكثر. |
 
@@ -96,11 +96,11 @@ Record 3 minutes covering: (1) a past story, (2) an opinion, (3) a comparison, (
 
 🇸🇦 *أجوبة نموذج امتحان A2: الماضي القريب، الماضي الناقص، المستقبل البسيط (التمارين ١–٣).*
 
-| **Esercizio**                               | **Answers**                                                                                       |
-|---------------------------------------------|---------------------------------------------------------------------------------------------------|
-| **1 — Passato prossimo**                    | 1 ha comprato · 2 siamo andati · 3 Hai scaricato · 4 hanno rubato · 5 ho lavorato · 6 ha ricevuto |
-| **2 — Imperfetto**                          | 1 avevo · 2 giocava · 3 nevicava · 4 usavo · 5 abitavano · 6 erano                                |
-| **3 — Futuro semplice (items 1–2 visible)** | 1 pioverà · 2 inizierò                                                                            |
+| **Esercizio**                               | **Answers**                                                                                       | **العربية** |
+|---------------------------------------------|---------------------------------------------------------------------------------------------------|---|
+| **1 — Passato prossimo**                    | 1 ha comprato · 2 siamo andati · 3 Hai scaricato · 4 hanno rubato · 5 ho lavorato · 6 ha ricevuto | الماضي القريب: اشترى · ذهبنا · هل حمّلت · سرقوا · عملتُ · استلم |
+| **2 — Imperfetto**                          | 1 avevo · 2 giocava · 3 nevicava · 4 usavo · 5 abitavano · 6 erano                                | الماضي الناقص: كان عندي · كان يلعب · كانت تثلج · كنتُ أستعمل · كانوا يسكنون · كانوا |
+| **3 — Futuro semplice (items 1–2 visible)** | 1 pioverà · 2 inizierò                                                                            | المستقبل البسيط: ستمطر · سأبدأ |
 
 ## A2 quiz habit
 <!-- src: A2 Part 15 · A2.S4 -->

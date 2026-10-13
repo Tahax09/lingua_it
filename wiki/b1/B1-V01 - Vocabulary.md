@@ -17,10 +17,12 @@ tags: [b1, vocabulary]
 
 2.1 has the 118 entries of your B1 vocabulary pack with Arabic, 2.2 your sentence bank with Italian and English, and 2.3 the speaking practice (Day 43 → 62) with a model answer for each.
 
+🇸🇦 هذه الصفحة تضمّ ١١٨ مدخلاً من مفردات B1 مع العربية. وبنك الجمل وتمارين المحادثة (الأيام ٤٣ ← ٦٢) في صفحات منفصلة.
+
 ## Vocabulary (with Arabic)
 <!-- src: B1 Part 2 · 2.1 -->
 
-**1. Culture & Society**
+**1. Culture & Society** · **١. الثقافة والمجتمع**
 
 | **Italiano**       | **English**  | **العربية**  | **Esempio**                                                                           |
 |--------------------|--------------|-------------------------------------|---------------------------------------------------------------------------------------|
@@ -39,7 +41,7 @@ tags: [b1, vocabulary]
 | **ricchezza**      | wealth       | الثروة       | *La ricchezza è mal distribuita.* / Wealth is poorly distributed.                     |
 | **benessere**      | well-being   | الرفاهية     | *Il benessere sociale è importante.* / Social well-being is important.                |
 
-**2. Abstract Concepts**
+**2. Abstract Concepts** · **٢. مفاهيم مجرّدة**
 
 | **Italiano**    | **English**    | **العربية**   | **Esempio**                                                                     |
 |-----------------|----------------|--------------------------------------|---------------------------------------------------------------------------------|
@@ -58,7 +60,7 @@ tags: [b1, vocabulary]
 | **livello**     | level          | مستوى         | *Il livello è alto.* / The level is high.                                       |
 | **misura**      | measure        | إجراء / مقياس | *La misura è appropriata.* / The measure is appropriate.                        |
 
-**3. Expressing Complex Opinions**
+**3. Expressing Complex Opinions** · **٣. التعبير عن آراء معقّدة**
 
 | **Italiano**       | **English**   | **العربية** | **Esempio**                                               |
 |--------------------|---------------|------------------------------------|-----------------------------------------------------------|
@@ -75,7 +77,7 @@ tags: [b1, vocabulary]
 | **giudizio**       | judgment      | حُكم / تقييم | *Il mio giudizio è...* / My judgment is...                |
 | **riflessione**    | reflection    | تأمّل        | *La riflessione è necessaria.* / Reflection is necessary. |
 
-**4. Cause & Effect Vocabulary**
+**4. Cause & Effect Vocabulary** · **٤. مفردات السبب والنتيجة**
 
 | **Italiano**       | **English** | **العربية**   | **Esempio**                                                                          |
 |--------------------|-------------|--------------------------------------|--------------------------------------------------------------------------------------|
@@ -94,7 +96,7 @@ tags: [b1, vocabulary]
 | **perciò**         | so          | ولهذا         | *Non ha mangiato, perciò ha fame.* / He didn't eat, so he's hungry.                  |
 | **di conseguenza** | as a result | وبالتالي      | *È arrivato tardi, di conseguenza ha perso.* / He arrived late, as a result he lost. |
 
-**5. Formal Language**
+**5. Formal Language** · **٥. اللغة الرسمية**
 
 | **Italiano**         | **English**                  | **العربية**            | **Esempio**                                                                       |
 |----------------------|------------------------------|-----------------------------------------------|-----------------------------------------------------------------------------------|
@@ -110,7 +112,7 @@ tags: [b1, vocabulary]
 | **In sintesi**       | In summary                   | باختصار                | *In sintesi, possiamo dire...* / In summary, we can say...                        |
 | **In conclusione**   | In conclusion                | في الختام              | *In conclusione, penso che...* / In conclusion, I think that...                   |
 
-**6. Academic & Intellectual Terms**
+**6. Academic & Intellectual Terms** · **٦. مصطلحات أكاديمية وفكرية**
 
 | **Italiano**     | **English**    | **العربية**         | **Esempio**                                                                           |
 |------------------|----------------|--------------------------------------------|---------------------------------------------------------------------------------------|
@@ -127,7 +129,7 @@ tags: [b1, vocabulary]
 | **approfondire** | to deepen      | يتعمّق في            | *Bisogna approfondire l'argomento.* / One must deepen the topic.                      |
 | **comprendere**  | to understand  | يفهم                | *È importante comprendere bene.* / It is important to understand well.                |
 
-**7. Debating & Arguing**
+**7. Debating & Arguing** · **٧. النقاش والمجادلة**
 
 | **Italiano**      | **English**       | **العربية**   | **Esempio**                                                                       |
 |-------------------|-------------------|--------------------------------------|-----------------------------------------------------------------------------------|
@@ -142,7 +144,7 @@ tags: [b1, vocabulary]
 | **nonostante**    | despite           | رغم           | *Nonostante tutto, penso che...* / Despite everything, I think that...            |
 | **sebbene**       | although          | مع أنّ         | *Sebbene sia vero, credo che...* / Although it is true, I believe that...         |
 
-**8. Hypothetical & Conditional Language**
+**8. Hypothetical & Conditional Language** · **٨. لغة الافتراض والشرط**
 
 | **Italiano**         | **English**       | **العربية**   | **Esempio**                                                     |
 |----------------------|-------------------|--------------------------------------|-----------------------------------------------------------------|
@@ -156,7 +158,7 @@ tags: [b1, vocabulary]
 | **purché**           | provided that     | شريطة أن      | *Purché tu studi...* / Provided that you study...               |
 | **ammesso che**      | assuming that     | على افتراض أنّ | *Ammesso che sia vero...* / Assuming that it is true...         |
 
-**9. Nuance & Precision**
+**9. Nuance & Precision** · **٩. الدقّة والفروق الدقيقة**
 
 | **Italiano**         | **English**   | **العربية** | **Esempio**                                                       |
 |----------------------|---------------|------------------------------------|-------------------------------------------------------------------|
@@ -171,7 +173,7 @@ tags: [b1, vocabulary]
 | **fondamentalmente** | fundamentally | في جوهره    | *Fondamentalmente, è così.* / Fundamentally, it is so.            |
 | **praticamente**     | practically   | عملياً       | *Praticamente, è lo stesso.* / Practically, it is the same.       |
 
-**10. Abstract Actions & Processes**
+**10. Abstract Actions & Processes** · **١٠. أفعال وعمليات مجرّدة**
 
 | **Italiano**    | **English**  | **العربية** | **Esempio**                                                      |
 |-----------------|--------------|------------------------------------|------------------------------------------------------------------|

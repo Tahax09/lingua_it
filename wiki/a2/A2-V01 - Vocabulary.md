@@ -17,10 +17,14 @@ tags: [a2, vocabulary]
 
 All 151 words from your A2 vocabulary pack, grouped by topic. Each entry has the English meaning, the Arabic, and your original example sentence with its translation. Cover the right-hand columns and test yourself.
 
+🇸🇦 كل كلمات مفردات A2 (١٥١ كلمة) مجمّعة حسب الموضوع. لكل مدخل المعنى الإنجليزي والعربي والجملة المثال مع ترجمتها. غطِّ الأعمدة اليمنى واختبر نفسك.
+
 ## Time expressions — past (tempi del passato)
 <!-- src: A2 Part 9 · 9.1 -->
 
 *Clue words that tell you to use Passato Prossimo (a finished moment) — see also the clue-word table in Part [[A2-G11 - Tense Clue Words & Time Structures]].*
+
+🇸🇦 *كلمات دلالة تخبرك باستعمال الماضي القريب (لحظة منتهية) — انظر أيضاً جدول كلمات الدلالة.*
 
 | **Italiano**            | **English**          | **العربية**     | **Esempio**                                                                 |
 |-------------------------|----------------------|----------------------------------------|-----------------------------------------------------------------------------|
@@ -45,6 +49,8 @@ All 151 words from your A2 vocabulary pack, grouped by topic. Each entry has the
 
 *Clue words for Futuro Semplice, or Presente used for a planned future (Domani vado al cinema).*
 
+🇸🇦 *كلمات دلالة للمستقبل البسيط، أو للمضارع المستعمل لمستقبل مخطّط (Domani vado al cinema = غداً أذهب إلى السينما).*
+
 | **Italiano**              | **English**        | **العربية**    | **Esempio**                                                                     |
 |---------------------------|--------------------|---------------------------------------|---------------------------------------------------------------------------------|
 | **domani**                | tomorrow           | غداً            | *Domani vado al cinema.* / Tomorrow I'm going to the cinema.                    |
@@ -63,6 +69,8 @@ All 151 words from your A2 vocabulary pack, grouped by topic. Each entry has the
 <!-- src: A2 Part 9 · 9.3 -->
 
 *Use with È stato/a (whole event, finished) or era (description of how it was).*
+
+🇸🇦 *استعملها مع È stato/a (الحدث كاملاً، منتهٍ) أو era (وصف كيف كان).*
 
 | **Italiano**        | **English**   | **العربية**               | **Esempio**                                                                    |
 |---------------------|---------------|--------------------------------------------------|--------------------------------------------------------------------------------|
@@ -89,6 +97,8 @@ All 151 words from your A2 vocabulary pack, grouped by topic. Each entry has the
 
 *Remember: penso che / credo che take the congiuntivo (Part [[B1-R03 - CEFR Can-Do — B1 (A2 → B1 Bridge)]]). Secondo me / per me do not.*
 
+🇸🇦 *تذكّر: penso che / credo che تأخذ الكونجونتيفو. أما Secondo me / per me (في رأيي) فلا.*
+
 | **Italiano**           | **English**       | **العربية**           | **Esempio**                                                       |
 |------------------------|-------------------|----------------------------------------------|-------------------------------------------------------------------|
 | **secondo me**         | in my opinion     | في رأيي               | *Secondo me, hai ragione.* / In my opinion, you are right.        |
@@ -109,6 +119,8 @@ All 151 words from your A2 vocabulary pack, grouped by topic. Each entry has the
 
 *Grammar for these is in [[A2-G10 - Comparatives & Superlatives]]: più … di, meno … di, tanto … quanto.*
 
+🇸🇦 *قواعد هذه في صفحة المقارنة: più … di، meno … di، tanto … quanto.*
+
 | **Italiano**        | **English**  | **العربية**  | **Esempio**                                                                |
 |---------------------|--------------|-------------------------------------|----------------------------------------------------------------------------|
 | **più... di**       | more... than | أكثر ... من  | *Roma è più grande di Milano.* / Rome is larger than Milan.                |
@@ -127,6 +139,8 @@ All 151 words from your A2 vocabulary pack, grouped by topic. Each entry has the
 <!-- src: A2 Part 9 · 9.6 -->
 
 *Great for the 'describe your city' speaking prompts ([[A2-S01 - Speaking Practice — Days 22–42]], Days 30 and 39).*
+
+🇸🇦 *ممتازة لمواضيع «صِف مدينتك» في تمارين المحادثة (اليومان ٣٠ و٣٩).*
 
 | **Italiano**       | **English**     | **العربية**     | **Esempio**                                                           |
 |--------------------|-----------------|----------------------------------------|-----------------------------------------------------------------------|
@@ -154,6 +168,8 @@ All 151 words from your A2 vocabulary pack, grouped by topic. Each entry has the
 
 *Adjectives agree with the speaker: sono stanco (m) / sono stanca (f).*
 
+🇸🇦 *الصفات تطابق المتكلم: sono stanco (مذكر) / sono stanca (مؤنث).*
+
 | **Italiano**      | **English**  | **العربية**       | **Esempio**                                                             |
 |-------------------|--------------|------------------------------------------|-------------------------------------------------------------------------|
 | **felice**        | happy        | سعيد              | *Sono molto felice.* / I am very happy.                                 |
@@ -180,6 +196,8 @@ All 151 words from your A2 vocabulary pack, grouped by topic. Each entry has the
 
 *Infinitives work as nouns here: Leggere è il mio hobby.*
 
+🇸🇦 *المصادر تعمل هنا كأسماء: Leggere è il mio hobby (القراءة هوايتي).*
+
 | **Italiano**         | **English**          | **العربية**           | **Esempio**                                                                |
 |----------------------|----------------------|----------------------------------------------|----------------------------------------------------------------------------|
 | **hobby**            | hobby                | هواية                 | *Il mio hobby è la fotografia.* / My hobby is photography.                 |
@@ -201,6 +219,8 @@ All 151 words from your A2 vocabulary pack, grouped by topic. Each entry has the
 <!-- src: A2 Part 9 · 9.9 -->
 
 *Note: collega → colleghi (plural). Studiare = to study.*
+
+🇸🇦 *ملاحظة: collega ← colleghi (جمع). Studiare = يدرس.*
 
 | **Italiano**   | **English**         | **العربية**  | **Esempio**                                                      |
 |----------------|---------------------|-------------------------------------|------------------------------------------------------------------|
@@ -227,6 +247,8 @@ All 151 words from your A2 vocabulary pack, grouped by topic. Each entry has the
 <!-- src: A2 Part 9 · 9.10 -->
 
 *Useful for stations, tickets and airport situations.*
+
+🇸🇦 *مفيدة في المحطات والتذاكر والمطار.*
 
 | **Italiano**         | **English** | **العربية** | **Esempio**                                                           |
 |----------------------|-------------|------------------------------------|-----------------------------------------------------------------------|
