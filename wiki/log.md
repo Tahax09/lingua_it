@@ -40,3 +40,9 @@ New page wiki/lessons.md lists all 50 lessons (33 🇸🇦 + 17 🇬🇧🇸🇦
 ## [2026-10-11] privacy | Personal details removed from lessons and sources
 
 Replaced the learner's name with "Ahmed" in example sentences, and swapped real cities and nationality for generic ones. Exam-specific references (date, "the paper you sent", "finishing tomorrow") now read as generic A2-exam material. Personal job and study details in model answers (degree, company, schedule) were rewritten as a neutral persona. raw/sources/ was edited for the same reason, and only for this. Git author metadata is unchanged, as the learner asked.
+
+## [2026-10-13] translate | Full Arabic pass across the wiki
+
+Arabic was added to every remaining content line: sentence banks (A1/B1/B2, ~800 sentences), all 83 speaking days, all dialogue pages, revision sheets, CEFR pages, answer-key rules, every grammar page's reference section, and the correction notes. Tables got an العربية column, and paragraphs, bullets and examples got a 🇸🇦 line underneath. Conjugation rows carry the Arabic conjugation (أعمل · تعمل · يعمل…). The only lines without Arabic are pure Italian conjugation tables inside the Arabic lessons and the English quick boxes, which each sit next to their Arabic twin.
+
+Source errors flagged in Arabic along the way: B2 sentence bank English column shifted one row (rows 37–42); subjunctive misused after dopo che / non appena / finché; "gli begli amici" → "i begli amici"; mixed tu/Lei in the A1 directions dialogue. The English column of the B2 job-interview and job-application models still mentioned engineering/software and was fixed.
