@@ -14,6 +14,7 @@ linuga_it/
 │       └── Italian_Master_A1-B2.md   ← same content as the 4 level files merged (newer numbering); used as the split source
 └── wiki/                         ← LLM-maintained knowledge base
     ├── index.md                  ← full catalog of all wiki pages
+    ├── lessons.md                ← all lessons (🇸🇦 Arabic + 🇬🇧🇸🇦 bilingual) by level, in study order
     ├── log.md                    ← append-only activity log
     ├── overview.md               ← learner status, roadmap, weak areas
     ├── a1/  a2/  b1/  b2/        ← topic pages, one folder per CEFR level — never mix levels
@@ -79,8 +80,7 @@ Ask anything. The LLM reads `index.md` first, then the relevant pages. A good sy
 Say: `lint the wiki`. The LLM checks for misplaced-level content, broken `[[links]]`, grammar pages missing the EN/AR boxes, stale weak areas and duplicate topics across levels, then suggests what to review next.
 
 ## Learner Profile
-**Name:** Taha
-- **Current level:** A2. Sat the A2 exam on 12 June 2026 (L'Aquila). Now moving toward B1.
+- **Current level:** A2 (exam taken June 2026). Now moving toward B1.
 - **Native language:** Arabic. Strong English.
 - **Lives and works in Italy.** Real-world, workplace and bureaucracy examples are relevant.
 - **Known gap:** forgets A1 basics at times (articles, prepositions, irregular presents). Mix quick A1 recall into A2/B1 work.
